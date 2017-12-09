@@ -1,0 +1,2115 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "b8d6-zthg",
+      "name" : "2014 Housing Inventory",
+      "attribution" : "SF Planning",
+      "attributionLink" : "http://sf-planning.org/index.aspx?page=1663",
+      "averageRating" : 0,
+      "category" : "Housing and Buildings",
+      "createdAt" : 1469814590,
+      "description" : "This report is the 45th in the series and describes San Francisco�۪s housing supply. Housing Inventory data accounts for new housing construction, demolitions, and alterations in a consistent format for analysis of housing production trends. Net housing unit gains are reported citywide, by zoning classification, and by planning district. Other areas covered include affordable housing production, condominium conversions, and changes to the residential hotel stock. In addition, lists of major housing projects completed and approved for construction in 2014 are provided. A list of affordable housing projects in the pipeline (projects in various stages of review or pre-construction planning) is included to provide a picture of likely housing construction activity in the near future.\r\nExternal Link",
+      "displayType" : "table",
+      "downloadCount" : 235,
+      "hideFromCatalog" : false,
+      "hideFromDataJson" : false,
+      "indexUpdatedAt" : 1471901163,
+      "licenseId" : "PDDL",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 22748230,
+      "provenance" : "official",
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1469814801,
+      "publicationGroup" : 12203127,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1469814610,
+      "rowsUpdatedBy" : "dbag-6qd9",
+      "tableId" : 12203127,
+      "totalTimesRated" : 0,
+      "viewCount" : 180,
+      "viewLastModified" : 1471901171,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : 265000980,
+        "name" : "APPL_NO",
+        "dataTypeName" : "number",
+        "fieldName" : "appl_no",
+        "position" : 2,
+        "renderTypeName" : "number",
+        "tableColumnId" : 37573029,
+        "width" : 184,
+        "cachedContents" : {
+          "largest" : "201411141561",
+          "non_null" : 222,
+          "average" : "200246018285.2613",
+          "null" : 7,
+          "top" : [ {
+            "item" : "201405095405",
+            "count" : 20
+          }, {
+            "item" : "201207245587",
+            "count" : 19
+          }, {
+            "item" : "201204057595",
+            "count" : 18
+          }, {
+            "item" : "201208036517",
+            "count" : 17
+          }, {
+            "item" : "201406300058",
+            "count" : 16
+          }, {
+            "item" : "201403261781",
+            "count" : 15
+          }, {
+            "item" : "201206152694",
+            "count" : 14
+          }, {
+            "item" : "201401287218",
+            "count" : 13
+          }, {
+            "item" : "9410161",
+            "count" : 12
+          }, {
+            "item" : "201304245354",
+            "count" : 11
+          }, {
+            "item" : "201303222853",
+            "count" : 10
+          }, {
+            "item" : "201303222861",
+            "count" : 9
+          }, {
+            "item" : "201303222859",
+            "count" : 8
+          }, {
+            "item" : "201208298537",
+            "count" : 7
+          }, {
+            "item" : "201404254194",
+            "count" : 6
+          }, {
+            "item" : "201405014671",
+            "count" : 5
+          }, {
+            "item" : "201408053099",
+            "count" : 4
+          } ],
+          "smallest" : "9410161",
+          "sum" : "44454616059328"
+        },
+        "format" : { }
+      }, {
+        "id" : 265000981,
+        "name" : "APP_ID",
+        "dataTypeName" : "number",
+        "fieldName" : "app_id",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 37573030,
+        "width" : 172,
+        "cachedContents" : {
+          "largest" : "862658",
+          "non_null" : 220,
+          "average" : "758438.3636363636",
+          "null" : 9,
+          "top" : [ {
+            "item" : "773527",
+            "count" : 20
+          }, {
+            "item" : "784176",
+            "count" : 19
+          }, {
+            "item" : "838715",
+            "count" : 18
+          }, {
+            "item" : "779619",
+            "count" : 17
+          }, {
+            "item" : "833279",
+            "count" : 16
+          }, {
+            "item" : "235343",
+            "count" : 15
+          }, {
+            "item" : "806884",
+            "count" : 14
+          }, {
+            "item" : "803909",
+            "count" : 13
+          }, {
+            "item" : "803918",
+            "count" : 12
+          }, {
+            "item" : "803915",
+            "count" : 11
+          }, {
+            "item" : "786598",
+            "count" : 10
+          }, {
+            "item" : "841594",
+            "count" : 9
+          }, {
+            "item" : "842157",
+            "count" : 8
+          }, {
+            "item" : "210537",
+            "count" : 7
+          }, {
+            "item" : "852246",
+            "count" : 6
+          } ],
+          "smallest" : "210537",
+          "sum" : "166856440"
+        },
+        "format" : { }
+      }, {
+        "id" : 265000982,
+        "name" : "FORM",
+        "dataTypeName" : "number",
+        "fieldName" : "form",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 37573031,
+        "width" : 148,
+        "cachedContents" : {
+          "largest" : "8",
+          "non_null" : 229,
+          "average" : "3.960698689956332",
+          "null" : 0,
+          "top" : [ {
+            "item" : "8",
+            "count" : 20
+          }, {
+            "item" : "3",
+            "count" : 19
+          }, {
+            "item" : "1",
+            "count" : 18
+          }, {
+            "item" : "6",
+            "count" : 17
+          }, {
+            "item" : "2",
+            "count" : 16
+          } ],
+          "smallest" : "1",
+          "sum" : "907"
+        },
+        "format" : { }
+      }, {
+        "id" : 265000983,
+        "name" : "ST_NUM",
+        "dataTypeName" : "number",
+        "fieldName" : "st_num",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 37573032,
+        "width" : 172,
+        "cachedContents" : {
+          "largest" : "5250",
+          "non_null" : 229,
+          "average" : "1144.510917030568",
+          "null" : 0,
+          "top" : [ {
+            "item" : "52",
+            "count" : 20
+          }, {
+            "item" : "530",
+            "count" : 19
+          }, {
+            "item" : "80",
+            "count" : 18
+          }, {
+            "item" : "807",
+            "count" : 17
+          }, {
+            "item" : "814",
+            "count" : 16
+          }, {
+            "item" : "827",
+            "count" : 15
+          }, {
+            "item" : "833",
+            "count" : 14
+          }, {
+            "item" : "837",
+            "count" : 13
+          }, {
+            "item" : "843",
+            "count" : 12
+          }, {
+            "item" : "850",
+            "count" : 11
+          }, {
+            "item" : "851",
+            "count" : 10
+          }, {
+            "item" : "853",
+            "count" : 9
+          }, {
+            "item" : "869",
+            "count" : 8
+          }, {
+            "item" : "871",
+            "count" : 7
+          }, {
+            "item" : "875",
+            "count" : 6
+          }, {
+            "item" : "881",
+            "count" : 5
+          }, {
+            "item" : "900",
+            "count" : 4
+          }, {
+            "item" : "946",
+            "count" : 3
+          }, {
+            "item" : "973",
+            "count" : 2
+          } ],
+          "smallest" : "2",
+          "sum" : "262093"
+        },
+        "format" : { }
+      }, {
+        "id" : 265000984,
+        "name" : "ST_NAME",
+        "dataTypeName" : "text",
+        "fieldName" : "st_name",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 37573033,
+        "width" : 184,
+        "cachedContents" : {
+          "largest" : "YUKON",
+          "non_null" : 229,
+          "null" : 0,
+          "top" : [ {
+            "item" : "MIDDLE POINT",
+            "count" : 20
+          }, {
+            "item" : "WEST POINT",
+            "count" : 19
+          }, {
+            "item" : "MARKET",
+            "count" : 18
+          }, {
+            "item" : "DIAMOND",
+            "count" : 17
+          }, {
+            "item" : "MISSION",
+            "count" : 16
+          }, {
+            "item" : "03RD",
+            "count" : 15
+          }, {
+            "item" : "31ST",
+            "count" : 14
+          }, {
+            "item" : "HOFFMAN",
+            "count" : 13
+          }, {
+            "item" : "SUMMIT",
+            "count" : 12
+          }, {
+            "item" : "SANCHEZ",
+            "count" : 11
+          }, {
+            "item" : "29TH",
+            "count" : 10
+          }, {
+            "item" : "PERALTA",
+            "count" : 9
+          }, {
+            "item" : "BRODERICK",
+            "count" : 8
+          }, {
+            "item" : "UNION",
+            "count" : 7
+          }, {
+            "item" : "NATOMA",
+            "count" : 6
+          }, {
+            "item" : "27TH",
+            "count" : 5
+          }, {
+            "item" : "HAYES",
+            "count" : 4
+          }, {
+            "item" : "LONG BRIDGE",
+            "count" : 3
+          }, {
+            "item" : "COLE",
+            "count" : 2
+          }, {
+            "item" : "GOLD MINE",
+            "count" : 1
+          } ],
+          "smallest" : "02ND"
+        },
+        "format" : { }
+      }, {
+        "id" : 265000985,
+        "name" : "ST_TYPE",
+        "dataTypeName" : "text",
+        "fieldName" : "st_type",
+        "position" : 7,
+        "renderTypeName" : "text",
+        "tableColumnId" : 37573034,
+        "width" : 184,
+        "cachedContents" : {
+          "largest" : "WY",
+          "non_null" : 228,
+          "null" : 1,
+          "top" : [ {
+            "item" : "ST",
+            "count" : 20
+          }, {
+            "item" : "AV",
+            "count" : 19
+          }, {
+            "item" : "RD",
+            "count" : 18
+          }, {
+            "item" : "DR",
+            "count" : 17
+          }, {
+            "item" : "PK",
+            "count" : 16
+          }, {
+            "item" : "WY",
+            "count" : 15
+          }, {
+            "item" : "TR",
+            "count" : 14
+          } ],
+          "smallest" : "AV"
+        },
+        "format" : { }
+      }, {
+        "id" : 265000986,
+        "name" : "PRJ_NAME",
+        "dataTypeName" : "text",
+        "fieldName" : "prj_name",
+        "position" : 8,
+        "renderTypeName" : "text",
+        "tableColumnId" : 37573035,
+        "width" : 196,
+        "cachedContents" : {
+          "largest" : "The Wilson",
+          "non_null" : 24,
+          "null" : 205,
+          "top" : [ {
+            "item" : "Blanc",
+            "count" : 20
+          }, {
+            "item" : "Millwheel North",
+            "count" : 19
+          }, {
+            "item" : "NEMA Phase II",
+            "count" : 18
+          }, {
+            "item" : "Fifteen Fifteen",
+            "count" : 17
+          }, {
+            "item" : "Onyx",
+            "count" : 16
+          }, {
+            "item" : "Marlowe",
+            "count" : 15
+          }, {
+            "item" : "The Garage",
+            "count" : 14
+          }, {
+            "item" : "Linea",
+            "count" : 13
+          }, {
+            "item" : "Gantry",
+            "count" : 12
+          }, {
+            "item" : "The Century",
+            "count" : 11
+          }, {
+            "item" : "Mosso",
+            "count" : 10
+          }, {
+            "item" : "1 Rincon Hill Phase II",
+            "count" : 9
+          }, {
+            "item" : "AVA 55 9th",
+            "count" : 8
+          }, {
+            "item" : "8 Octavia",
+            "count" : 7
+          }, {
+            "item" : "Candlestick Heights",
+            "count" : 6
+          }, {
+            "item" : "The Wilson",
+            "count" : 5
+          } ],
+          "smallest" : "1 Rincon Hill Phase II"
+        },
+        "format" : { }
+      }, {
+        "id" : 265000987,
+        "name" : "STDADD",
+        "dataTypeName" : "text",
+        "fieldName" : "stdadd",
+        "position" : 9,
+        "renderTypeName" : "text",
+        "tableColumnId" : 37573036,
+        "width" : 172,
+        "cachedContents" : {
+          "largest" : "973 MARKET ST",
+          "non_null" : 229,
+          "null" : 0,
+          "top" : [ {
+            "item" : "530 SANCHEZ ST",
+            "count" : 20
+          }, {
+            "item" : "758 SPRUCE ST",
+            "count" : 19
+          }, {
+            "item" : "764 17TH AV",
+            "count" : 18
+          }, {
+            "item" : "8 OCTAVIA ST",
+            "count" : 17
+          }, {
+            "item" : "80 MISSOURI ST",
+            "count" : 16
+          }, {
+            "item" : "80 SYCAMORE ST",
+            "count" : 15
+          }, {
+            "item" : "807 LYON ST",
+            "count" : 14
+          }, {
+            "item" : "807 ROLPH ST",
+            "count" : 13
+          }, {
+            "item" : "814 HAYES ST",
+            "count" : 12
+          }, {
+            "item" : "827 NORTH POINT ST",
+            "count" : 11
+          }, {
+            "item" : "833 JAMESTOWN AV",
+            "count" : 10
+          }, {
+            "item" : "837 JAMESTOWN AV",
+            "count" : 9
+          }, {
+            "item" : "843 JAMESTOWN AV",
+            "count" : 8
+          }, {
+            "item" : "850 BRUNSWICK ST",
+            "count" : 7
+          }, {
+            "item" : "851 JAMESTOWN AV",
+            "count" : 6
+          }, {
+            "item" : "853 JAMESTOWN AV",
+            "count" : 5
+          }, {
+            "item" : "869 JAMESTOWN AV",
+            "count" : 4
+          }, {
+            "item" : "871 JAMESTOWN AV",
+            "count" : 3
+          }, {
+            "item" : "875 POST ST",
+            "count" : 2
+          }, {
+            "item" : "881 JAMESTOWN AV",
+            "count" : 1
+          } ],
+          "smallest" : "1000 MASON ST"
+        },
+        "format" : { }
+      }, {
+        "id" : 265000988,
+        "name" : "BLOCK",
+        "dataTypeName" : "number",
+        "fieldName" : "block",
+        "position" : 10,
+        "renderTypeName" : "number",
+        "tableColumnId" : 37573037,
+        "width" : 160,
+        "cachedContents" : {
+          "largest" : "8711",
+          "non_null" : 223,
+          "average" : "3746.219730941704",
+          "null" : 6,
+          "top" : [ {
+            "item" : "4624",
+            "count" : 20
+          }, {
+            "item" : "7535",
+            "count" : 19
+          }, {
+            "item" : "1463",
+            "count" : 18
+          }, {
+            "item" : "7331",
+            "count" : 17
+          }, {
+            "item" : "5411",
+            "count" : 16
+          }, {
+            "item" : "3584",
+            "count" : 15
+          }, {
+            "item" : "5512",
+            "count" : 14
+          }, {
+            "item" : "3727",
+            "count" : 13
+          }, {
+            "item" : "1569",
+            "count" : 12
+          }, {
+            "item" : "806",
+            "count" : 11
+          }, {
+            "item" : "8711",
+            "count" : 10
+          }, {
+            "item" : "1252",
+            "count" : 9
+          }, {
+            "item" : "7520",
+            "count" : 8
+          }, {
+            "item" : "4079",
+            "count" : 7
+          }, {
+            "item" : "1615",
+            "count" : 6
+          }, {
+            "item" : "1253",
+            "count" : 5
+          }, {
+            "item" : "27",
+            "count" : 4
+          }, {
+            "item" : "3749",
+            "count" : 3
+          }, {
+            "item" : "1088",
+            "count" : 2
+          }, {
+            "item" : "1659",
+            "count" : 1
+          } ],
+          "smallest" : "26",
+          "sum" : "835407"
+        },
+        "format" : { }
+      }, {
+        "id" : 265000989,
+        "name" : "LOT",
+        "dataTypeName" : "number",
+        "fieldName" : "lot",
+        "position" : 11,
+        "renderTypeName" : "number",
+        "tableColumnId" : 37573038,
+        "width" : 136,
+        "cachedContents" : {
+          "largest" : "424",
+          "non_null" : 217,
+          "average" : "40.06451612903226",
+          "null" : 12,
+          "top" : [ {
+            "item" : "8",
+            "count" : 20
+          }, {
+            "item" : "1",
+            "count" : 19
+          }, {
+            "item" : "10",
+            "count" : 18
+          }, {
+            "item" : "21",
+            "count" : 17
+          }, {
+            "item" : "31",
+            "count" : 16
+          }, {
+            "item" : "9",
+            "count" : 15
+          }, {
+            "item" : "2",
+            "count" : 14
+          }, {
+            "item" : "102",
+            "count" : 13
+          }, {
+            "item" : "23",
+            "count" : 12
+          }, {
+            "item" : "5",
+            "count" : 11
+          }, {
+            "item" : "11",
+            "count" : 10
+          }, {
+            "item" : "22",
+            "count" : 9
+          }, {
+            "item" : "29",
+            "count" : 8
+          }, {
+            "item" : "37",
+            "count" : 7
+          }, {
+            "item" : "45",
+            "count" : 6
+          }, {
+            "item" : "19",
+            "count" : 5
+          }, {
+            "item" : "20",
+            "count" : 4
+          }, {
+            "item" : "35",
+            "count" : 3
+          }, {
+            "item" : "30",
+            "count" : 2
+          }, {
+            "item" : "3",
+            "count" : 1
+          } ],
+          "smallest" : "1",
+          "sum" : "8694"
+        },
+        "format" : { }
+      }, {
+        "id" : 265000990,
+        "name" : "UNITS",
+        "dataTypeName" : "number",
+        "fieldName" : "units",
+        "position" : 12,
+        "renderTypeName" : "number",
+        "tableColumnId" : 37573039,
+        "width" : 160,
+        "cachedContents" : {
+          "largest" : "754",
+          "non_null" : 229,
+          "average" : "23.35371179039301",
+          "null" : 0,
+          "top" : [ {
+            "item" : "7",
+            "count" : 20
+          }, {
+            "item" : "1",
+            "count" : 19
+          }, {
+            "item" : "2",
+            "count" : 18
+          }, {
+            "item" : "-4",
+            "count" : 17
+          }, {
+            "item" : "-6",
+            "count" : 16
+          }, {
+            "item" : "24",
+            "count" : 15
+          }, {
+            "item" : "5",
+            "count" : 14
+          }, {
+            "item" : "3",
+            "count" : 13
+          }, {
+            "item" : "15",
+            "count" : 12
+          }, {
+            "item" : "-2",
+            "count" : 11
+          }, {
+            "item" : "0",
+            "count" : 10
+          }, {
+            "item" : "-1",
+            "count" : 9
+          }, {
+            "item" : "12",
+            "count" : 8
+          }, {
+            "item" : "9",
+            "count" : 7
+          }, {
+            "item" : "82",
+            "count" : 6
+          }, {
+            "item" : "11",
+            "count" : 5
+          }, {
+            "item" : "44",
+            "count" : 4
+          }, {
+            "item" : "312",
+            "count" : 3
+          }, {
+            "item" : "273",
+            "count" : 2
+          }, {
+            "item" : "46",
+            "count" : 1
+          } ],
+          "smallest" : "-21",
+          "sum" : "5348"
+        },
+        "format" : { }
+      }, {
+        "id" : 265000991,
+        "name" : "NETUNITS",
+        "dataTypeName" : "number",
+        "fieldName" : "netunits",
+        "position" : 13,
+        "renderTypeName" : "number",
+        "tableColumnId" : 37573040,
+        "width" : 196,
+        "cachedContents" : {
+          "largest" : "437",
+          "non_null" : 229,
+          "average" : "15.34497816593886",
+          "null" : 0,
+          "top" : [ {
+            "item" : "3",
+            "count" : 20
+          }, {
+            "item" : "1",
+            "count" : 19
+          }, {
+            "item" : "2",
+            "count" : 18
+          }, {
+            "item" : "-1",
+            "count" : 17
+          }, {
+            "item" : "-4",
+            "count" : 16
+          }, {
+            "item" : "-6",
+            "count" : 15
+          }, {
+            "item" : "15",
+            "count" : 14
+          }, {
+            "item" : "-2",
+            "count" : 13
+          }, {
+            "item" : "7",
+            "count" : 12
+          }, {
+            "item" : "12",
+            "count" : 11
+          }, {
+            "item" : "10",
+            "count" : 10
+          }, {
+            "item" : "18",
+            "count" : 9
+          }, {
+            "item" : "36",
+            "count" : 8
+          }, {
+            "item" : "8",
+            "count" : 7
+          }, {
+            "item" : "4",
+            "count" : 6
+          }, {
+            "item" : "282",
+            "count" : 5
+          }, {
+            "item" : "66",
+            "count" : 4
+          } ],
+          "smallest" : "-21",
+          "sum" : "3514"
+        },
+        "format" : { }
+      }, {
+        "id" : 265000992,
+        "name" : "AFFHSG",
+        "dataTypeName" : "number",
+        "fieldName" : "affhsg",
+        "position" : 14,
+        "renderTypeName" : "number",
+        "tableColumnId" : 37573041,
+        "width" : 172,
+        "cachedContents" : {
+          "largest" : "150",
+          "non_null" : 229,
+          "average" : "3.305676855895197",
+          "null" : 0,
+          "top" : [ {
+            "item" : "0.0",
+            "count" : 20
+          }, {
+            "item" : "2",
+            "count" : 19
+          }, {
+            "item" : "4",
+            "count" : 18
+          }, {
+            "item" : "150",
+            "count" : 17
+          }, {
+            "item" : "90",
+            "count" : 16
+          }, {
+            "item" : "1",
+            "count" : 15
+          }, {
+            "item" : "5",
+            "count" : 14
+          }, {
+            "item" : "52",
+            "count" : 13
+          }, {
+            "item" : "7",
+            "count" : 12
+          }, {
+            "item" : "23",
+            "count" : 11
+          }, {
+            "item" : "15",
+            "count" : 10
+          }, {
+            "item" : "18",
+            "count" : 9
+          }, {
+            "item" : "3",
+            "count" : 8
+          }, {
+            "item" : "27",
+            "count" : 7
+          }, {
+            "item" : "44",
+            "count" : 6
+          }, {
+            "item" : "33",
+            "count" : 5
+          }, {
+            "item" : "12",
+            "count" : 4
+          }, {
+            "item" : "10",
+            "count" : 3
+          }, {
+            "item" : "36",
+            "count" : 2
+          }, {
+            "item" : "8",
+            "count" : 1
+          } ],
+          "smallest" : "0.0",
+          "sum" : "757.0"
+        },
+        "format" : { }
+      }, {
+        "id" : 265000993,
+        "name" : "TARGET",
+        "dataTypeName" : "text",
+        "fieldName" : "target",
+        "position" : 15,
+        "renderTypeName" : "text",
+        "tableColumnId" : 37573042,
+        "width" : 172,
+        "cachedContents" : {
+          "largest" : "VLI",
+          "non_null" : 96,
+          "null" : 133,
+          "top" : [ {
+            "item" : "SEC",
+            "count" : 20
+          }, {
+            "item" : "MOD",
+            "count" : 19
+          }, {
+            "item" : "LI",
+            "count" : 18
+          }, {
+            "item" : "VLI",
+            "count" : 17
+          }, {
+            "item" : "fee",
+            "count" : 16
+          }, {
+            "item" : "in-lieu",
+            "count" : 15
+          }, {
+            "item" : "off-site",
+            "count" : 14
+          }, {
+            "item" : "n/a",
+            "count" : 13
+          } ],
+          "smallest" : "fee"
+        },
+        "format" : { }
+      }, {
+        "id" : 265000994,
+        "name" : "TYPE",
+        "dataTypeName" : "text",
+        "fieldName" : "type",
+        "position" : 16,
+        "renderTypeName" : "text",
+        "tableColumnId" : 37573043,
+        "width" : 148,
+        "cachedContents" : {
+          "largest" : "Senior",
+          "non_null" : 86,
+          "null" : 143,
+          "top" : [ {
+            "item" : "Homeowner",
+            "count" : 20
+          }, {
+            "item" : "Family",
+            "count" : 19
+          }, {
+            "item" : "Senior",
+            "count" : 18
+          }, {
+            "item" : "Individual/SRO",
+            "count" : 17
+          } ],
+          "smallest" : "Family"
+        },
+        "format" : { }
+      }, {
+        "id" : 265000995,
+        "name" : "DESCRIPT",
+        "dataTypeName" : "text",
+        "fieldName" : "descript",
+        "position" : 17,
+        "renderTypeName" : "text",
+        "tableColumnId" : 37573044,
+        "width" : 196,
+        "cachedContents" : {
+          "largest" : "WORK @ UNIT# 1 ONLY. CONVERSION FROM OFFICE USE TO RESIDENTIAL USE @ GROUND FLOOR. (NO WORK).",
+          "non_null" : 223,
+          "null" : 6,
+          "top" : [ {
+            "item" : "DEMOLISH 1 STORY, TYPE 5, SINGLE FAMILY DWELLING UNIT BUILDING.",
+            "count" : 20
+          }, {
+            "item" : "FOR ADMINISTRATIVE PURPOSES ONLY TO DOCUMENT ILLEGAL USE & OCCUPANCY OF BUILDING AS A THREE (3) STORY, TWO (2) UNIT BLDG. DETERMINATION IS BASED ON SITE VISIT & REVIEW OF CITY RECORDS INCLUDING SANBORN MAPS AND ASSESSORS' RECORDS. NO WORK ON THIS PERMIT.",
+            "count" : 19
+          }, {
+            "item" : "COMPLY WITH  N.O.V.#201288233. Legalize 3rd. unit @ ground floor.",
+            "count" : 18
+          }, {
+            "item" : "TO COMPLY W/ NOV#20133451. REPAIR DECK @ REAR SIDE. CONVERT 2ND FL KITCHEN TO FAMILY ROOM. REMOVE ILLEGAL 2 STORAGE ROOM. REMOVE (E) FRONT DOOR GARAGE TO A NEW GARAGE DOOR. INSTALL RAILING FROM 1ST FL TO 2ND FL. MINOR ELECTRICAL WORK.",
+            "count" : 17
+          }, {
+            "item" : "DEMOLISH SINGLE FAMILY DWELLING",
+            "count" : 16
+          }, {
+            "item" : "INSTALL AUTO FIRE SPRINKLER ON ENTIRE BUILDING per NFPA 13 through-out building with 2\" fire service of 8\" main on North Point, REF NEW CONSTRUCTION #2011.11.07.8462 - INCLUDES UNDERGROUND",
+            "count" : 15
+          }, {
+            "item" : "BLDG# 1. (N) OVERHEAD FIRE SPRINKLER TO NFPA 13. (REF APPLN #2001 0323 5127).  EXISTING UNDERGROUND.",
+            "count" : 14
+          }, {
+            "item" : "BLDG# 8. (N) OVERHEAD FIRE SPRINKLERS AND STANDPIPES PER NFPA 13. (REF APPLN #2001 0323 5131).  EXISTING UNDERGROUND.",
+            "count" : 13
+          }, {
+            "item" : "BLDG# 2. (N) FIRE SPRINKLER SYSTEM INSTALLATION. TO CONNECT TO EXISTING UNDERGROUND. (REF. ARCH. APP # 99240755.",
+            "count" : 12
+          }, {
+            "item" : "ERECT 2-STORY TYPE V SINGLE FAMILY DWELLING BUILDING",
+            "count" : 11
+          }, {
+            "item" : "FIRE ALARM SYSTEM T. I. ADDING TO EXTG FIRE ALARM. REF APP#201310310811. N/A FOR THE MAHER ORDINANCE #155-13",
+            "count" : 10
+          }, {
+            "item" : "EVACUATION MAPS FOR WHOLE BLDG. ON ALL FLOORS- 67 MAPS. COMPLIANCE WITH ORDINANCE #155-13 NOT REQUIRED- CONSTRUCTION UNDER 201106017208.",
+            "count" : 9
+          }, {
+            "item" : "VERTICAL ADDITION.",
+            "count" : 8
+          }, {
+            "item" : "TO OBTAIN FINAL INSPECTION FOR WORK APPROVED UNDER PA# 200509082313.  ALL WORK IS COMPLETE.",
+            "count" : 7
+          } ],
+          "smallest" : "#1418: CONVERT EXTG STUDIO UNIT TO 2 STUDIO UNITS. N/A FOR THE MAHER ORDINANCE #155-13"
+        },
+        "format" : { }
+      }, {
+        "id" : 265000996,
+        "name" : "EXISTUSE",
+        "dataTypeName" : "text",
+        "fieldName" : "existuse",
+        "position" : 18,
+        "renderTypeName" : "text",
+        "tableColumnId" : 37573045,
+        "width" : 196,
+        "cachedContents" : {
+          "largest" : "WAREHOUSE,NO FRNITUR",
+          "non_null" : 149,
+          "null" : 80,
+          "top" : [ {
+            "item" : "APARTMENTS",
+            "count" : 20
+          }, {
+            "item" : "1 FAMILY DWELLING",
+            "count" : 19
+          }, {
+            "item" : "2 FAMILY DWELLING",
+            "count" : 18
+          }, {
+            "item" : "RESIDENTIAL HOTEL",
+            "count" : 17
+          }, {
+            "item" : "FOOD/BEVERAGE HNDLNG",
+            "count" : 16
+          }, {
+            "item" : "VACANT LOT",
+            "count" : 15
+          }, {
+            "item" : "PRKNG GARAGE/PUBLIC",
+            "count" : 14
+          }, {
+            "item" : "STORAGE SHED",
+            "count" : 13
+          }, {
+            "item" : "AUTO REPAIRS",
+            "count" : 12
+          }, {
+            "item" : "TOURIST HOTEL/MOTEL",
+            "count" : 11
+          }, {
+            "item" : "OFFICE",
+            "count" : 10
+          }, {
+            "item" : "CHURCH",
+            "count" : 9
+          }, {
+            "item" : "ARTIST LIVE/WORK",
+            "count" : 8
+          }, {
+            "item" : "WAREHOUSE,NO FRNITUR",
+            "count" : 7
+          } ],
+          "smallest" : "1 FAMILY DWELLING"
+        },
+        "format" : { }
+      }, {
+        "id" : 265000997,
+        "name" : "PROPUSE",
+        "dataTypeName" : "text",
+        "fieldName" : "propuse",
+        "position" : 19,
+        "renderTypeName" : "text",
+        "tableColumnId" : 37573046,
+        "width" : 184,
+        "cachedContents" : {
+          "largest" : "RESIDENTIAL HOTEL",
+          "non_null" : 196,
+          "null" : 33,
+          "top" : [ {
+            "item" : "APARTMENTS",
+            "count" : 20
+          }, {
+            "item" : "1 FAMILY DWELLING",
+            "count" : 19
+          }, {
+            "item" : "2 FAMILY DWELLING",
+            "count" : 18
+          }, {
+            "item" : "RESIDENTIAL HOTEL",
+            "count" : 17
+          }, {
+            "item" : "ARTIST LIVE/WORK",
+            "count" : 16
+          } ],
+          "smallest" : "1 FAMILY DWELLING"
+        },
+        "format" : { }
+      }, {
+        "id" : 265000998,
+        "name" : "ACTION",
+        "dataTypeName" : "text",
+        "fieldName" : "action",
+        "position" : 20,
+        "renderTypeName" : "text",
+        "tableColumnId" : 37573047,
+        "width" : 172,
+        "cachedContents" : {
+          "largest" : "TCO ISSUED",
+          "non_null" : 229,
+          "null" : 0,
+          "top" : [ {
+            "item" : "COMPLETE",
+            "count" : 20
+          }, {
+            "item" : "CFC ISSUED",
+            "count" : 19
+          }, {
+            "item" : "TCO ISSUED",
+            "count" : 18
+          }, {
+            "item" : "PRE-FINAL",
+            "count" : 17
+          }, {
+            "item" : "FINAL INSPECT/APPRVD",
+            "count" : 16
+          } ],
+          "smallest" : "CFC ISSUED"
+        },
+        "format" : { }
+      }, {
+        "id" : 265000999,
+        "name" : "ACTDATE",
+        "dataTypeName" : "text",
+        "fieldName" : "actdate",
+        "position" : 21,
+        "renderTypeName" : "text",
+        "tableColumnId" : 37573048,
+        "width" : 184,
+        "cachedContents" : {
+          "largest" : "31-Oct-14",
+          "non_null" : 229,
+          "null" : 0,
+          "top" : [ {
+            "item" : "30-Apr-14",
+            "count" : 20
+          }, {
+            "item" : "12-Nov-14",
+            "count" : 19
+          }, {
+            "item" : "19-Dec-14",
+            "count" : 18
+          }, {
+            "item" : "02-Apr-14",
+            "count" : 17
+          }, {
+            "item" : "23-Jun-14",
+            "count" : 16
+          }, {
+            "item" : "12-Sep-14",
+            "count" : 15
+          }, {
+            "item" : "03-Mar-14",
+            "count" : 14
+          }, {
+            "item" : "14-Oct-14",
+            "count" : 13
+          }, {
+            "item" : "09-Jun-14",
+            "count" : 12
+          }, {
+            "item" : "10-Jul-14",
+            "count" : 11
+          }, {
+            "item" : "23-Sep-14",
+            "count" : 10
+          }, {
+            "item" : "21-Jul-14",
+            "count" : 9
+          }, {
+            "item" : "29-Jan-14",
+            "count" : 8
+          }, {
+            "item" : "13-Feb-14",
+            "count" : 7
+          }, {
+            "item" : "20-Feb-14",
+            "count" : 6
+          }, {
+            "item" : "10-Dec-14",
+            "count" : 5
+          }, {
+            "item" : "24-Oct-14",
+            "count" : 4
+          }, {
+            "item" : "27-Jan-14",
+            "count" : 3
+          }, {
+            "item" : "17-Dec-14",
+            "count" : 2
+          }, {
+            "item" : "29-Oct-14",
+            "count" : 1
+          } ],
+          "smallest" : "01-May-14"
+        },
+        "format" : { }
+      }, {
+        "id" : 265001000,
+        "name" : "STAFF",
+        "dataTypeName" : "text",
+        "fieldName" : "staff",
+        "position" : 22,
+        "renderTypeName" : "text",
+        "tableColumnId" : 37573049,
+        "width" : 160,
+        "cachedContents" : {
+          "largest" : "YUJOSEPH",
+          "non_null" : 172,
+          "null" : 57,
+          "top" : [ {
+            "item" : "RSUCRE",
+            "count" : 20
+          }, {
+            "item" : "MCORRETT",
+            "count" : 19
+          }, {
+            "item" : "AHOLLIST",
+            "count" : 18
+          }, {
+            "item" : "MSNYDER",
+            "count" : 17
+          }, {
+            "item" : "PARCE",
+            "count" : 16
+          }, {
+            "item" : "RCRAWFOR",
+            "count" : 15
+          }, {
+            "item" : "BFU",
+            "count" : 14
+          }, {
+            "item" : "CLAMOREN",
+            "count" : 13
+          }, {
+            "item" : "JIONIN",
+            "count" : 12
+          }, {
+            "item" : "KBRUSATO",
+            "count" : 11
+          }, {
+            "item" : "JLOOK",
+            "count" : 10
+          }, {
+            "item" : "GCABRERO",
+            "count" : 9
+          }, {
+            "item" : "DVU",
+            "count" : 8
+          }, {
+            "item" : "JSPEIRS",
+            "count" : 7
+          }, {
+            "item" : "EOROPEZA",
+            "count" : 6
+          }, {
+            "item" : "APUTRA",
+            "count" : 5
+          }, {
+            "item" : "KGUY",
+            "count" : 4
+          }, {
+            "item" : "MSMITH",
+            "count" : 3
+          }, {
+            "item" : "MIDDLEBR",
+            "count" : 2
+          }, {
+            "item" : "CTEAGUE",
+            "count" : 1
+          } ],
+          "smallest" : "AHOLLIST"
+        },
+        "format" : { }
+      }, {
+        "id" : 265001001,
+        "name" : "BLKLOT",
+        "dataTypeName" : "number",
+        "fieldName" : "blklot",
+        "position" : 23,
+        "renderTypeName" : "number",
+        "tableColumnId" : 37573050,
+        "width" : 172,
+        "cachedContents" : {
+          "largest" : "8711025",
+          "non_null" : 212,
+          "average" : "3806590.867924528",
+          "null" : 17,
+          "top" : [ {
+            "item" : "4624031",
+            "count" : 20
+          }, {
+            "item" : "7535102",
+            "count" : 19
+          }, {
+            "item" : "1463005",
+            "count" : 18
+          }, {
+            "item" : "3584007",
+            "count" : 17
+          }, {
+            "item" : "1569031",
+            "count" : 16
+          }, {
+            "item" : "4624004",
+            "count" : 15
+          }, {
+            "item" : "806008",
+            "count" : 14
+          }, {
+            "item" : "7331005",
+            "count" : 13
+          }, {
+            "item" : "8711019",
+            "count" : 12
+          }, {
+            "item" : "1252046",
+            "count" : 11
+          }, {
+            "item" : "7520034",
+            "count" : 10
+          }, {
+            "item" : "4079020",
+            "count" : 9
+          }, {
+            "item" : "1615003",
+            "count" : 8
+          }, {
+            "item" : "1253009",
+            "count" : 7
+          }, {
+            "item" : "27008",
+            "count" : 6
+          }, {
+            "item" : "3749184",
+            "count" : 5
+          }, {
+            "item" : "1088022",
+            "count" : 4
+          }, {
+            "item" : "1659030",
+            "count" : 3
+          }, {
+            "item" : "855011",
+            "count" : 2
+          }, {
+            "item" : "3951005",
+            "count" : 1
+          } ],
+          "smallest" : "26030",
+          "sum" : "806997264"
+        },
+        "format" : { }
+      }, {
+        "id" : 265001002,
+        "name" : "GEN_ZONE",
+        "dataTypeName" : "text",
+        "fieldName" : "gen_zone",
+        "position" : 24,
+        "renderTypeName" : "text",
+        "tableColumnId" : 37573051,
+        "width" : 196,
+        "cachedContents" : {
+          "largest" : "South of Market Mixed Use",
+          "non_null" : 229,
+          "null" : 0,
+          "top" : [ {
+            "item" : "Residential, House and Mixed",
+            "count" : 20
+          }, {
+            "item" : "Commercial",
+            "count" : 19
+          }, {
+            "item" : "Neighborhood Commercial Transit",
+            "count" : 18
+          }, {
+            "item" : "Redevelopment Agency",
+            "count" : 17
+          }, {
+            "item" : "Chinatown Mixed Use",
+            "count" : 16
+          }, {
+            "item" : "Neighborhood Commercial",
+            "count" : 15
+          }, {
+            "item" : "Production, Distribution, Repair",
+            "count" : 14
+          }, {
+            "item" : "Eastern Neighborhoods Mixed Use",
+            "count" : 13
+          }, {
+            "item" : "South of Market Mixed Use",
+            "count" : 12
+          }, {
+            "item" : "Residential, Transit Oriented",
+            "count" : 11
+          }, {
+            "item" : "Residential, Downtown",
+            "count" : 10
+          }, {
+            "item" : "Industrial",
+            "count" : 9
+          } ],
+          "smallest" : "Chinatown Mixed Use"
+        },
+        "format" : { }
+      }, {
+        "id" : 265001003,
+        "name" : "ZONING",
+        "dataTypeName" : "text",
+        "fieldName" : "zoning",
+        "position" : 25,
+        "renderTypeName" : "text",
+        "tableColumnId" : 37573052,
+        "width" : 172,
+        "cachedContents" : {
+          "largest" : "Valencia St NCT",
+          "non_null" : 229,
+          "null" : 0,
+          "top" : [ {
+            "item" : "RM-4",
+            "count" : 20
+          }, {
+            "item" : "RC-4",
+            "count" : 19
+          }, {
+            "item" : "NCT-3",
+            "count" : 18
+          }, {
+            "item" : "RH-1",
+            "count" : 17
+          }, {
+            "item" : "RH-2",
+            "count" : 16
+          }, {
+            "item" : "RM-1",
+            "count" : 15
+          }, {
+            "item" : "MB-RA",
+            "count" : 14
+          }, {
+            "item" : "PDR-1-G",
+            "count" : 13
+          }, {
+            "item" : "RH-3",
+            "count" : 12
+          }, {
+            "item" : "C-3-G",
+            "count" : 11
+          }, {
+            "item" : "POLK",
+            "count" : 10
+          }, {
+            "item" : "UMU",
+            "count" : 9
+          }, {
+            "item" : "NC-3",
+            "count" : 8
+          }, {
+            "item" : "NC-1",
+            "count" : 7
+          }, {
+            "item" : "UPR MARKET NCT",
+            "count" : 6
+          }, {
+            "item" : "RTO",
+            "count" : 5
+          }, {
+            "item" : "MUR",
+            "count" : 4
+          }, {
+            "item" : "RM-3",
+            "count" : 3
+          }, {
+            "item" : "RH-1(D)",
+            "count" : 2
+          }, {
+            "item" : "RH DTR",
+            "count" : 1
+          } ],
+          "smallest" : "24th-Mission NC"
+        },
+        "format" : { }
+      }, {
+        "id" : 265001004,
+        "name" : "PD",
+        "dataTypeName" : "number",
+        "fieldName" : "pd",
+        "position" : 26,
+        "renderTypeName" : "number",
+        "tableColumnId" : 37573053,
+        "width" : 124,
+        "cachedContents" : {
+          "largest" : "15",
+          "non_null" : 229,
+          "average" : "7.484716157205240",
+          "null" : 0,
+          "top" : [ {
+            "item" : "3",
+            "count" : 20
+          }, {
+            "item" : "8",
+            "count" : 19
+          }, {
+            "item" : "13",
+            "count" : 18
+          }, {
+            "item" : "9",
+            "count" : 17
+          }, {
+            "item" : "10",
+            "count" : 16
+          }, {
+            "item" : "4",
+            "count" : 15
+          }, {
+            "item" : "7",
+            "count" : 14
+          }, {
+            "item" : "11",
+            "count" : 13
+          }, {
+            "item" : "2",
+            "count" : 12
+          }, {
+            "item" : "14",
+            "count" : 11
+          }, {
+            "item" : "1",
+            "count" : 10
+          }, {
+            "item" : "15",
+            "count" : 9
+          }, {
+            "item" : "12",
+            "count" : 8
+          }, {
+            "item" : "5",
+            "count" : 7
+          }, {
+            "item" : "6",
+            "count" : 6
+          } ],
+          "smallest" : "1",
+          "sum" : "1714"
+        },
+        "format" : { }
+      }, {
+        "id" : 265001005,
+        "name" : "PLANAREA",
+        "dataTypeName" : "text",
+        "fieldName" : "planarea",
+        "position" : 27,
+        "renderTypeName" : "text",
+        "tableColumnId" : 37573054,
+        "width" : 196,
+        "cachedContents" : {
+          "largest" : "Western SoMa (EN)",
+          "non_null" : 110,
+          "null" : 119,
+          "top" : [ {
+            "item" : "Market and Octavia",
+            "count" : 20
+          }, {
+            "item" : "Eastern Neighborhoods w/Valencia",
+            "count" : 19
+          }, {
+            "item" : "Bayview Hunters Point",
+            "count" : 18
+          }, {
+            "item" : "Mission (EN)",
+            "count" : 17
+          }, {
+            "item" : "Hunters View",
+            "count" : 16
+          }, {
+            "item" : "Mission Bay",
+            "count" : 15
+          }, {
+            "item" : "Chinatown",
+            "count" : 14
+          }, {
+            "item" : "Visitacion Valley",
+            "count" : 13
+          }, {
+            "item" : "Geary Corridor",
+            "count" : 12
+          }, {
+            "item" : "A-2",
+            "count" : 11
+          }, {
+            "item" : "Mid-Market",
+            "count" : 10
+          }, {
+            "item" : "Western Shoreline",
+            "count" : 9
+          }, {
+            "item" : "Van Ness Corridor",
+            "count" : 8
+          }, {
+            "item" : "Western SoMa (EN)",
+            "count" : 7
+          }, {
+            "item" : "Downtown",
+            "count" : 6
+          }, {
+            "item" : "Balboa Park",
+            "count" : 5
+          }, {
+            "item" : "Glen Park (superseded)",
+            "count" : 4
+          }, {
+            "item" : "Transbay",
+            "count" : 3
+          }, {
+            "item" : "Rincon Hill",
+            "count" : 2
+          }, {
+            "item" : "Fisherman's Wharf",
+            "count" : 1
+          } ],
+          "smallest" : "A-2"
+        },
+        "format" : { }
+      }, {
+        "id" : 265001007,
+        "name" : "ANA_NBHD",
+        "dataTypeName" : "text",
+        "fieldName" : "ana_nbhd",
+        "position" : 28,
+        "renderTypeName" : "text",
+        "tableColumnId" : 37573056,
+        "width" : 196,
+        "cachedContents" : {
+          "largest" : "West of Twin Peaks",
+          "non_null" : 229,
+          "null" : 0,
+          "top" : [ {
+            "item" : "Nob Hill",
+            "count" : 20
+          }, {
+            "item" : "Chinatown",
+            "count" : 19
+          }, {
+            "item" : "Mission",
+            "count" : 18
+          }, {
+            "item" : "Oceanview/Merced/Ingleside",
+            "count" : 17
+          }, {
+            "item" : "Potrero Hill",
+            "count" : 16
+          }, {
+            "item" : "Bayview Hunters Point",
+            "count" : 15
+          }, {
+            "item" : "Noe Valley",
+            "count" : 14
+          }, {
+            "item" : "Mission Bay",
+            "count" : 13
+          }, {
+            "item" : "Tenderloin",
+            "count" : 12
+          }, {
+            "item" : "Bernal Heights",
+            "count" : 11
+          }, {
+            "item" : "Marina",
+            "count" : 10
+          }, {
+            "item" : "Inner Sunset",
+            "count" : 9
+          }, {
+            "item" : "Presidio Heights",
+            "count" : 8
+          }, {
+            "item" : "Sunset/Parkside",
+            "count" : 7
+          }, {
+            "item" : "Russian Hill",
+            "count" : 6
+          }, {
+            "item" : "Portola",
+            "count" : 5
+          }, {
+            "item" : "Twin Peaks",
+            "count" : 4
+          }, {
+            "item" : "Western Addition",
+            "count" : 3
+          }, {
+            "item" : "South of Market",
+            "count" : 2
+          }, {
+            "item" : "Hayes Valley",
+            "count" : 1
+          } ],
+          "smallest" : "Bayview Hunters Point"
+        },
+        "format" : { }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Open Data Commons Public Domain Dedication and License",
+        "termsLink" : "http://opendatacommons.org/licenses/pddl/1.0/"
+      },
+      "metadata" : {
+        "rdfClass" : "",
+        "rdfSubject" : "0",
+        "attachments" : [ {
+          "filename" : "CPC_DataDictionary_annual_housing_inventory.xlsx",
+          "assetId" : "533b1a2e-fcd8-40ba-b872-232daa1425ce",
+          "name" : "CPC_DataDictionary_annual_housing_inventory.xlsx"
+        } ],
+        "custom_fields" : {
+          "Department Metrics" : {
+            "Publishing Department" : "Planning"
+          },
+          "Detailed Descriptive" : {
+            "Geographic unit" : "Parcel (block/lot)"
+          },
+          "Publishing Details" : {
+            "Data change frequency" : "Annually",
+            "Publishing frequency" : "Annually"
+          }
+        },
+        "rowIdentifier" : "0",
+        "rowLabel" : "Row",
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        }
+      },
+      "owner" : {
+        "id" : "dbag-6qd9",
+        "displayName" : "OpenData",
+        "roleName" : "publisher",
+        "screenName" : "OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_sdp", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "manage_provenance", "view_story", "view_unpublished_story", "view_all_dataset_status_logs", "use_data_connectors" ]
+      },
+      "query" : { },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "dbag-6qd9",
+        "displayName" : "OpenData",
+        "roleName" : "publisher",
+        "screenName" : "OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_sdp", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "manage_provenance", "view_story", "view_unpublished_story", "view_all_dataset_status_logs", "use_data_connectors" ]
+      },
+      "tags" : [ "new housing construction", "housing units", "net new units", "demolition", "merger", "conversion", "alteration", "housing stock", "housing inventory", "illegal units removed" ],
+      "flags" : [ "default", "restorable", "restorePossibleForType" ]
+    }
+  },
+  "data" : [ [ 1, "7D0333B1-06B1-49C9-9A07-21FCC539EA21", 1, 1469789396, "930934", 1469789396, "930934", null, "201105236553", "748144", "8", "1000", "MASON", "ST", null, "1000 MASON ST", "223", "8", "51", "3", "0.0", null, null, "Install auto fire sprinkler to protect addiitional units at lower and basement. REFERENCE TO APP#201008319983 TO ADD 3 RESIDENTIAL UNITS W/IN RESIDENCE.", "APARTMENTS", "APARTMENTS", "COMPLETE", "27-Mar-14", null, "223008", "Residential, House and Mixed", "RM-4", "3", null, "Nob Hill" ]
+, [ 2, "6019360D-6413-46E3-85D2-7D4727CA4A21", 2, 1469789396, "930934", 1469789396, "930934", null, "201406188814", "847144", "8", "1000", "POWELL", "ST", null, "1000 POWELL ST", "211", "15", "48", "1", "0.0", null, null, "CORRECT RECORD TO INCORPORATE SUPERINTENDANTS UNIT ON 1ST FLOOR", "APARTMENTS", "APARTMENTS", "COMPLETE", "24-Jun-14", null, "211015", "Commercial", "RC-4", "3", null, "Chinatown" ]
+, [ 3, "8431B1EA-93A9-4D1A-BC7D-3A97659B33EF", 3, 1469789396, "930934", 1469789396, "930934", null, "201208288439", "786469", "3", "101", "DUBOCE", "AV", null, "101 DUBOCE AV", "3533", "1", "7", "2", "2", "SEC", "Homeowner", "4TH FLOOR VERTICAL ADDITION OF 2 DWELLING UNITS.", "APARTMENTS", "APARTMENTS", "COMPLETE", "07-Aug-14", "RSUCRE", "3533001", "Neighborhood Commercial Transit", "NCT-3", "8", "Market and Octavia", "Mission" ]
+, [ 4, "C4C2268B-C7D0-4C50-B1DC-B19278D903FE", 4, 1469789396, "930934", 1469789396, "930934", null, "201408143788", "853085", "8", "1017", "CAPITOL", "AV", null, "1017 CAPITOL AV", "6985", "10", "1", "-1", "0.0", null, null, "LEGALIZE ONE BEDROOM, ONE HOME OFFICE, FAMILY ROOM, REMOVE ILLEGAL KITCHEN, CONVERT FULL BATHROOM TO HALF BATHROOM. ALL WORK AT GROUND FLOOR.", "1 FAMILY DWELLING", "1 FAMILY DWELLING", "CFC ISSUED", "12-Sep-14", "MCORRETT", "6985010", "Residential, House and Mixed", "RH-1", "13", null, "Oceanview/Merced/Ingleside" ]
+, [ 5, "0AD51076-DCD9-4B9E-B8EB-B54A83FC2B30", 5, 1469789396, "930934", 1469789396, "930934", null, "201404102974", "840139", "8", "1028", "WISCONSIN", "ST", null, "1028 WISCONSIN ST", "4219", "3", "2", "2", "0.0", null, null, "TO OBTAIN FINAL INSPECTION FOR WORK APPROVED UNDER PA 201204037474; ALL WORK IS COMPLETE", null, "2 FAMILY DWELLING", "CFC ISSUED", "06-Nov-14", null, "4219003", "Residential, House and Mixed", "RH-2", "9", "Eastern Neighborhoods w/Valencia", "Potrero Hill" ]
+, [ 6, "0A0A0480-45FC-427D-9D89-C132AFBBA802", 6, 1469789396, "930934", 1469789396, "930934", null, "201312305282", "830937", "8", "1066", "JAMESTOWN", "AV", null, "1066 JAMESTOWN AV", "4969", "21", "1", "-1", "0.0", null, null, "COMPLY WITH NOV #201342751 DATED 12/19/13  TO DEMOLISH KITCHEN STOVE AND SINK AT GROUND FLOOR  AND BASEMENT LEVEL. LEGALIZE A BATH AT BASEMENT LEVEL.", "1 FAMILY DWELLING", "1 FAMILY DWELLING", "CFC ISSUED", "30-Jan-14", null, "4969021", "Residential, House and Mixed", "RH-1", "10", "Bayview Hunters Point", "Bayview Hunters Point" ]
+, [ 7, "ED1495CB-0E3F-4A8D-AF9F-1E8EAE4AC491", 7, 1469789396, "930934", 1469789396, "930934", null, "201204168384", "774457", "1", "1078", "HAMPSHIRE", "ST", null, "1078 HAMPSHIRE ST", "4152", "46", "2", "2", "0.0", null, null, "RECOMMERCEMENT AND CONCEPTION OF WORK APPROVED UNDER PA#200709193092", null, "2 FAMILY DWELLING", "COMPLETE", "27-Jan-14", null, "4152046", "Residential, House and Mixed", "RH-2", "8", "Mission (EN)", "Mission" ]
+, [ 8, "F45C5FC9-F556-4D51-992D-B99DB82CFE86", 8, 1469789396, "930934", 1469789396, "930934", null, "200608290880", "590959", "1", "1080", "SUTTER", "ST", "Blanc", "1080 SUTTER ST", "279", "11", "35", "35", "4", "MOD", "Homeowner", "ERECT 11 STORIES, 35 DWELLING UNITS MIXED USE BUILDING.", null, "APARTMENTS", "COMPLETE", "02-Apr-14", "AHOLLIST", "279011", "Commercial", "RC-4", "4", null, "Nob Hill" ]
+, [ 9, "4E9817B0-9D8A-4B22-90A2-151530D1F1F1", 9, 1469789396, "930934", 1469789396, "930934", null, "201307222394", "815371", "6", "110", "MIDDLE POINT", "RD", null, "110 MIDDLE POINT RD", "4624", "31", "-4", "-4", "0.0", null, null, "BLDG 22 - DEMOLISH 2-STORY, TYPE 5, RESIDENTIAL APARTMENT BUILDING.", "APARTMENTS", null, "COMPLETE", "30-Apr-14", "MSNYDER", "4624031", "Residential, House and Mixed", "RM-1", "10", "Hunters View", "Bayview Hunters Point" ]
+, [ 10, "F774DE76-D6C0-45CE-8889-A29C0CC24651", 10, 1469789396, "930934", 1469789396, "930934", null, "201307222374", "815349", "6", "112", "WEST POINT", "RD", null, "112 WEST POINT RD", "4624", "31", "-4", "-4", "0.0", null, null, "BLDG 12 - DEMOLISH 2-STORY, TYPE 5, RESIDENTIAL APARTMENT BUILDING.", "APARTMENTS", null, "COMPLETE", "30-Apr-14", "MSNYDER", "4624031", "Residential, House and Mixed", "RM-1", "10", "Hunters View", "Bayview Hunters Point" ]
+, [ 11, "7EA7B72B-9BBB-4834-B659-4C6E3BA177E6", 11, 1469789396, "930934", 1469789396, "930934", null, "201207195186", "782595", "3", "1146", "CASTRO", "ST", null, "1146 CASTRO ST", "2804", "6", "1", "-1", "0.0", null, null, "RESIDENTIAL UNIT REMOVAL THROUGH MERGER. HORIZONTAL ADDITION (HEIGHT LESS THEN 10'-0\" ABOVE GROUND). INTERIOR RENOVATIONS & REMODEL.", "2 FAMILY DWELLING", "1 FAMILY DWELLING", "COMPLETE", "25-Jun-14", "TWANG", "2804006", "Residential, House and Mixed", "RH-2", "7", null, "Noe Valley" ]
+, [ 12, "8BA14FC5-0DE8-4321-9AC7-7484399EED13", 12, 1469789396, "930934", 1469789396, "930934", null, "201108041792", "754470", "1", "1155", "04TH", "ST", null, "1155 04TH ST", "8711", "25", "147", "147", "0.0", null, null, "ERECT NEW 6 STORIES OF 147 UNITS CONDO BUILDING.", null, "APARTMENTS", "COMPLETE", "01-Oct-14", "PRIESTMA", "8711025", "Redevelopment Agency", "MB-RA", "9", "Mission Bay", "Mission Bay" ]
+, [ 13, "A78DDC8F-F536-4FFB-9A44-16AF868A4C8E", 13, 1469789396, "930934", 1469789396, "930934", "{\n  \"invalidCells\" : {\n    \"37573037\" : \"0222A\",\n    \"37573050\" : \"0222A071\"\n  }\n}", "201305287964", "810015", "8", "1170", "SACRAMENTO", "ST", null, "1170 SACRAMENTO ST", null, "71", "72", "-1", "0.0", null, null, "19TH FLOOR PENTHOUSE B & C - ADD 6 SMOKE DETECTORS W/SOUNDER DASES, 1 RELAY, 12 SPEAKERS & 10 WEATHERPROOF SPEAKERS AS PART OF RENOVATION OF TWO UNITS, REF PA #2012.02.28.4991", "APARTMENTS", "APARTMENTS", "COMPLETE", "02-Jan-14", null, null, "Residential, House and Mixed", "RM-4", "3", null, "Nob Hill" ]
+, [ 14, "F5B4ADC8-CD2D-4D94-809A-88E75ACA1FF5", 14, 1469789396, "930934", 1469789396, "930934", null, "201012036075", "735574", "1", "1190", "04TH", "ST", null, "1190 04TH ST", "8711", "14", "150", "150", "150", "LI", "Family", "ERECT 6 STORIES OF 150 DWELLING UNIT.", null, "APARTMENTS", "TCO ISSUED", "23-Dec-14", "PARCE", "8711014", "Redevelopment Agency", "MB-RA", "9", "Mission Bay", "Mission Bay" ]
+, [ 15, "3F80E85A-0C8C-4E27-B4C2-40ABD16BCB59", 15, 1469789396, "930934", 1469789396, "930934", null, "201307222393", "815370", "6", "120", "MIDDLE POINT", "RD", null, "120 MIDDLE POINT RD", "4624", "31", "-6", "-6", "0.0", null, null, "BLDG 21 - DEMOLISH 2-STORY, TYPE 5, RESIDENTIAL APARTMENT BUILDING.", "APARTMENTS", null, "COMPLETE", "30-Apr-14", "MSNYDER", "4624031", "Residential, House and Mixed", "RM-1", "10", "Hunters View", "Bayview Hunters Point" ]
+, [ 16, "D1265AD9-38DC-4486-B1B9-ECDADE3D3511", 16, 1469789396, "930934", 1469789396, "930934", null, "201307222384", "815361", "6", "120", "WEST POINT", "RD", null, "120 WEST POINT RD", "4624", "31", "-4", "-4", "0.0", null, null, "BLDG 13 - DEMOLISH 2-STORY, TYPE 5, RESIDENTIAL APARTMENT BUILDING.", "APARTMENTS", null, "COMPLETE", "30-Apr-14", "MSNYDER", "4624031", "Residential, House and Mixed", "RM-1", "10", "Hunters View", "Bayview Hunters Point" ]
+, [ 17, "95395350-827D-4DC0-BDC3-78F0E74B6E9B", 17, 1469789396, "930934", 1469789396, "930934", null, "201012156753", "736398", "1", "121", "GOLDEN GATE", "AV", null, "121 GOLDEN GATE AV", "349", "1", "90", "90", "90", "VLI", "Senior", "ERECT 10 STORIES, 90 DWELLING UNITS, 1 BASEMENT, DINING, SOCIAL SERVICES, AFFORDABLE APARTMENTS BUILDING.", null, "APARTMENTS", "COMPLETE", "05-Nov-14", "RCRAWFOR", "349001", "Commercial", "RC-4", "4", null, "Tenderloin" ]
+, [ 18, "488C75A1-7DA3-46A1-B55A-E42D01913462", 18, 1469789396, "930934", 1469789396, "930934", null, "201401246982", "832994", "8", "1234", "VALENCIA", "ST", null, "1234 VALENCIA ST", "3644", "4", "7", "-1", "0.0", null, null, "COMBINE UNITS 1 AND 2- 3RD FLOOR. UNIT 2 IS ILLEGAL. BRING BLDG INTO CONFORMANCE WITH CODE PER PLANS. N/A  FOR MAHER ORDINANCE NO. 155-13.  to conform with 3-R report dated 3/18/13", "APARTMENTS", "APARTMENTS", "CFC ISSUED", "15-Aug-14", "KBOTN", "3644004", "Neighborhood Commercial Transit", "Valencia St NCT", "8", "Mission (EN)", "Mission" ]
+, [ 19, "4F38F8B5-8DAA-41F0-A3A6-C6C5331A6C36", 19, 1469789396, "930934", 1469789396, "930934", null, "201406138294", "846523", "8", "1235", "BUSH", "ST", null, "1235 BUSH ST", "279", "21", "24", "-1", "0.0", null, null, "REMOVE EXTG ILLEGAL UNITS. LEGALIZE EXTG FULL BATH ROOM AND STORAGES BEHIND THE GARAGE ON THE GROUND FLOOR TO COMPLY WITH COMPLAINT #201473744. N/A FOR THE MAHER ORDINANCE #155-13", "APARTMENTS", "APARTMENTS", "CFC ISSUED", "29-Aug-14", null, "279021", "Commercial", "RC-4", "4", null, "Nob Hill" ]
+, [ 20, "D050448F-003C-478B-950B-C38DAE8AE59B", 20, 1469789396, "930934", 1469789396, "930934", null, "201305076239", "807978", "8", "125", "TRENTON", "ST", null, "125 TRENTON ST", "179", "30", "5", "1", "1", "SEC", "Homeowner", "ADD NEW UNIT TO EXTG FOUR UNIT BLDG. IMPROVE EXTG LOWER LEVEL FOR NEW UNIT. NEW BATHROOM AND KITCHEN NEW PARTITION WALLS AT BATH ROOM.", "APARTMENTS", "APARTMENTS", "COMPLETE", "03-Sep-14", null, "179030", "Chinatown Mixed Use", "CRNC", "3", "Chinatown", "Chinatown" ]
+, [ 21, "6DEFA9A3-6B03-4544-95E0-037AC041257C", 21, 1469789396, "930934", 1469789396, "930934", null, "201204248941", "775104", "3", "126", "MULLEN", "AV", null, "126 MULLEN AV", "5538", "31", "1", "-1", "0.0", null, null, "CONVERT EXISTING TWO APARTMENTS BACK TO SINGLE FAMILY DWELLING. CUT OPENING IN WALL BETWEEN UNITS. REMOVE KITCHEN AT 124 MULLEN. ADD (N) DECK AND DOOR TO WEST SIDE. ENCLOSE EXISTING ENTRANCES AT EAST SIDE.", "2 FAMILY DWELLING", "1 FAMILY DWELLING", "CFC ISSUED", "24-Feb-14", "BFU", "5538031", "Residential, House and Mixed", "RH-1", "11", null, "Bernal Heights" ]
+, [ 22, "304333FB-A346-4AB6-B797-8A703EF0F0CA", 22, 1469789396, "930934", 1469789396, "930934", "{\n  \"invalidCells\" : {\n    \"37573038\" : \"015A\",\n    \"37573050\" : \"0473015A\"\n  }\n}", "201204249016", "775205", "3", "1265", "BAY", "ST", null, "1265 BAY ST", "473", null, "3", "1", "1", "SEC", "Homeowner", "ADD (N) 3RD UNIT AT (E) UNOCCUPIED 1ST FL AREA & ADDING A REAR HORIZONAL ADDITION AT THIS LEVEL. THE NEW UNIT WILL HAVE 2 BEDROOMS,2BATHS,KITCHEN, LIVING & DINING AREA. ADD 3RD PARKING SPACE TO (E) GARAGE AREA.", "2 FAMILY DWELLING", "APARTMENTS", "COMPLETE", "28-Jan-14", "CLAMOREN", null, "Residential, House and Mixed", "RM-1", "2", null, "Marina" ]
+, [ 23, "FD81D43E-785C-41DD-AE7F-D6DF627DB5C8", 23, 1469789396, "930934", 1469789396, "930934", null, "200912183521", "707289", "2", "1266", "09TH", "AV", null, "1266 09TH AV", "1742", "43", "15", "15", "0.0", "fee", null, "TO ERECT 4 STORIES, 15 UNITS RESIDENTIAL & RETAIL BUILDING.\n", null, "APARTMENTS", "COMPLETE", "28-Mar-14", "JIONIN", "1742043", "Neighborhood Commercial", "INNER SUNSET NCD", "14", null, "Inner Sunset" ]
+, [ 24, "FA9D2C01-EE4A-42D9-9646-EC90916B02CF", 24, 1469789396, "930934", 1469789396, "930934", null, "200212244171", "467737", "2", "1275", "INDIANA", "ST", "Millwheel North", "1275 INDIANA ST", "4228", "10", "39", "39", "5", "MOD", "Homeowner", "ERECT 5-STORY, 39 UNITS OF RESIDENTIAL, RETAIL & WAREHOUSE BUILDING.", null, "APARTMENTS", "COMPLETE", "28-Aug-14", "MSNYDER", "4228010", "Production, Distribution, Repair", "PDR-1-G", "9", "Eastern Neighborhoods w/Valencia", "Potrero Hill" ]
+, [ 25, "6340840F-F6DD-4AF6-A872-74927DC4DA43", 25, 1469789396, "930934", 1469789396, "930934", null, "201301147921", "797993", "8", "130", "BLANKEN", "AV", null, "130 BLANKEN AV", "5084", "21", "1", "-1", "0.0", null, null, "IN RESPONSE TO NOV 201265141 TO REMOVE ILLEGAL KITCHEN ON GROUND FLOOR. GR FL LEGALLY BUILT  IN 1992 PA 9202484 TO HAVE 2 BEDROOMS, FAMILY ROOM, STOARAGE ROOM, AND 1 FULL BATH, AND GAME ROOM", "1 FAMILY DWELLING", "1 FAMILY DWELLING", "CFC ISSUED", "21-Mar-14", "KBRUSATO", "5084021", "Residential, House and Mixed", "RH-1", "10", "Visitacion Valley", "Bayview Hunters Point" ]
+, [ 26, "F7C079CC-484D-4635-B92C-59C5544A5EFC", 26, 1469789396, "930934", 1469789396, "930934", null, "201306119219", "811528", "8", "130", "PALM", "AV", null, "130 PALM AV", "1062", "43", "5", "1", "1", "SEC", "Homeowner", "ADD 22 FIRE SPRINKLERS AT NEW APT.  REF PA# 200905299409.", "APARTMENTS", "APARTMENTS", "COMPLETE", "15-Jul-14", null, "1062043", "Residential, House and Mixed", "RM-1", "1", "Geary Corridor", "Presidio Heights" ]
+, [ 27, "E6D39171-39B3-4DA5-91FC-3D39823D36E5", 27, 1469789396, "930934", 1469789396, "930934", null, "201307222385", "815362", "6", "130", "WEST POINT", "RD", null, "130 WEST POINT RD", "4624", "31", "-6", "-6", "0.0", null, null, "BLDG 14 - DEMOLISH 3-STORY, TYPE 5, RESIDENTIAL APARTMENT BUILDING.", "APARTMENTS", null, "COMPLETE", "30-Apr-14", "MSNYDER", "4624031", "Residential, House and Mixed", "RM-1", "10", "Hunters View", "Bayview Hunters Point" ]
+, [ 28, "F47888C8-FE76-4641-A04F-F6024BA005B3", 28, 1469789396, "930934", 1469789396, "930934", null, "201210292956", "792069", "3", "1320", "21ST", "AV", null, "1320 21ST AV", "1775", "44", "2", "1", "1", "SEC", "Homeowner", "REAR HORIZONTAL ADDITION & CONVERT (E) SINGLE FAMILY BLDG. TO TWO UNIT APARTMENT BUILDING.", "1 FAMILY DWELLING", "2 FAMILY DWELLING", "CFC ISSUED", "13-Nov-14", "JLOOK", "1775044", "Residential, House and Mixed", "RH-2", "15", null, "Sunset/Parkside" ]
+, [ 29, "7E73D0D5-51EC-4B15-9B33-F7F5948AFFCA", 29, 1469789396, "930934", 1469789396, "930934", null, "201203266873", "772675", "3", "1324", "FRANCISCO", "ST", null, "1324 FRANCISCO ST", "473", "8", "3", "1", "1", "SEC", "Homeowner", "REAR GROUND FLOOR ADDITION. TO ACCOMODATE NEW GROUND FLOOR UNIT.RENOVATION OF 2ND & 3RD FLOOR UNITS. NEW STAIRS TO ROOF FROM 3RD FLOOR UNIT ONLY. NEW ROOF DECK.\nSPRINKLERS, FIRE ALARM SEP PERMITS", "2 FAMILY DWELLING", "APARTMENTS", "COMPLETE", "04-Sep-14", "GCABRERO", "473008", "Residential, House and Mixed", "RH-3", "2", null, "Marina" ]
+, [ 30, "BA591601-EB88-4E8A-9DD3-41872918F690", 30, 1469789396, "930934", 1469789396, "930934", null, "201405054847", "842377", "8", "1326", "FRANCISCO", "ST", null, "1326 FRANCISCO ST", "473", "36", "3", "1", "1", "SEC", "Homeowner", "AMEND TO CURRENT BLDG PERMIT, CHANGE WOOD BURNING FIREPLACE TO GAS, NEW FLUE FOR FIREPLACE, PLUMBING WORK DONE BY OTHERS WITH PREVIOUS PERMIT PA# 201203266873", "2 FAMILY DWELLING", "APARTMENTS", "COMPLETE", "04-Sep-14", null, "473036", "Residential, House and Mixed", "RH-3", "2", null, "Marina" ]
+, [ 31, "5BB02723-4E5D-4AEA-B30C-38BD2DA80525", 31, 1469789396, "930934", 1469789396, "930934", null, "200603015694", "573046", "2", "133", "ELSIE", "ST", null, "133 ELSIE ST", "5619", "57", "1", "1", "0.0", null, null, "ERECT 3 STORY, NO BASEMENT, SINGLE FAMILY DWELLING.", null, "1 FAMILY DWELLING", "CFC ISSUED", "23-Oct-14", "BFU", "5619057", "Residential, House and Mixed", "RH-1", "11", null, "Bernal Heights" ]
+, [ 32, "7272876B-D0DE-476B-A97B-F7E0F1A10058", 32, 1469789396, "930934", 1469789396, "930934", null, "201408194215", "853619", "8", "1338", "UNION", "ST", null, "1338 UNION ST", "525", "10", "3", "-1", "0.0", null, null, "TO OBTAIN FINAL INSPECTION FOR WORK APPROVED UNDER PA # 9817984.  ALL WORK IS COMPLETE. n/a MAHER ORDINANCE # 155-13", "APARTMENTS", "APARTMENTS", "COMPLETE", "08-Oct-14", null, "525010", "Residential, House and Mixed", "RH-2", "3", null, "Russian Hill" ]
+, [ 33, "60247C4B-0220-44A8-B385-893415D2FCDE", 33, 1469789396, "930934", 1469789396, "930934", null, "201407080703", "849354", "8", "1345", "SILVER", "AV", null, "1345 SILVER AV", "5883", "12", "2", "1", "1", "SEC", "Homeowner", "REARRANGE & REMODEL KITCHEN, STAIRS & BATHROOM. ADD BEDROOM, 1 BATH & SKYLIGHTS ON 2ND FLOOR. RELCOATE BATHROOM, ADD 2 FULL BATHS, LAUNDRY & 3 BEDROOMS ON GROUND FLOOR. REPLACE GARAGE DOOR & WINDOWS PER PLAN. REMOVE ILLEGAL KITCHEN ON GROUND FLOOR.", "1 FAMILY DWELLING", "2 FAMILY DWELLING", "COMPLETE", "03-Dec-14", null, "5883012", "Residential, House and Mixed", "RH-2", "12", null, "Portola" ]
+, [ 34, "0AEF3009-41ED-4A6B-8B5A-BEEFA1F55FEF", 34, 1469789396, "930934", 1469789396, "930934", null, "201203276943", "772757", "2", "135", "YUKON", "ST", null, "135 YUKON ST", "2716", "33", "1", "1", "0.0", null, null, "ERECT 3-STORY NEW BUILDING TYPE V SINGLE FAMILY RESIDENCE.", null, "1 FAMILY DWELLING", "COMPLETE", "23-Jul-14", "DVU", "2716033", "Residential, House and Mixed", "RH-1(S)", "7", null, "Twin Peaks" ]
+, [ 35, "4BAEA6E1-841C-41F1-A309-3A9A1DF0EB4F", 35, 1469789396, "930934", 1469789396, "930934", null, "201205090138", "776526", "3", "1370", "UTAH", "ST", null, "1370 UTAH ST", "4264", "7", "3", "1", "1", "SEC", "Homeowner", "CHANGE OF USE. ADD 1 DWELLING UNIT. NEW REAR BUILDING WALL. VERTICAL & HORIZONTAL ADDITION. NO CHANGE TO FRONT (EAST) FACADE. STRUCTURAL, MECH, ELECT, PLUMBING.", "2 FAMILY DWELLING", "APARTMENTS", "COMPLETE", "18-Dec-14", "TLENANE", "4264007", "Residential, House and Mixed", "RH-3", "8", "Eastern Neighborhoods w/Valencia", "Mission" ]
+, [ 36, "0FA70737-1AB8-4F3B-8317-803752377C73", 36, 1469789396, "930934", 1469789396, "930934", null, "201212136160", "795900", "3", "1379", "REVERE", "AV", null, "1379 REVERE AV", "4788", "17", "2", "1", "1", "SEC", "Homeowner", "PROPOSED HORIZONTAL ADDITION TO (E) SINGLE FAMILY HOUSE TO ACCOMODATE ONE ADDITIONAL UNIT. PROPOSED KITCHEN REMODEL @ 2ND FLOOR. PROPOSED 1 NEW BATHROOM @ 3RD FLOOR.", "1 FAMILY DWELLING", "2 FAMILY DWELLING", "PRE-FINAL", "28-Jan-14", "JSPEIRS", "4788017", "Residential, House and Mixed", "RH-2", "10", "Bayview Hunters Point", "Bayview Hunters Point" ]
+, [ 76, "923C59FB-750F-4CB2-AC02-6F56809FEBB0", 76, 1469789396, "930934", 1469789396, "930934", null, "200711309388", "639014", "2", "1870", "GOLDEN GATE", "AV", null, "1870 GOLDEN GATE AV", "1152", "17", "3", "3", "0.0", null, null, "TO ERECT 4 STORIES, 3 UNITS APARTMENTS & GARAGE.", null, "APARTMENTS", "COMPLETE", "08-Jul-14", "GCABRERO", "1152017", "Residential, House and Mixed", "RM-1", "5", null, "Western Addition" ]
+, [ 37, "87549C20-F6D8-443C-BBEB-56496226DB03", 37, 1469789396, "930934", 1469789396, "930934", null, "201407242084", "851044", "8", "1390", "MARKET", "ST", null, "1390 MARKET ST", "813", "8", "444", "1", "0.0", null, null, "#1418: CONVERT EXTG STUDIO UNIT TO 2 STUDIO UNITS. N/A FOR THE MAHER ORDINANCE #155-13", "APARTMENTS", "APARTMENTS", "PRE-FINAL", "31-Oct-14", "EOROPEZA", "813008", "Commercial", "C-3-G", "4", "Market and Octavia", "Tenderloin" ]
+, [ 38, "5CF454B1-07BF-43EE-A45C-FBB9755809D9", 38, 1469789396, "930934", 1469789396, "930934", null, "201307222395", "815372", "6", "140", "MIDDLE POINT", "RD", null, "140 MIDDLE POINT RD", "4624", "31", "-4", "-4", "0.0", null, null, "BLDG 23 - DEMOLISH 2-STORY, TYPE 5, RESIDENTIAL APARTMENT BUILDING.", "APARTMENTS", null, "COMPLETE", "30-Apr-14", "MSNYDER", "4624031", "Residential, House and Mixed", "RM-1", "10", "Hunters View", "Bayview Hunters Point" ]
+, [ 39, "0EAEE8EC-C2BB-4ED8-B935-B3DEE2EB6067", 39, 1469789396, "930934", 1469789396, "930934", null, "200612210404", "602526", "6", "1401", "DIVISADERO", "ST", null, "1401 DIVISADERO ST", "1098", "9", "-21", "-21", "0.0", null, null, "TO DEMOLISH 21 DWELLING UNIT WITH COMMERCIAL SPACE", "APARTMENTS", null, "COMPLETE", "27-Jan-14", "DLINDSAY", "1098009", "Neighborhood Commercial", "NC-2", "5", "A-2", "Western Addition" ]
+, [ 40, "F0807BAC-C109-4218-90FA-BC7EA84677AA", 40, 1469789396, "930934", 1469789396, "930934", "{\n  \"invalidCells\" : {\n    \"37573038\" : \"007A\",\n    \"37573050\" : \"1073007A\"\n  }\n}", "201405226479", "844348", "8", "1401", "LYON", "ST", null, "1401 LYON ST", "1073", null, "3", "1", "1", "SEC", "Homeowner", "ADMINISTRATIVE PERMIT TO CORRECT PA#916088 AND PA201405085208: ORIGINAL BUILDING USE - TWO DWELLING UNITS AND STORE TO PROPOSED USE - TWO DWELLING UNITS AND ONE LIVE-WORK UNIT.", "APARTMENTS", "APARTMENTS", "COMPLETE", "23-May-14", null, null, "Residential, House and Mixed", "RH-3", "1", "Geary Corridor", "Presidio Heights" ]
+, [ 41, "AFB2DC93-DAFB-4CE7-BD0D-E9D1A012515A", 41, 1469789396, "930934", 1469789396, "930934", null, "201301147871", "797934", "3", "1409", "HUDSON", "AV", null, "1409 HUDSON AV", "5258", "1", "1", "1", "0.0", null, null, "COMMENCEMENT OF WORK NOT STARTED UNDER PREVIOUSLY APPROVED PERMIT  PA#200512150450", null, "1 FAMILY DWELLING", "COMPLETE", "19-May-14", "JSPEIRS", "5258001", "Residential, House and Mixed", "RH-1", "10", "Bayview Hunters Point", "Bayview Hunters Point" ]
+, [ 42, "6DA8AC28-BA82-400A-8CFD-C923ED256ACC", 42, 1469789396, "930934", 1469789396, "930934", "{\n  \"invalidCells\" : {\n    \"37573037\" : \"0436C\",\n    \"37573050\" : \"0436C002\"\n  }\n}", "201403110436", "837114", "8", "1410", "JEFFERSON", "ST", null, "1410 JEFFERSON ST", null, "2", "2", "1", "1", "SEC", "Homeowner", "DESIGN AND INSTALL WATER BASED FIRE SPRINKLER SYSTEM.PER NFPA 13. NO UNDERGROUND; BY OTHERS.", "1 FAMILY DWELLING", "2 FAMILY DWELLING", "COMPLETE", "02-Dec-14", null, null, "Residential, House and Mixed", "RH-2", "2", null, "Marina" ]
+, [ 43, "5AF3E18C-A4EA-4FCF-9C49-DBF7869DA081", 43, 1469789396, "930934", 1469789396, "930934", null, "200903234623", "683861", "1", "1411", "MARKET", "ST", "NEMA Phase II", "1411 MARKET ST", "3507", "41", "754", "437", "52", "LI", "Family", "ALTERED SITE PERMIT. REVISION TO PA #2006-0720-7084S. INCLUDES REVISED FLOOR PLANS FOR LEVELS 21 THRU 36 TO ILLUSTRATE ADDITIONAL 35 UNITS THAT WERE CREATED BY SUBDIVIDING EXISTING 2 BEDROOM DESIGNS INTO 1 BEDROOMS PLUS ADJACENT STUDIO APARTMENTS. NO ADDI", "APARTMENTS", "APARTMENTS", "COMPLETE", "12-Nov-14", "AHOLLIST", "3507041", "Commercial", "C-3-G", "4", "Mid-Market", "South of Market" ]
+, [ 44, "0EBB27AE-0FA8-407C-9B2D-C4C456458AF6", 44, 1469789396, "930934", 1469789396, "930934", null, "201307222386", "815363", "6", "142", "WEST POINT", "RD", null, "142 WEST POINT RD", "4624", "31", "-2", "-2", "0.0", null, null, "BLDG 15 - DEMOLISH 2-STORY, TYPE 5, RESIDENTIAL APARTMENT BUILDING.", "2 FAMILY DWELLING", null, "COMPLETE", "30-Apr-14", "MSNYDER", "4624031", "Residential, House and Mixed", "RM-1", "10", "Hunters View", "Bayview Hunters Point" ]
+, [ 45, "A4109D71-B27F-4C9C-81AD-69F6B0E9B536", 45, 1469789396, "930934", 1469789396, "930934", null, "200912163365", "707094", "3", "1430", "LARKIN", "ST", null, "1430 LARKIN ST", "249", "17", "21", "1", "1", "SEC", "Individual/SRO", "COMPLY WITH NOV# 200902304, DATED 4-16-09-REMOVE (E) PLUMBING FIXTURES, NON BEARING WALL AT (E) BATHROOM #2 ON GROUND LEVEL UNIT. ADD NEW STALL SHOWER IN LIEU OF BATHROOM & CHANGE OCCUPANCY FROM COMMERCIAL OFFICE (B) TO RESIDENTIAL HOTEL (R1).  Check for ", "RESIDENTIAL HOTEL", "RESIDENTIAL HOTEL", "COMPLETE", "22-May-14", "RCRAWFOR", "249017", "Neighborhood Commercial", "POLK", "3", null, "Nob Hill" ]
+, [ 46, "96240BB8-3311-48C2-9DB8-E619CAC682D0", 46, 1469789396, "930934", 1469789396, "930934", "{\n  \"invalidCells\" : {\n    \"37573038\" : \"001E\",\n    \"37573050\" : \"4335001E\"\n  }\n}", "201310078710", "823130", "3", "1432", "YORK", "ST", null, "1432 YORK ST", "4335", null, "2", "1", "1", "SEC", "Homeowner", "COMPLY WITH NOV #201318321. LEGALIZE LOWER UNIT (397 SQ FT).", "1 FAMILY DWELLING", "2 FAMILY DWELLING", "COMPLETE", "30-Sep-14", "DHARRIS", null, "Residential, House and Mixed", "RH-2", "8", "Mission (EN)", "Mission" ]
+, [ 47, "652145FE-5797-4628-9A87-C71F3C094ECF", 47, 1469789396, "930934", 1469789396, "930934", null, "201307222387", "815364", "6", "146", "WEST POINT", "RD", null, "146 WEST POINT RD", "4624", "31", "-4", "-4", "0.0", null, null, "BLDG 16 - DEMOLISH 2-STORY, TYPE 5, 4 UNITS RESIDENTIAL APARTMENT BUILDING.", "APARTMENTS", null, "COMPLETE", "30-Apr-14", "MSNYDER", "4624031", "Residential, House and Mixed", "RM-1", "10", "Hunters View", "Bayview Hunters Point" ]
+, [ 48, "83B8B80A-D749-4BF7-A0E7-F22382AEE692", 48, 1469789396, "930934", 1469789396, "930934", null, "201307222396", "815373", "6", "148", "MIDDLE POINT", "RD", null, "148 MIDDLE POINT RD", "4624", "31", "-2", "-2", "0.0", null, null, "BLDG 24  - DEMOLISH 2-STORY, TYPE 5, RESIDENTIAL APARTMENT BUILDING.", "2 FAMILY DWELLING", null, "COMPLETE", "30-Apr-14", "MSNYDER", "4624031", "Residential, House and Mixed", "RM-1", "10", "Hunters View", "Bayview Hunters Point" ]
+, [ 49, "7918784E-5717-4231-890C-645D524639FF", 49, 1469789396, "930934", 1469789396, "930934", null, "201310280380", "825141", "8", "149", "NEWMAN", "ST", null, "149 NEWMAN ST", "5708", "9", "1", "-1", "0.0", null, null, "COMPLY WITH NOV# 201318173 - REMOVE UNPERMITTED DWELLING at garage. DEMOLISH (E) rear DECK; . REPAIR  rear STAIRS IN KIND - LESS THAN 50%. REPLACE PLUMBING at 2?F bath.", "1 FAMILY DWELLING", "1 FAMILY DWELLING", "CFC ISSUED", "26-Feb-14", "MCORRETT", "5708009", "Residential, House and Mixed", "RH-2", "11", null, "Bernal Heights" ]
+, [ 50, "55B6286F-28F2-4464-9C89-D7FEEBAB9A93", 50, 1469789396, "930934", 1469789396, "930934", null, "201111038205", "762315", "1", "1515", "15TH", "ST", "Fifteen Fifteen", "1515 15TH ST", "3553", "54", "40", "40", "7", "MOD", "Homeowner", "TO ERECT 5 STORY OVER 1 BASEMENT, 40 UNITS RESIDENTIAL & COMMERCIAL BUILDING.", null, "APARTMENTS", "COMPLETE", "11-Jun-14", "KDURANDE", "3553054", "Eastern Neighborhoods Mixed Use", "UMU", "11", "Mission (EN)", "Mission" ]
+, [ 51, "34A71BE5-2E14-4BAD-9FEA-ECED6F13B8A1", 51, 1469789396, "930934", 1469789396, "930934", null, "200310066599", "492762", "2", "152", "ELSIE", "ST", null, "152 ELSIE ST", "5618", "20", "1", "1", "0.0", null, null, "ERECT A TWO STORY SINGLE FAMILY DWELING", null, "1 FAMILY DWELLING", "CFC ISSUED", "22-Jul-14", "EOROPEZA", "5618020", "Residential, House and Mixed", "RH-1", "15", null, "Bernal Heights" ]
+, [ 52, "37DAC221-C91C-4246-B998-2240586D8456", 52, 1469789396, "930934", 1469789396, "930934", null, "201201112070", "766941", "2", "1530", "48TH", "AV", null, "1530 48TH AV", "1893", "38", "1", "1", "0.0", null, null, "ERECT 2 STORIES, TYPE 5, 1 DWELLING UNIT FRONT BUILDING.", null, "1 FAMILY DWELLING", "PRE-FINAL", "19-Aug-14", "APUTRA", "1893038", "Residential, House and Mixed", "RH-2", "13", "Western Shoreline", "Sunset/Parkside" ]
+, [ 53, "D3AF0C09-E9A3-401E-AF66-B3B88CD43A3B", 53, 1469789396, "930934", 1469789396, "930934", null, "200509072195", "557229", "2", "154", "BROAD", "ST", null, "154 BROAD ST", "7107", "63", "2", "2", "0.0", null, null, "TO ERECT A NEW 2 STORY, 2 DWELLING UNITS.", null, "2 FAMILY DWELLING", "COMPLETE", "07-Aug-14", null, "7107063", "Residential, House and Mixed", "RH-2", "10", null, "Oceanview/Merced/Ingleside" ]
+, [ 54, "900983A5-4618-42AA-9829-0A6A1845B032", 54, 1469789396, "930934", 1469789396, "930934", null, "201307222388", "815365", "6", "154", "WEST POINT", "RD", null, "154 WEST POINT RD", "4624", "31", "-4", "-4", "0.0", null, null, "BLDG 17 - DEMOLISH 2-STORY, TYPE 5, 4 UNITS RESIDENTIAL APARTMENT BUILDING.", "APARTMENTS", null, "COMPLETE", "30-Apr-14", "MSNYDER", "4624031", "Residential, House and Mixed", "RM-1", "8", "Hunters View", "Bayview Hunters Point" ]
+, [ 222, "0D4DB5E2-F6F7-45CD-9D1B-96D16931B56C", 222, 1469789396, "930934", 1469789396, "930934", null, null, null, "1", "853", "JAMESTOWN", "AV", "Candlestick Heights", "853 JAMESTOWN AV", "4991", "277", "36", "36", "36", "LI", "Family", null, null, "APARTMENTS", "COMPLETE", "18-Aug-14", null, "4991277", "Residential, House and Mixed", "RH-2", "10", "Bayview Hunters Point", "Bayview Hunters Point" ]
+, [ 55, "0FA62F0B-5178-4B68-9C1E-B0B07F380AE3", 55, 1469789396, "930934", 1469789396, "930934", null, "201402279457", "835972", "1", "160", "14TH", "ST", null, "160 14TH ST", "3530", "49", "1", "1", "0.0", null, null, "TO OBTAIN FINAL INSPECTION FOR WORK APPROVED UNDER APP#200710034503. ALL WORK IS COMPLETE.", "FOOD/BEVERAGE HNDLNG", "1 FAMILY DWELLING", "PRE-FINAL", "28-Feb-14", null, "3530049", "Production, Distribution, Repair", "PDR-1-G", "6", "Mission (EN)", "Mission" ]
+, [ 56, "2ED71444-3B2A-4B3F-8516-1AA7C7EB8097", 56, 1469789396, "930934", 1469789396, "930934", null, "201109074027", "757232", "1", "1600", "MARKET", "ST", null, "1600 MARKET ST", "854", "1", "24", "24", "23", "MOD", "Homeowner", "TO ERET 5 STORIES, 24 UNITS RESIDENTIAL, RETAIL, STORAGE BUILDING.", null, "APARTMENTS", "CFC ISSUED", "14-Mar-14", "KGUY", "854001", "Neighborhood Commercial Transit", "NCT-3", "10", "Market and Octavia", "Hayes Valley" ]
+, [ 57, "1EB08B50-1F98-4252-8340-9021BC34FE8C", 57, 1469789396, "930934", 1469789396, "930934", null, "201307222389", "815366", "6", "162", "WEST POINT", "RD", null, "162 WEST POINT RD", "4624", "31", "-6", "-6", "0.0", null, null, "BLDG 18 - DEMOLISH 3-STORY, TYPE 5, RESIDENTIAL APARTMENT BUILDING.", "APARTMENTS", null, "COMPLETE", "30-Apr-14", "MSNYDER", "4624031", "Residential, House and Mixed", "RM-1", "14", "Hunters View", "Bayview Hunters Point" ]
+, [ 58, "74319D06-7C63-498E-B0B4-7B74F98A515D", 58, 1469789396, "930934", 1469789396, "930934", null, "201109164830", "758176", "3", "1622", "11TH", "AV", null, "1622 11TH AV", "1933", "41", "2", "1", "1", "SEC", "Homeowner", "CONVERSION OF A SFD TO A DUPLEX. ELECTRICAL & PLUMBING UNDER SEPARATE PERMITS.", "1 FAMILY DWELLING", "2 FAMILY DWELLING", "CFC ISSUED", "05-May-14", "MSMITH", "1933041", "Residential, House and Mixed", "RH-2", "3", null, "Inner Sunset" ]
+, [ 59, "91710635-A650-4B93-8CE8-669082ED83D1", 59, 1469789396, "930934", 1469789396, "930934", null, "201110146841", "760659", "1", "1645", "PACIFIC", "AV", null, "1645 PACIFIC AV", "595", "13", "38", "38", "5", "MOD", "Homeowner", "TO ERECT 6 STORY 38 UNIT RESIDENTIAL/COMMERCIAL/CONDOMINIUM BUILDING.", null, "APARTMENTS", "COMPLETE", "12-Nov-14", "KGUY", "595013", "Neighborhood Commercial", "POLK", "12", "Van Ness Corridor", "Russian Hill" ]
+, [ 60, "578AF758-734B-4CF0-9CD1-ED289769CEE5", 60, 1469789396, "930934", 1469789396, "930934", null, "201304235218", "806710", "6", "165", "BRUSSELS", "ST", null, "165 BRUSSELS ST", "5926", "21", "0", "-1", "0.0", null, null, "TO OBTAIN FINAL INSPECTION FOR WORK APPROVED UNDER PA 200807176984; ALL WORK IS COMPLETE", "1 FAMILY DWELLING", null, "FINAL INSPECT/APPRVD", "18-Apr-14", null, "5926021", "Residential, House and Mixed", "RH-1", "7", null, "Portola" ]
+, [ 61, "080D4DD0-A4F6-443F-AE16-62CE04881B39", 61, 1469789396, "930934", 1469789396, "930934", null, "200702063543", "606455", "2", "1710", "DIAMOND", "ST", null, "1710 DIAMOND ST", "7535", "102", "1", "1", "0.0", null, null, "ERECT ONE 3-STORY SINGLE FAMILY DWELLING", null, "1 FAMILY DWELLING", "CFC ISSUED", "18-Jul-14", "MIDDLEBR", "7535102", "Residential, House and Mixed", "RM-1", "7", null, "Noe Valley" ]
+, [ 62, "C222C84D-51FA-4D1A-90DF-4523FA0FB5FE", 62, 1469789396, "930934", 1469789396, "930934", null, "200702063541", "606453", "6", "1710", "DIAMOND", "ST", null, "1710 DIAMOND ST", "7535", "102", "-1", "-1", "0.0", null, null, "TO DEMOLISH SINGLE FAMILY DWELLING", "1 FAMILY DWELLING", null, "FINAL INSPECT/APPRVD", "18-Jul-14", "MIDDLEBR", "7535102", "Residential, House and Mixed", "RM-1", "9", null, "Noe Valley" ]
+, [ 63, "3A839DC8-E8FC-4810-B5E1-96442E6F3CFF", 63, 1469789396, "930934", 1469789396, "930934", null, "201202154236", "769574", "2", "1717", "17TH", "ST", "Onyx", "1717 17TH ST", "3980", "8", "20", "20", "2", "MOD", "Homeowner", "ERECT 4-STORY TYPE V BUILDING. RESIDENTIAL, RETAIL, PARKING.", null, "2 FAMILY DWELLING", "COMPLETE", "18-Apr-14", "CTEAGUE", "3980008", "Eastern Neighborhoods Mixed Use", "UMU", "7", "Eastern Neighborhoods w/Valencia", "Potrero Hill" ]
+, [ 64, "73E2465E-18E6-4A99-B776-3713AB7E05BA", 64, 1469789396, "930934", 1469789396, "930934", null, "200702063551", "606463", "2", "1718", "DIAMOND", "ST", null, "1718 DIAMOND ST", "7535", "102", "1", "1", "0.0", null, null, "ERECT: 1 3-STORY, SINGLE FAMILY DWELLING", null, "1 FAMILY DWELLING", "CFC ISSUED", "15-Sep-14", "SAMARASI", "7535102", "Residential, House and Mixed", "RM-1", "7", null, "Noe Valley" ]
+, [ 65, "9D246A24-67B8-4DF3-B78E-4BF9432CAAA9", 65, 1469789396, "930934", 1469789396, "930934", null, "200702063548", "606460", "2", "1728", "DIAMOND", "ST", null, "1728 DIAMOND ST", "7535", "102", "1", "1", "0.0", null, null, "ERECT: 1 3-STORY, TYPE-5 RESIDENTIAL STRUCTURE.", null, "1 FAMILY DWELLING", "CFC ISSUED", "26-Sep-14", "DWASHING", "7535102", "Residential, House and Mixed", "RM-1", "13", null, "Noe Valley" ]
+, [ 66, "72A60D82-65AD-4FA1-92BC-3F80B09F4467", 66, 1469789396, "930934", 1469789396, "930934", null, "201008168852", "726645", "2", "173", "MARSTON", "AV", null, "173 MARSTON AV", "3185", "23", "1", "1", "0.0", null, null, "TO ERECT 3 STORIES SINGLE FAMILY RESIDENCE.", null, "1 FAMILY DWELLING", "COMPLETE", "18-Sep-14", "APUTRA", "3185023", "Residential, House and Mixed", "RH-1", "7", null, "West of Twin Peaks" ]
+, [ 67, "8B2665C0-F06A-46F2-8399-D3F45277EA61", 67, 1469789396, "930934", 1469789396, "930934", null, "200702063550", "606462", "2", "1738", "DIAMOND", "ST", null, "1738 DIAMOND ST", "7535", "102", "1", "1", "0.0", null, null, "TO ERECT 3 STORY, TYPE 5, SINGLE FAMILY DWELLING BUILDING.", null, "1 FAMILY DWELLING", "CFC ISSUED", "26-Sep-14", "RCRAWFOR", "7535102", "Residential, House and Mixed", "RM-1", "10", null, "Noe Valley" ]
+, [ 68, "26AEDE1D-F791-47DE-8DD8-868211796D74", 68, 1469789396, "930934", 1469789396, "930934", null, "201307222392", "815369", "6", "174", "WEST POINT", "RD", null, "174 WEST POINT RD", "4624", "31", "-2", "-2", "0.0", null, null, "BLDG 20 - DEMOLISH 2-STORY, TYPE 5, RESIDENTIAL APARTMENT BUILDING.", "2 FAMILY DWELLING", null, "COMPLETE", "30-Apr-14", "MSNYDER", "4624031", "Residential, House and Mixed", "RM-1", "3", "Hunters View", "Bayview Hunters Point" ]
+, [ 69, "C1783596-922B-46AB-82BB-C963B473DAC6", 69, 1469789396, "930934", 1469789396, "930934", null, "201203075572", "771157", "2", "1771", "WASHINGTON", "ST", null, "1771 WASHINGTON ST", "619", "9", "3", "3", "0.0", null, null, "ERECT 4 STORY THREE UNITS BUILDING.", null, "APARTMENTS", "COMPLETE", "12-Nov-14", "GCABRERO", "619009", "Commercial", "RC-4", "10", "Van Ness Corridor", "Russian Hill" ]
+, [ 70, "A4DE6739-9E4A-49C9-8BE8-BF153878BBEF", 70, 1469789396, "930934", 1469789396, "930934", null, "201307222390", "815367", "6", "178", "WEST POINT", "RD", null, "178 WEST POINT RD", "4624", "31", "-4", "-4", "0.0", null, null, "BLDG 19 - DEMOLISH 2-STORY, TYPE 5, RESIDENTIAL APARTMENT BUILDING.", "APARTMENTS", null, "COMPLETE", "30-Apr-14", "MSNYDER", "4624031", "Residential, House and Mixed", "RM-1", "6", "Hunters View", "Bayview Hunters Point" ]
+, [ 71, "50E38BEF-B2E7-4E14-96DD-101F6FF1C80F", 71, 1469789396, "930934", 1469789396, "930934", null, "201003057685", "712508", "3", "179", "DELMAR", "ST", null, "179 DELMAR ST", "1270", "53", "2", "1", "1", "SEC", "Homeowner", "HORIZONTAL & VERTICAL EXTENSION TO CONVERT A SINGLE FAMILY INTO 2 FAMILY DWELLINGS. RAISE BLDG 2' TO FLATTEN SLOPE OF GARAGE TO GROUND FLOOR IS ENLARGE TO CREATE 2 CAR GARAGES AND ADD 1 BEDROOM. 2ND UNIT. 2ND FL IS ENLARGED FOR NEW FAMILY RM, DINING RM.& ", "1 FAMILY DWELLING", "2 FAMILY DWELLING", "COMPLETE", "30-Dec-14", "APUTRA", "1270053", "Residential, House and Mixed", "RH-2", "7", null, "Haight Ashbury" ]
+, [ 72, "C8492F84-75AE-49DD-BAA3-8E7747D51F16", 72, 1469789396, "930934", 1469789396, "930934", null, "201303152358", "803305", "1", "180", "YUKON", "ST", null, "180 YUKON ST", "2716", "56", "2", "2", "0.0", null, null, "TO COMPLETE AND FINALIZE WORK UNDER 200705252312 REF TO PA 201011124876; TO OBTAIN FINAL INSPECTION", "2 FAMILY DWELLING", "2 FAMILY DWELLING", "CFC ISSUED", "12-Jun-14", null, "2716056", "Residential, House and Mixed", "RH-2", "3", null, "Castro/Upper Market" ]
+, [ 73, "07A028D8-64D6-478B-A82E-B9FDF5926EB6", 73, 1469789396, "930934", 1469789396, "930934", null, "201202214559", "769966", "1", "1800", "VAN NESS", "AV", "Marlowe", "1800 VAN NESS AV", "619", "10", "95", "95", "15", "MOD", "Homeowner", "ERECT 8 STORIES, 98 DWELLING UNITS, 2 BASEMENTS, TYPE 1 NEW BUILDING.", null, "APARTMENTS", "COMPLETE", "12-Nov-14", "GCABRERO", "619010", "Commercial", "RC-4", "3", "Van Ness Corridor", "Nob Hill" ]
+, [ 74, "87BE7A32-9BE7-4953-8F9B-61B793852389", 74, 1469789396, "930934", 1469789396, "930934", null, "201402188771", "835148", "1", "1841", "STOCKTON", "ST", null, "1841 STOCKTON ST", "76", "5", "2", "2", "0.0", null, null, "TO OBTAIN FINAL INSPECTION FOR WORK APPROVED UNDER PA#200302197737 ALL WORK IS COMPLETE.", "VACANT LOT", "2 FAMILY DWELLING", "COMPLETE", "21-Aug-14", null, "76005", "Residential, House and Mixed", "RM-1", "9", null, "North Beach" ]
+, [ 75, "CD848936-1029-4E5B-8564-C3D2D74BF8A3", 75, 1469789396, "930934", 1469789396, "930934", null, "201104224606", "745775", "1", "185", "CHANNEL", "ST", null, "185 CHANNEL ST", "8711", "23", "315", "315", "0.0", null, null, "TO ERECT 8 STORIES, 315 UNITS RESIDENTIAL, RETAIL, PARKING BUILDING.", null, "APARTMENTS", "COMPLETE", "22-Jul-14", "PARCE", "8711023", "Redevelopment Agency", "MB-RA", "5", null, "Mission Bay" ]
+, [ 77, "15685CC3-2056-4196-915D-8CF5274E4163", 77, 1469789396, "930934", 1469789396, "930934", null, "201303293418", "804578", "3", "1927", "GOLDEN GATE", "AV", null, "1927 GOLDEN GATE AV", "1158", "37", "2", "1", "1", "SEC", "Homeowner", "CONVERT BUILDING FROM SINGLE FAMILY TO 2 UNIT DWELLING. TOP FLOOR TO BE NEW UNIT.", "1 FAMILY DWELLING", "2 FAMILY DWELLING", "COMPLETE", "17-Jun-14", "CLAMOREN", "1158037", "Residential, House and Mixed", "RH-3", "1", null, "Lone Mountain/USF" ]
+, [ 78, "1D90C7D0-BB23-4D3D-985B-CA69D4CE8736", 78, 1469789396, "930934", 1469789396, "930934", "{\n  \"invalidCells\" : {\n    \"37573038\" : \"026A\",\n    \"37573050\" : \"1065026A\"\n  }\n}", "201210232627", "791651", "3", "194", "PARKER", "AV", null, "194 PARKER AV", "1065", null, "4", "1", "1", "SEC", "Homeowner", "CONVERT (E) STORGE SPACE INTO ONE(1) NEW DWELLING UNIT BY ALTERING GROUND LEVEL STORAGE SPACE AT THE REAR OF THE (E) 3 UNIT BUILDING WITH HORIZONTAL EXTENSION OF THE FIRST FLOOR.", "APARTMENTS", "APARTMENTS", "COMPLETE", "21-Nov-14", "SVELLVE", null, "Neighborhood Commercial", "NC-3", "3", "Geary Corridor", "Presidio Heights" ]
+, [ 79, "AF7B6417-F4E2-4979-B9D0-7D0076A1BBF4", 79, 1469789396, "930934", 1469789396, "930934", null, "201406178558", "846835", "8", "1945", "HYDE", "ST", "The Garage", "1945 HYDE ST", "123", "2", "7", "7", "0.0", "in-lieu", null, "UNIT 2: RELOCATE 4 EXISTING HSW, ADD 1 CONCEALED PENDENT FOR RESIDENTIAL REMODEL. T.I. PA# 201005172557", "PRKNG GARAGE/PUBLIC", "APARTMENTS", "COMPLETE", "26-Jun-14", null, "123002", "Neighborhood Commercial", "NC-1", "10", null, "Russian Hill" ]
+, [ 80, "194B22D4-7AD3-4504-B928-AEDFCEF0FA28", 80, 1469789396, "930934", 1469789396, "930934", null, "201212045401", "794997", "3", "1963", "OAKDALE", "AV", null, "1963 OAKDALE AV", "5319", "34", "2", "1", "1", "SEC", "Homeowner", "REVISION TO PA# 2012/07/31/6103. CONVERT SINGLE FAMILY TO 2 UNITS RESIDENCE. ADD KITCHEN ON 1ST FLOOR. CONVERT WINDOW TO SLIDING GLASS DOOR TO REAR YARD.", "1 FAMILY DWELLING", "2 FAMILY DWELLING", "COMPLETE", "30-Dec-14", "JSPEIRS", "5319034", "Residential, House and Mixed", "RH-2", "2", "Bayview Hunters Point", "Bayview Hunters Point" ]
+, [ 81, "C0DB5DE1-9EEE-40EB-9E0E-92C441EF8590", 81, 1469789396, "930934", 1469789396, "930934", null, "201206182829", "779776", "2", "1973", "FILBERT", "ST", null, "1973 FILBERT ST", "531", "22", "1", "1", "0.0", null, null, "ERECT 3 STORIES, TYPE 5, 1 DWELLING UNIT RESIDENTIAL BUILDING.", null, "1 FAMILY DWELLING", "COMPLETE", "12-Sep-14", "ASTARR", "531022", "Residential, House and Mixed", "RH-2", "6", null, "Marina" ]
+, [ 82, "929F6E7C-CD80-4063-AE78-FE7293F2E848", 82, 1469789396, "930934", 1469789396, "930934", null, "201012217106", "736814", "1", "1998", "MARKET", "ST", "Linea", "1998 MARKET ST", "872", "7", "115", "115", "0.0", "off-site", null, "TO ERECT 9 STORIES, 114 RESIDENTIAL UNITS WITH RETAIL & PARKING BUILDING.", null, "APARTMENTS", "COMPLETE", "22-Jul-14", "JIONIN", "872007", "Neighborhood Commercial Transit", "NCT-3", "12", "Market and Octavia", "Hayes Valley" ]
+, [ 83, "A12356BE-75CA-4E01-8FDA-2A943A238795", 83, 1469789396, "930934", 1469789396, "930934", null, "201206132547", "779435", "8", "2", "CIELITO", "DR", null, "2 CIELITO DR", "6326", "1", "1", "-1", "0.0", null, null, "COMPLY WITH NOV 201209622. CONVERT E KITCHEN TO BAR ROOM, REMOVE E STOVVE. LEGALIZE E BATH, LIVING ROOM, BEDROOM. NEW WINDOW AT BEDROOM", "1 FAMILY DWELLING", "1 FAMILY DWELLING", "CFC ISSUED", "12-Nov-14", "ATAEB", "6326001", "Residential, House and Mixed", "RH-1", "9", null, "Visitacion Valley" ]
+, [ 84, "1932A6DE-E71B-4FE8-87FD-2B2895D4AFE3", 84, 1469789396, "930934", 1469789396, "930934", null, "201012015856", "735309", "3", "2000", "20TH", "ST", null, "2000 20TH ST", "4072", "23", "2", "1", "1", "SEC", "Homeowner", "PROPOSED ALTERATION AND VERTICAL ADDITION.", "1 FAMILY DWELLING", "2 FAMILY DWELLING", "COMPLETE", "11-Sep-14", "RSUCRE", "4072023", "Residential, House and Mixed", "RM-1", "13", "Eastern Neighborhoods w/Valencia", "Potrero Hill" ]
+, [ 85, "3B23DB77-619E-4466-8064-63DD9B6184E1", 85, 1469789396, "930934", 1469789396, "930934", null, "201307303146", "816286", "8", "201", "BEVERLY", "ST", null, "201 BEVERLY ST", "6999", "23", "1", "-1", "0.0", null, null, "REMOVE ILLEGAL KITCHEN & LEGALIZE TWO ROOMS & ONE BATH ON FIRST FLOOR.", "1 FAMILY DWELLING", "1 FAMILY DWELLING", "CFC ISSUED", "21-Mar-14", "OMOKAROE", "6999023", "Residential, House and Mixed", "RH-1", "10", null, "Oceanview/Merced/Ingleside" ]
+, [ 86, "3144C1E6-47E0-435B-81D5-7AF715ABAE6E", 86, 1469789396, "930934", 1469789396, "930934", null, "201307222398", "815375", "6", "201", "WEST POINT", "RD", null, "201 WEST POINT RD", "4624", "32", "-4", "-4", "0.0", null, null, "BLDG 53 - DEMOLISH 2-STORY, TYPE 5, RESIDENTIAL APARTMENT BUILDING.", "APARTMENTS", null, "COMPLETE", "30-Apr-14", "MSNYDER", "4624032", "Residential, House and Mixed", "RM-1", "10", "Hunters View", "Bayview Hunters Point" ]
+, [ 87, "B085BD80-7983-46A6-AE16-1FB2EC27D1E8", 87, 1469789396, "930934", 1469789396, "930934", null, "201307031151", "813857", "8", "2010", "QUESADA", "AV", null, "2010 QUESADA AV", "5330", "5", "1", "-1", "0.0", null, null, "1)COMPLY WITH COMPLAINT #201388203. 2)1ST FLOOR:REMOVE ILLEGAL KITCHEN,LEGALIZED 3 BEDROOMS, ONE FULL BATH AND LAUNDRY. 3)LOWER FLOOR: ADD PLAY ROOM. 1 BEDROOM, STORAGE AND HALF BATH.", "1 FAMILY DWELLING", "1 FAMILY DWELLING", "CFC ISSUED", "20-Feb-14", "EOROPEZA", "5330005", "Residential, House and Mixed", "RH-1", "2", "Bayview Hunters Point", "Bayview Hunters Point" ]
+, [ 88, "A0064556-C95C-4513-8284-31AA27CA746A", 88, 1469789396, "930934", 1469789396, "930934", null, "201307111596", "814425", "3", "2028", "BEACH", "ST", null, "2028 BEACH ST", "913", "11", "3", "1", "1", "SEC", "Homeowner", "CONVERT (E) R-3 TO R-2 (3 UNITS). ADD GROUND LEVEL UNIT, AS WELL AS HORIZONTAL EXTENSION AT THE 2ND & 3RD LEVELS. INSTALL FIRE SPRINKLERS ON ENTIRE FIRST FLOOR AND NEW ADDITION ON 2ND & 3RD FLOOR UNDER SEPARATE PERMIT. FIRE ALARM UNDER SEPARATE PERMIT.", "2 FAMILY DWELLING", "APARTMENTS", "COMPLETE", "07-Nov-14", "KBURNS", "913011", "Residential, House and Mixed", "RH-3", "13", null, "Marina" ]
+, [ 89, "DACACE62-BAEC-495E-A257-8F49D896EDB4", 89, 1469789396, "930934", 1469789396, "930934", "{\n  \"invalidCells\" : {\n    \"37573037\" : \"3027A\",\n    \"37573050\" : \"3027A120\"\n  }\n}", "200805061388", "654180", "2", "203", "LOS PALMOS", "DR", null, "203 LOS PALMOS DR", null, "120", "1", "1", "0.0", null, null, "CONSTRUCTION OF THREE-STORY SINGLE FAMILY DWELLING.", null, "1 FAMILY DWELLING", "CFC ISSUED", "03-Sep-14", "EWATTY", null, "Residential, House and Mixed", "RH-1", "10", null, "West of Twin Peaks" ]
+, [ 90, "7F24AF64-7920-47B0-9094-A13F7F102004", 90, 1469789396, "930934", 1469789396, "930934", "{\n  \"invalidCells\" : {\n    \"37573037\" : \"5335C\",\n    \"37573038\" : \"001B\",\n    \"37573050\" : \"5335C001B\"\n  }\n}", "201401095906", "831695", "8", "205", "TOPEKA", "AV", null, "205 TOPEKA AV", null, null, "1", "-1", "0.0", null, null, "COMPLY WITH 201307503. REMOVE ILLEGAL KITCHEN. CONVERT TO LAUNDRY ROOM OR LEGALIZE FAMILY ROOM. 1 FULL BATH. ALL WORK AT GR FL", "1 FAMILY DWELLING", "1 FAMILY DWELLING", "CFC ISSUED", "19-Feb-14", "SVELLVE", null, "Residential, House and Mixed", "RH-1", "13", "Bayview Hunters Point", "Bayview Hunters Point" ]
+, [ 91, "95D04A46-B765-4D68-9A24-973A59B8F62C", 91, 1469789396, "930934", 1469789396, "930934", "{\n  \"invalidCells\" : {\n    \"37573037\" : \"3027A\",\n    \"37573050\" : \"3027A119\"\n  }\n}", "200805061381", "654168", "2", "207", "LOS PALMOS", "DR", null, "207 LOS PALMOS DR", null, "119", "1", "1", "0.0", null, null, "CONSTRUCTION OF THREE-STORY SINGLE FAMILY DWELLING.", null, "1 FAMILY DWELLING", "CFC ISSUED", "03-Sep-14", "EWATTY", null, "Residential, House and Mixed", "RH-1", "12", null, "West of Twin Peaks" ]
+, [ 92, "0DAF9DEA-CF73-46A2-A5CF-93F6F7EEDA2B", 92, 1469789396, "930934", 1469789396, "930934", "{\n  \"invalidCells\" : {\n    \"37573029\" : \"9809016S\"\n  }\n}", null, null, "2", "209", "DUBLIN", "ST", null, "209 DUBLIN ST", "6284", "8", "0", "1", "0.0", null, null, "TO OBTAIN FINAL INSPECTION FOR WORK APPROVED UNDER PA#9809017. ALL WORK IS COMPLETE.", "1 FAMILY DWELLING", "1 FAMILY DWELLING", "COMPLETE", "22-Jul-14", null, "6284008", "Residential, House and Mixed", "RH-1", "9", null, "Excelsior" ]
+, [ 93, "056C2718-02F5-40A1-A4FE-5F3DF71EB013", 93, 1469789396, "930934", 1469789396, "930934", null, "201111179162", "763482", "1", "2121", "03RD", "ST", "Gantry", "2121 03RD ST", "4045", "2", "105", "105", "18", "LI", "Family", "ERECT 105 DWELLING UNITS, 7 STORIES, RESIDENTIAL/PARKING BUILDING.", null, "APARTMENTS", "COMPLETE", "12-Nov-14", "BFU", "4045002", "Eastern Neighborhoods Mixed Use", "UMU", "13", "Eastern Neighborhoods w/Valencia", "Potrero Hill" ]
+, [ 94, "56A9CD61-7EC3-4781-AE2E-B2CB80BEED94", 94, 1469789396, "930934", 1469789396, "930934", "{\n  \"invalidCells\" : {\n    \"37573037\" : \"3027A\",\n    \"37573050\" : \"3027A118\"\n  }\n}", "201309197242", null, "2", "213", "LOS PALMOS", "DR", null, "213 LOS PALMOS DR", null, "118", "1", "1", "0.0", null, null, null, null, "1 FAMILY DWELLING", "COMPLETE", "19-Sep-14", null, null, "Residential, House and Mixed", "RH-1", "2", null, "West of Twin Peaks" ]
+, [ 95, "6A89ED27-10C0-4BD9-B730-8A117D413130", 95, 1469789396, "930934", 1469789396, "930934", "{\n  \"invalidCells\" : {\n    \"37573038\" : \"007D\",\n    \"37573050\" : \"0919007D\"\n  }\n}", "201208318724", "786822", "3", "2137", "BEACH", "ST", null, "2137 BEACH ST", "919", null, "3", "1", "1", "SEC", "Homeowner", "DIVIDE (E) LEGALLY CREATED DWELLING UNIT #2135 INTO (2) SEPARATE DWELLING UNITS, THEREBY CREATING A (3) UNIT BLDG, WHICH WAS (2) UNITS. ENTIRE GROUND FLOOR SHALL BE SPRINKLED PER NFPA 13 UNDER SEPERATE PERMIT. (N) UNIT SHALL BE 859 SQ FT.  NO CHANGE IN BL", "2 FAMILY DWELLING", "APARTMENTS", "COMPLETE", "01-May-14", "SYOUNG", null, "Residential, House and Mixed", "RH-3", "2", null, "Marina" ]
+, [ 96, "C97E32C1-57BC-4A14-A153-6396A0328998", 96, 1469789396, "930934", 1469789396, "930934", null, "201201041698", "766470", "3", "2152", "LYON", "ST", null, "2152 LYON ST", "982", "22", "2", "-1", "0.0", null, null, "CHANGE OF USE R2 TO R3. COMBINE MID & TOP FLR UNITS (2150, 2152 LYON ST.) INTO 1 UNIT. REMOVE KITCH IN 2150, & REMOVE INT STAIRWAY ENCL WALLS & REPLACE W/ OPEN GUARD RAILS. DR CASE FILED 2011.1419D W/ PLANNING ON 12/20/11. W/ 311 MATERIALS. STRUCT REF TO ", "APARTMENTS", "2 FAMILY DWELLING", "COMPLETE", "17-Apr-14", "CLAMOREN", "982022", "Residential, House and Mixed", "RH-3", "2", null, "Pacific Heights" ]
+, [ 97, "026E434B-3E11-447C-9F4F-3CAB878E9AFE", 97, 1469789396, "930934", 1469789396, "930934", null, "200702134062", "607106", "1", "2157", "GREEN", "ST", null, "2157 GREEN ST", "557", "61", "1", "1", "0.0", null, null, "ERECT:1  5-story single family dwelling", null, "1 FAMILY DWELLING", "COMPLETE", "06-Jan-14", "ASTARR", "557061", "Residential, House and Mixed", "RH-2", "2", null, "Marina" ]
+, [ 98, "A099D41C-E198-4C06-B510-F90A3F815A7A", 98, 1469789396, "930934", 1469789396, "930934", null, "200705211788", "616758", "3", "2157", "LOMBARD", "ST", null, "2157 LOMBARD ST", "510", "29", "3", "1", "1", "SEC", "Homeowner", "TO COMPLY WITH NOV#200665975 TO ESTABLISH LEGALITY OF UNITS # OF (3) TOTAL, TO ESTABLISH LEGALITY OF WALL SIGN.", "2 FAMILY DWELLING", "APARTMENTS", "CFC ISSUED", "13-Mar-14", "RACHNA", "510029", "Neighborhood Commercial", "NC-3", "7", null, "Marina" ]
+, [ 99, "E4A0964B-E7CE-473D-9067-3E022D75300B", 99, 1469789396, "930934", 1469789396, "930934", null, "201207205377", "782813", "1", "2175", "MARKET", "ST", null, "2175 MARKET ST", "3543", "11", "88", "88", "18", "LI", "Family", "ERECT 6 STORIES , 88 DWELLING UNIT.TYPE 5 OVER 1", null, "APARTMENTS", "TCO ISSUED", "17-Oct-14", "MSMITH", "3543011", "Neighborhood Commercial Transit", "UPR MARKET NCT", "12", "Market and Octavia", "Castro/Upper Market" ]
+, [ 100, "202D9EBD-A5BF-4B8E-B5F1-A50BDD0FF100", 100, 1469789396, "930934", 1469789396, "930934", null, "201311061289", "826214", "8", "2209", "CAYUGA", "AV", null, "2209 CAYUGA AV", "7145", "88", "2", "-1", "0.0", null, null, "COMPLY WITH COMPLAINT #201330791. REMOVE UNPERMITTED KITCHEN AT GROUND FLOOR, LEGALIZED home OFFICE, 2 BATHROOMS, BEDROOM & LAUNDRY AT GROUND FLOOR.", "2 FAMILY DWELLING", "2 FAMILY DWELLING", "CFC ISSUED", "16-Jun-14", "MCORRETT", "7145088", "Residential, House and Mixed", "RH-2", "6", null, "Outer Mission" ]
+, [ 101, "E6FBD66A-F057-4BD7-90D2-A819DD1FEE78", 101, 1469789396, "930934", 1469789396, "930934", null, "200509142800", "557929", "1", "2210", "MARKET", "ST", "The Century", "2210 MARKET ST", "3560", "1", "22", "22", "3", "MOD", "Homeowner", "TO ERECT  5 STORIES AND BASEMENT(UNDERGROUND PARKING),22 DWELLING UNITS AND 2 COMMERCIAL USES THAT COMPLIES WITH 2007 C.B.C.", null, "APARTMENTS", "CFC ISSUED", "18-Feb-14", "RCRAWFOR", "3560001", "Neighborhood Commercial Transit", "UPR MARKET NCT", "7", "Market and Octavia", "Castro/Upper Market" ]
+, [ 102, "5F9231AF-D577-4C80-A194-A7086E946D9F", 102, 1469789396, "930934", 1469789396, "930934", null, "201403312057", "839048", "8", "2224", "CASTRO", "ST", null, "2224 CASTRO ST", "7536", "37", "2", "1", "1", "SEC", "Homeowner", "TO OBTAIN FINAL INSPECTION FOR WORK APPROVED UNDER PA # 200508251198.  ALL WORK IS COMPLETE.  ADDITIONAL DWELLING UNIT ADDED ON PA # 200508251198.", "1 FAMILY DWELLING", "2 FAMILY DWELLING", "COMPLETE", "03-Dec-14", null, "7536037", "Residential, House and Mixed", "RH-2", "1", null, "Noe Valley" ]
+, [ 103, "FA589706-1383-46A2-A837-6B4536846439", 103, 1469789396, "930934", 1469789396, "930934", null, "201204208772", "774908", "2", "230", "02ND", "AV", null, "230 02ND AV", "1432", "37", "3", "3", "0.0", null, null, "TO ERECT 4 STORIES,  3 UNITS, TYPE 5, RESIDENTIAL BUILDING.", null, "APARTMENTS", "COMPLETE", "11-Jun-14", "GCABRERO", "1432037", "Residential, House and Mixed", "RM-1", "8", null, "Inner Richmond" ]
+, [ 104, "D31FCD19-7C9B-4FE9-BBDE-01CC6899C389", 104, 1469789396, "930934", 1469789396, "930934", null, "201206112314", "779150", "3", "230", "11TH", "ST", null, "230 11TH ST", "3516", "5", "15", "4", "0.0", null, null, "REPAIR FIRE, SMOKE&WTR DAMAGE THROUGHOUT(NEW FINISHES, CASEWORK). EXCAVATE BSMT FOR 2 NEW APTS&SERVICE ROOMS. REMODEL EXISTING APT FLR 1-3(NEW KITCHENS,BATHS,UTILITY). ADD 4TH FLR W/ 2 NEW APTS. ADD ROOF TERRACE. REMODEL 2 EXISTING EXIT STAIRS.", "APARTMENTS", "APARTMENTS", "PRE-FINAL", "27-Aug-14", "RSUCRE", "3516005", "South of Market Mixed Use", "SLR", "7", "Western SoMa (EN)", "Mission" ]
+, [ 105, "CF8D8D0A-0874-44D1-8130-4DE421299B29", 105, 1469789396, "930934", 1469789396, "930934", null, "201208107050", "784829", "2", "233", "LAIDLEY", "ST", null, "233 LAIDLEY ST", "6684", "22", "1", "1", "0.0", null, null, "ERECT 4 STORIES, TYPE 5, SINGLE FAMILY RESIDENCE BUILDING.", null, "1 FAMILY DWELLING", "COMPLETE", "10-Dec-14", "APUTRA", "6684022", "Residential, House and Mixed", "RH-1", "7", null, "Glen Park" ]
+, [ 106, "ACB509B3-7DBE-4D8A-9216-3C922A3646A9", 106, 1469789396, "930934", 1469789396, "930934", null, "201208107053", "784832", "6", "233", "LAIDLEY", "ST", null, "233 LAIDLEY ST", "6684", "22", "-1", "-1", "0.0", null, null, "DEMOLISH 1 STORY, TYPE 5, SINGLE FAMILY RESIDENT BUILDING.", "1 FAMILY DWELLING", null, "COMPLETE", "10-Dec-14", "APUTRA", "6684022", "Residential, House and Mixed", "RH-1", "12", null, "Glen Park" ]
+, [ 107, "DFA16E1B-2C1E-493B-A1F0-55BB1D5CCF12", 107, 1469789396, "930934", 1469789396, "930934", null, "201209109323", "787562", "8", "238", "PARIS", "ST", null, "238 PARIS ST", "6015", "9", "1", "-1", "0.0", null, null, "COMPLY WITH NOV# 201169853 DATED 12/2/11-DEMOLISH 2 ILLEGAL KITCHENS, 1 ON GROUND FLOOR & 1 ON 2ND FLOOR. LEGALIZE (E) HABITABLE SPACE ON GROUND FLOOR  (1 BEDROM, 1 FAMILY ROOM, 1 BATHROOM & 1 WALK-IN LCOSET. LEGALIZE HABITABLE SPACES AT GROUND & 3RD FLOO", "1 FAMILY DWELLING", "1 FAMILY DWELLING", "CFC ISSUED", "07-Jan-14", "ATAEB", "6015009", "Residential, House and Mixed", "RH-1", "7", null, "Excelsior" ]
+, [ 108, "CA8BE27F-F551-4DEB-8235-12C7C68C37FC", 108, 1469789396, "930934", 1469789396, "930934", null, "201210192453", "791427", "2", "2397", "DIAMOND", "ST", null, "2397 DIAMOND ST", "7551", "107", "1", "1", "0.0", null, null, "ERECT TWO STORY SINGLE FAMILY DWELLING.", null, "1 FAMILY DWELLING", "CFC ISSUED", "14-May-14", "SAMARASI", "7551107", "Residential, House and Mixed", "RH-1", "1", null, "Glen Park" ]
+, [ 109, "4D6042BF-2133-47B8-BC94-5854F16AA63C", 109, 1469789396, "930934", 1469789396, "930934", null, "201306260603", "813192", "3", "2418", "BALBOA", "ST", null, "2418 BALBOA ST", "1568", "12", "2", "1", "1", "SEC", "Homeowner", "ADD 1-UNIT NUMBER FOR THE (E) IN-LAW UNIT. EXPLAND 6'9\" ON REAR BACK FOR 2-STORIES. THE SAME SIZE AS THE (E) NON-PERMIT SUNROOM & FILL UNDERNEATH. FILL THE LIGHTWELL. REMODEL KITCHEN ON 2ND FL; ADD BATHROOM & LAUNDRY AREA ON 2ND FL; ADD SMALL KITCHEN ON 1", "1 FAMILY DWELLING", "2 FAMILY DWELLING", "PRE-FINAL", "17-Nov-14", "SYOUNG", "1568012", "Residential, House and Mixed", "RH-2", "8", null, "Outer Richmond" ]
+, [ 110, "14D8855F-3285-4215-97A5-B8DA14AF5A78", 110, 1469789396, "930934", 1469789396, "930934", null, "201208248160", "786143", "2", "2421", "16TH", "ST", null, "2421 16TH ST", "3965", "1", "12", "12", "1", "MOD", "Homeowner", "ERECT 4 STORIES, NO BASEMENT, TYPE 5A (FULLY SPRINKLERED), 12 DWELLING UNITS BLDG.", null, "APARTMENTS", "PRE-FINAL", "12-Dec-14", "DSANCHEZ", "3965001", "Eastern Neighborhoods Mixed Use", "UMU", "9", "Mission (EN)", "Mission" ]
+, [ 111, "4F8DDF53-2CBB-4799-AE51-70238A883473", 111, 1469789396, "930934", 1469789396, "930934", null, "200701051074", "603395", "2", "246", "RITCH", "ST", null, "246 RITCH ST", "3776", "92", "19", "19", "0.0", "in-lieu", null, "TO ERECT A NEW 5 STORY 19 DWELLING UNIT", null, "APARTMENTS", "COMPLETE", "06-Feb-14", "CTEAGUE", "3776092", "South of Market Mixed Use", "SLI", "8", "Eastern Neighborhoods w/Valencia", "South of Market" ]
+, [ 129, "8C1FDF05-8549-4AF8-B352-C6D3B8C87077", 129, 1469789396, "930934", 1469789396, "930934", null, "201310038412", "822764", "3", "2808", "MARKET", "ST", null, "2808 MARKET ST", "2651", "8", "2", "1", "1", "SEC", "Homeowner", "INSTALL KITCHEN IN LOWER LEVEL UNIT. CHANGE OF USE FROM A SINGLE FAMILY DWELLING UNIT TO 2 DWELLING UNITS.", "1 FAMILY DWELLING", "2 FAMILY DWELLING", "COMPLETE", "06-Mar-14", "JLOOK", "2651008", "Residential, House and Mixed", "RH-2", "2", null, "Castro/Upper Market" ]
+, [ 112, "6C07A65D-3F05-4450-9FFC-F926E59127E4", 112, 1469789396, "930934", 1469789396, "930934", null, "201302220798", "801422", "8", "2475", "BRYANT", "ST", null, "2475 BRYANT ST", "4151", "20", "2", "-1", "0.0", null, null, "ABATEMENT OF NOV 201384207. REMOVE ILLEGALLY BUILT ROOF PENTHOUSE. PROVIDE NEW ROOF ACCESS HATCH IN LIEU OF PENTHOUSE. LEGALIZE SPIRAL STAIRS AND STAIR OPENING.  WORK AT ROOF LEVEL ONLY. ADD 42\" HIGH PARAPET.", "2 FAMILY DWELLING", "2 FAMILY DWELLING", "CFC ISSUED", "27-Jun-14", "ATAEB", "4151020", "Residential, House and Mixed", "RM-1", "12", "Mission (EN)", "Mission" ]
+, [ 113, "FDAD2B76-2D8E-4D2A-9DCE-282EE78F9F1D", 113, 1469789396, "930934", 1469789396, "930934", null, "200711289148", "638709", "2", "248", "OCEAN", "AV", null, "248 OCEAN AV", "3211", "9", "5", "5", "0.0", null, null, "New construction of a 4-story over basement, mixed use building consisting of 5-dwelling units and an office commercial use on the ground floor.", null, "APARTMENTS", "COMPLETE", "22-Apr-14", "RCRAWFOR", "3211009", "Neighborhood Commercial", "NC-1", "8", null, "Outer Mission" ]
+, [ 114, "3EF78A49-515D-4D6D-9F18-94758237DD8A", 114, 1469789396, "930934", 1469789396, "930934", null, "201311131772", "826816", "8", "25", "ELGIN", "PK", null, "25 ELGIN PK", "3502", "111", "9", "1", "1", "SEC", "Homeowner", "NEW 1 BEDROOM, 1 BATH UNIT TO EXISTING 8 UNIT RESIDENTIAL. TO BE CONSTRUCTED WITHIN EXISTING SHELL OF BUILDING. NO HORIZONTAL OR VERTICAL EXTENSION OF EXISTING BUILDING. BUILDING WAS SEISMICALLY UPGRADED UNDER 201304305828.  SPRINKLERS REQUIRED IN NEW WOR", "APARTMENTS", "APARTMENTS", "COMPLETE", "17-Dec-14", null, "3502111", "Residential, Transit Oriented", "RTO", "4", "Market and Octavia", "Mission" ]
+, [ 115, "5DD39737-CD4C-4373-9D32-8B9303C3026C", 115, 1469789396, "930934", 1469789396, "930934", null, "201107019385", "751582", "8", "250", "KEARNY", "ST", null, "250 KEARNY ST", "288", "25", "136", "-10", "0.0", null, null, "Reconfiguring of rooms on all floors including creating of community kitchen & accessible bathrms. reducing # of rooms from 145 to 136 & increasing # of bathrms. from 110 to 131, structural work address all outstanding complaints & nov's; 200005134 & 2010", "RESIDENTIAL HOTEL", "RESIDENTIAL HOTEL", "PRE-FINAL", "22-Aug-14", "ATAEB", "288025", "Commercial", "C-3-O", "1", "Downtown", "Financial District/South Beach" ]
+, [ 116, "743C0C47-6BF6-4CB1-B148-401625B07FC9", 116, 1469789396, "930934", 1469789396, "930934", null, "200901220624", "678911", "3", "253", "PARKER", "AV", null, "253 PARKER AV", "1086", "6", "3", "1", "1", "SEC", "Homeowner", "REAR AND 3RD FLOOR ADDITON.  3RD UNIT & DECK. BASEMENT FLR. ADDITION OF 3 CAR GARAGE, WORK ROOM, AND 1/2 BATH.  NEW INTERIOR STAIRS.  1ST. & 2ND FLR. REMODEL. ADD FULL BATH AND DECKS ON EACH LEVEL.  STAIR ROOF HATCH AT ROOF.", "2 FAMILY DWELLING", "APARTMENTS", "COMPLETE", "11-Jun-14", "ASTARR", "1086006", "Residential, House and Mixed", "RM-1", "7", "Geary Corridor", "Lone Mountain/USF" ]
+, [ 117, "047AC6DE-E5D0-4D55-AA1C-2239B533830F", 117, 1469789396, "930934", 1469789396, "930934", null, "201208278277", "786289", "3", "253", "SANCHEZ", "ST", null, "253 SANCHEZ ST", "3558", "29", "1", "1", "0.0", null, null, "REVISION TO APPLN #200805021189-S. CHANGE OF USE OF REAR SECOND STRUCTURE TO 1-DWELLING UNIT.", "STORAGE SHED", "1 FAMILY DWELLING", "COMPLETE", "28-Oct-14", "APUTRA", "3558029", "Residential, Transit Oriented", "RTO", "2", "Market and Octavia", "Castro/Upper Market" ]
+, [ 118, "C173E159-2D0B-40BE-8A61-C1546EE75944", 118, 1469789396, "930934", 1469789396, "930934", null, "201106017181", "748906", "1", "2559", "VAN NESS", "AV", null, "2559 VAN NESS AV", "527", "2", "27", "27", "0.0", "in-lieu", null, "TO ERECT 7 STORIES, 27 UNITS RESIDENTIAL / RETAIL / GARAGE BUILDING.", null, "APARTMENTS", "COMPLETE", "25-Nov-14", "GCABRERO", "527002", "Commercial", "RC-3", "13", "Van Ness Corridor", "Marina" ]
+, [ 119, "63014346-1F54-4B8A-87A4-597E6788F262", 119, 1469789396, "930934", 1469789396, "930934", null, "201309207381", "821492", "8", "259", "CHESTER", "AV", null, "259 CHESTER AV", "7129", "28", "1", "-1", "0.0", null, null, "COMPLY WITH 201316832. REMOVE ILLEGAL KITCHEN AT GR FLOOR. RELOCATE LAUNDRY TO GARAGE AND CONVERT LAUNDRY TO RAMILY ROOM", "1 FAMILY DWELLING", "1 FAMILY DWELLING", "CFC ISSUED", "20-Feb-14", null, "7129028", "Residential, House and Mixed", "RH-1", "9", null, "Oceanview/Merced/Ingleside" ]
+, [ 120, "A858BA8E-60B5-4D76-8E60-1D5D42BF94B3", 120, 1469789396, "930934", 1469789396, "930934", null, "201312113954", "829393", "1", "260", "05TH", "ST", "Mosso", "260 05TH ST", "3732", "8", "182", "182", "27", "LI", "Family", "TO ERECT NON ELECTRIC DOUBLE FACED WALL SIGN. COMPLIANCE WITH ORD 155-13 NOT REQUIRED", null, "APARTMENTS", "COMPLETE", "23-Jun-14", "EOROPEZA", "3732008", "Eastern Neighborhoods Mixed Use", "MUR", "12", "Eastern Neighborhoods w/Valencia", "South of Market" ]
+, [ 121, "81BE393A-88DD-41FF-BADB-5CD9BB3645CB", 121, 1469789396, "930934", 1469789396, "930934", null, "201408284979", "854557", "2", "262", "MADISON", "ST", null, "262 MADISON ST", "5943", "50", "1", "1", "0.0", null, null, "rev 201401317506-  as built; add new bedroom, and  add door to storage room on ground floor.  add new bedroom to 2/F; no structural work.", "1 FAMILY DWELLING", "1 FAMILY DWELLING", "CFC ISSUED", "06-Nov-14", null, "5943050", "Residential, House and Mixed", "RM-1", "1", null, "Excelsior" ]
+, [ 122, "7FAC0ACD-D588-44CB-B429-E5981C940BB9", 122, 1469789396, "930934", 1469789396, "930934", "{\n  \"invalidCells\" : {\n    \"37573038\" : \"032B\",\n    \"37573050\" : \"1617032B\"\n  }\n}", "200911191706", "705022", "3", "2645", "BALBOA", "ST", null, "2645 BALBOA ST", "1617", null, "2", "1", "1", "SEC", "Homeowner", "CONVERT A 2 STORY SINGLE FAMILY DWELLING INTO A 3 STORY 2 UNIT BUILDING BY A VERTICAL & HORIZONTAL ADDITION", "1 FAMILY DWELLING", "2 FAMILY DWELLING", "CFC ISSUED", "16-Jul-14", "GCABRERO", null, "Residential, House and Mixed", "RH-2", "12", null, "Outer Richmond" ]
+, [ 123, "04CE192C-B624-4C29-84CF-B954116A55AD", 123, 1469789396, "930934", 1469789396, "930934", null, "201408284980", "854558", "2", "268", "MADISON", "ST", null, "268 MADISON ST", "5943", "51", "1", "1", "0.0", null, null, "rev. 201401317508- ; as built; add new bedrooms and door, add storage room on G/F.  add new bedroom to 2/F; no structural work.", "1 FAMILY DWELLING", "1 FAMILY DWELLING", "CFC ISSUED", "06-Nov-14", null, "5943051", "Residential, House and Mixed", "RH-1", "3", null, "Excelsior" ]
+, [ 124, "57F21DFD-4207-4EB3-B75D-65347B2E6BAC", 124, 1469789396, "930934", 1469789396, "930934", null, "201109225304", "758759", "3", "2701", "LARKIN", "ST", null, "2701 LARKIN ST", "477", "5", "12", "-1", "0.0", null, null, "RELOCATE INTERIOR WALLS @ 5TH FL CIRCULATION SPACE TO MERGE UNITS 400 AND 401. RETAIN BOTH KITCHENS. NOTE: PLANNING DEPT. HAS PENDING 317 DR CASE# 2011.1072D, ASSIGNED TO MARY WOODS", "APARTMENTS", "APARTMENTS", "COMPLETE", "10-Jun-14", "MWOODS", "477005", "Residential, House and Mixed", "RM-3", "2", null, "Russian Hill" ]
+, [ 125, "DDFAB40B-E465-4DE6-9D16-8375ED0B8C01", 125, 1469789396, "930934", 1469789396, "930934", null, "201102140173", "740462", "6", "2712", "BROADWAY", null, null, "2712 BROADWAY ", "959", "8", "-1", "-1", "0.0", null, null, "DEMOLISH 3 STORIES, TYPE 5, SINGLE FAMILY DWELLING BLDG.", "1 FAMILY DWELLING", null, "COMPLETE", "05-May-14", "GCABRERO", "959008", "Residential, House and Mixed", "RH-1(D)", "13", null, "Pacific Heights" ]
+, [ 126, "530EEA6E-7C06-4E3B-B1B2-50110062F5FE", 126, 1469789396, "930934", 1469789396, "930934", null, "201308305736", "819484", "2", "272", "BRIGHTON", "AV", null, "272 BRIGHTON AV", "6944", "62", "2", "2", "0.0", null, null, "TO ERECT 4-STORY, NO BASEMENT, TYPE 5, 2 DWELLING UNITS BUILDING.", null, "APARTMENTS", "CFC ISSUED", "12-Nov-14", "DVU", "6944062", "Residential, House and Mixed", "RH-2", "1", "Balboa Park", "Oceanview/Merced/Ingleside" ]
+, [ 127, "D2EAD3B7-7E4B-4648-803E-D8F5F39C1043", 127, 1469789396, "930934", 1469789396, "930934", null, "201403049837", "836426", "8", "2721", "GOLDEN GATE", "AV", null, "2721 GOLDEN GATE AV", "1166", "37", "1", "-1", "0.0", null, null, "ABATEMENT OF NOV# 201340752, REMOVE (E) KITCHEN & BATH AT G/F. CONVERT ROOMS AT GROUND FLOOR TO STORAGE ROOM, NO WORK ON THE 2/F.", "1 FAMILY DWELLING", "1 FAMILY DWELLING", "CFC ISSUED", "21-Apr-14", "KBRUSATO", "1166037", "Residential, House and Mixed", "RH-2", "7", null, "Lone Mountain/USF" ]
+, [ 128, "88D4A6E6-3B24-429F-BEC1-457C04F40161", 128, 1469789396, "930934", 1469789396, "930934", null, "201305096592", "808383", "8", "277", "ARLINGTON", "ST", null, "277 ARLINGTON ST", "6689", "16", "1", "-1", "0.0", null, null, "To comply w/NOV# 201106821. Remove ill. ktchn & bathrm @1st & 3rd flr. Legalize(E)bdrm &fam. rm @1st flr. Add(N)bathrm &Laundry rm @ 1st flr. Remodel(E)ktchn &bathrm at 2nd Flr. Remodel(E)bdrms and bathrm @3rd flr. Add(N)bathrm @3fl. replc &relocate(E)W.H", "1 FAMILY DWELLING", "1 FAMILY DWELLING", "CFC ISSUED", "13-Jun-14", "MCORRETT", "6689016", "Residential, House and Mixed", "RH-2", "7", "Glen Park (superseded)", "Glen Park" ]
+, [ 130, "8773FF04-801C-47AD-90AA-7E86352DE988", 130, 1469789396, "930934", 1469789396, "930934", null, "201309187184", "821267", "3", "2810", "CLAY", "ST", null, "2810 CLAY ST", "1002", "11", "2", "-1", "0.0", null, null, "UNIT REDUCTION VIA  MERGER: 3 INTO 2 UNITS. UNIT #1 NO WORK. UNIT 2 & 3 MERGE UNITS. REMOVE NON BEARING PARTIITION. REMOVE RANGE + REFRIGERATOR FROM UNIT 3 COVERT TOP LEVEL KITCHEN TO LAUNDRY.\n** MAHER: COMPLIANCE WITH ORDINANCE NO# 155-13 NOT REQUIRED **", "APARTMENTS", "2 FAMILY DWELLING", "COMPLETE", "17-Dec-14", "SYOUNG", "1002011", "Residential, House and Mixed", "RH-2", "2", null, "Pacific Heights" ]
+, [ 131, "46BC1675-063C-4D2A-9C85-0B274F3FDCAF", 131, 1469789396, "930934", 1469789396, "930934", null, "200812088013", "675606", "2", "2921", "LAGUNA", "ST", null, "2921 LAGUNA ST", "531", "4", "2", "2", "0.0", null, null, "ERECT 4 STORIES 2 FAMILY DWELLINGS.", null, "2 FAMILY DWELLING", "COMPLETE", "27-May-14", "GCABRERO", "531004", "Residential, House and Mixed", "RH-2", "8", null, "Marina" ]
+, [ 132, "B4B9FCF9-4570-4F61-B863-118ADF2CA7A8", 132, 1469789396, "930934", 1469789396, "930934", null, "201203287050", "772884", "3", "2923", "HARRISON", "ST", null, "2923 HARRISON ST", "4271", "34", "2", "1", "1", "SEC", "Homeowner", "CREATE LEGAL GROUND FLOOR SECOND UNIT. WORK TO INCLUDE (N) MECHANICAL (FURNACE), (N) LIGHTING & PLUMBING & ELECTRICAL. CREATE (N) BATHROOM FOR UPPER (E) UNIT ON GROUND FLOOR, NEW LAUNDRY ROOM. INFILL ON GROUND FLOOR ONLY, LIGHT WELL FOR ACCESS TO NEW UNIT", "1 FAMILY DWELLING", "2 FAMILY DWELLING", "COMPLETE", "19-Dec-14", "BFU", "4271034", "Residential, House and Mixed", "RH-2", "8", "Mission (EN)", "Mission" ]
+, [ 133, "3306EDA2-C6CE-448B-9C71-AED1DE6F7796", 133, 1469789396, "930934", 1469789396, "930934", "{\n  \"invalidCells\" : {\n    \"37573038\" : \"018B\",\n    \"37573050\" : \"3613018B\"\n  }\n}", "201401146217", "832067", "3", "2986", "22ND", "ST", null, "2986 22ND ST", "3613", null, "3", "2", "0.0", null, null, "INSTALLATION OF NEW FIRE SPRINKLER SYSTEM AND UNDERGROUND SUPPLY TO RESIDENTIAL 3 DWELLING BLDG. T.I. APP#200507147539", "1 FAMILY DWELLING", "APARTMENTS", "COMPLETE", "24-Nov-14", null, null, "Residential, House and Mixed", "RH-3", "4", "Mission (EN)", "Mission" ]
+, [ 134, "7EF9E0E5-0541-4167-B943-7A9D48247FDF", 134, 1469789396, "930934", 1469789396, "930934", null, "201206082184", "778994", "3", "301", "MISSION", "ST", null, "301 MISSION ST", "3719", "424", "419", "-1", "0.0", null, null, "UNIT #902  INT. RENOVATION OF (E) CONDO  ALTERATIONS INCLUDE CHANGES TO NON-LOAD BEARING PTN, ELECTRICAL, LIGHTING, PLUMBING & FINISHES. NO WORK TO (E) ENVELOPE OR COMMON AREAS. NO CHANGES IN OCCUPANCY PROPOSED, HVAC/SPRINKLERS UNDER SEPARATE PERMIT.INCLU", "APARTMENTS", "APARTMENTS", "COMPLETE", "16-Jan-14", "EWATTY", "3719424", "Commercial", "C-3-O(SD)", "13", "Transbay", "Financial District/South Beach" ]
+, [ 135, "58A1065E-D251-4813-835A-17FA5CB081E2", 135, 1469789396, "930934", 1469789396, "930934", null, "201411141561", "862658", "1", "307", "SUMMIT", "WY", null, "307 SUMMIT WY", "7331", "88", "1", "1", "0.0", null, null, "REVISION TO PA #201312315318 FOR CONSTRUCTION OF 1 UNIT RESIDENCE ON A LOT W/IN DEVELOPMENT KNOWN AS 700 BROTHERHOOD WAY. MASTER SET DOCUMENT FOR BLDG TYPE B IS IN PA #201209119424 & AMENDED BY PA #201401317503 & #201407100858. REV. ALTERS ALIGNMENT OO FR", null, "1 FAMILY DWELLING", "COMPLETE", "19-Dec-14", "BUFKASUS", "7331088", "Residential, House and Mixed", "RM-1", "7", null, "Oceanview/Merced/Ingleside" ]
+, [ 136, "781154FF-159D-4C8F-BD63-AB12E71F03C0", 136, 1469789396, "930934", 1469789396, "930934", null, "201311212486", "827654", "2", "309", "EUREKA", "ST", null, "309 EUREKA ST", "2750", "35", "2", "2", "0.0", null, null, "INSTALLATION OF NEW SPRINKLER SYSTEM WITH 59 NEW SPRINKLERS THROUGH OUT ENTIRE BLDG. PER NFPA #13 & 13R AND INSTALL 15' OF NEW UNDERGROUND PIPE. T.I. APP#200905047636.", null, "2 FAMILY DWELLING", "COMPLETE", "15-Jul-14", null, "2750035", "Residential, House and Mixed", "RH-2", "11", null, "Castro/Upper Market" ]
+, [ 137, "1B670F26-F569-41F6-A1D0-1D10C7E91105", 137, 1469789396, "930934", 1469789396, "930934", null, "200204103610", "444730", "2", "3129", "MISSION", "ST", null, "3129 MISSION ST", "5501", "49", "3", "3", "0.0", null, null, "ERECT A FOUR STORY THREE UNIT RESIDENTIAL BLDG", null, "APARTMENTS", "FINAL INSPECT/APPRVD", "10-Sep-14", "MSNYDER", "5501049", "Neighborhood Commercial", "NC-3", "8", null, "Bernal Heights" ]
+, [ 138, "F17C2F70-7D81-44A0-9456-10E070190B79", 138, 1469789396, "930934", 1469789396, "930934", null, "200711137944", "637208", "1", "3135", "24TH", "ST", null, "3135 24TH ST", "6520", "36", "9", "9", "0.0", "n/a", null, "2 story vertical addition. 9 residential unit addition. EXTENSION OF EXISTING CODE COMPLIANT STAIRWAY.", "AUTO REPAIRS", "APARTMENTS", "COMPLETE", "16-Jan-14", "RSUCRE", "6520036", "Neighborhood Commercial", "24th-Mission NC", "12", "Mission (EN)", "Mission" ]
+, [ 139, "FB2A9D3A-6E93-48D6-A710-32CFEE066C15", 139, 1469789396, "930934", 1469789396, "930934", null, "201204118076", "774096", "2", "318", "ARLETA", "AV", null, "318 ARLETA AV", "6233", "58", "1", "1", "0.0", null, null, "ERECT 2-STORY, TYPE V SINGLE FAMILY RESIDENTIAL BUILDING.", null, "1 FAMILY DWELLING", "CFC ISSUED", "19-Feb-14", "BFU", "6233058", "Residential, House and Mixed", "RH-1", "1", "Visitacion Valley", "Visitacion Valley" ]
+, [ 140, "B3F4BBD8-2C06-4055-B071-A6375ADE69FB", 140, 1469789396, "930934", 1469789396, "930934", null, "201104013321", "744189", "2", "3210", "JACKSON", "ST", null, "3210 JACKSON ST", "973", "31", "1", "1", "0.0", null, null, "ERECT 3 STORIES, 1 BASEMENT, SINGLE FAMILY UNIT BUILDING.", null, "1 FAMILY DWELLING", "COMPLETE", "04-Apr-14", "EWATTY", "973031", "Residential, House and Mixed", "RH-1", "1", null, "Presidio Heights" ]
+, [ 141, "D0915CCB-FECD-47CB-9BD3-4D134CDBE717", 141, 1469789396, "930934", 1469789396, "930934", null, "201303132100", "802995", "8", "322", "29TH", "AV", null, "322 29TH AV", "1405", "45", "2", "1", "1", "SEC", "Homeowner", "INSTALL FIRE SPRINKLER SYSTEM TO RESIDENTIAL DWELLING.\nREF ARCH. APP #201106238762", "1 FAMILY DWELLING", "2 FAMILY DWELLING", "COMPLETE", "27-Feb-14", null, "1405045", "Residential, House and Mixed", "RH-2", "9", null, "Outer Richmond" ]
+, [ 142, "8606036E-AF7A-4DC8-90ED-3834D5F88411", 142, 1469789396, "930934", 1469789396, "930934", null, "200506246051", "550003", "1", "333", "FREMONT", "ST", null, "333 FREMONT ST", "3747", "19", "82", "82", "0.0", "in-lieu", null, "TO ERECT A NEW 9 STORY 82 DWELLING UNITS", null, "APARTMENTS", "COMPLETE", "19-Jun-14", "MSNYDER", "3747019", "Residential, Downtown", "RH DTR", "3", "Rincon Hill", "Financial District/South Beach" ]
+, [ 143, "26332672-8492-4885-A2C0-FD930630F388", 143, 1469789396, "930934", 1469789396, "930934", null, "200905077950", "687951", "3", "34", "PLEASANT", "ST", null, "34 PLEASANT ST", "221", "20", "3", "1", "1", "SEC", "Homeowner", "ADDITION OF 2 NEW FLOORS, 2 ONSITE PARKING SPACES, CONVERSION OF RESIDENTIAL DUPLEX INTO RESIDENTIAL TRIPLEX. NO HORIZONTAL EXTENSION. ADDITION OF ROOF DECKS. KITCHEN/BATH REMODEL AT EXISTING 2ND AND 3RD FLOORS. ADDITION OF ELEVATOR.", "2 FAMILY DWELLING", "APARTMENTS", "COMPLETE", "13-Jan-14", "RCRAWFOR", "221020", "Residential, House and Mixed", "RM-3", "8", null, "Nob Hill" ]
+, [ 144, "CAA83761-AC55-4A6C-A388-6AB7A1262208", 144, 1469789396, "930934", 1469789396, "930934", null, "200706204573", "620194", "2", "3418", "26TH", "ST", null, "3418 26TH ST", "6529", "12", "11", "11", "0.0", "in-lieu", null, "ERECT: ONE ELEVEN UNIT, FIVE STORY RESIDENTIAL STRUCTURAL (CHANGED FROM THREE UNIT BUILDING)", null, "APARTMENTS", "CFC ISSUED", "30-Jun-14", "BFU", "6529012", "Residential, Transit Oriented", "RTO-M", "8", "Mission (EN)", "Mission" ]
+, [ 145, "DA39C871-88B7-48D6-B3D6-51786901244B", 145, 1469789396, "930934", 1469789396, "930934", null, "200712120282", "640138", "6", "353", "SAN JOSE", "AV", null, "353 SAN JOSE AV", "6531", "22", "-1", "-1", "0.0", null, null, "DEMOLITION OF ONE STORY SINGLE FAMILY DWELLING.", "1 FAMILY DWELLING", null, "COMPLETE", "23-Dec-14", "DSANCHEZ", "6531022", "Residential, House and Mixed", "RM-2", "7", "Mission (EN)", "Mission" ]
+, [ 146, "AC3C5764-EDED-489F-B381-AA9CC08BF215", 146, 1469789396, "930934", 1469789396, "930934", null, "201403039669", "836236", "8", "3666", "17TH", "ST", null, "3666 17TH ST", "3566", "35", "3", "1", "1", "SEC", "Homeowner", "FOR ADMINISTRATIVE PURPOSES ONLY PER RON TOM,  RECORD UPDATE AND CLASSIFY BUILDING AS 3 UNITS, 3666A, 3666b, 3668. PA #8510025 scope of work was ChangeD of Use from R3 to R2. That permit expired and must either be renewed or new permit or plans submitted ", "2 FAMILY DWELLING", "APARTMENTS", "COMPLETE", "27-Jun-14", null, "3566035", "Residential, House and Mixed", "RM-1", "8", null, "Castro/Upper Market" ]
+, [ 147, "7DDD8985-350A-43B4-BE5C-2870B801F3AF", 147, 1469789396, "930934", 1469789396, "930934", null, "200606234934", "583960", "3", "3736", "CESAR CHAVEZ", "ST", null, "3736 CESAR CHAVEZ ST", "6567", "13", "2", "1", "1", "SEC", "Homeowner", "VERTICAL & HORIZONTAL ADDITION & ADDING ONE UNIT, NEW GARAGE.", "1 FAMILY DWELLING", "2 FAMILY DWELLING", "PRE-FINAL", "05-Dec-14", "RCRAWFOR", "6567013", "Residential, House and Mixed", "RH-2", "9", null, "Mission" ]
+, [ 148, "312C8DC3-3CCC-4C9A-83BE-00CD2B7EEA73", 148, 1469789396, "930934", 1469789396, "930934", null, "201002236954", "711595", "3", "378", "05TH", "ST", null, "378 05TH ST", "3753", "8", "44", "44", "44", "VLI", "Family", "Construction of roof deck, stairs to roof deck from 3rd. flr. stair penthouse. Provide bicycle parking in basement. change of use from tourist to residential hotel. comply with nov#200557542 dated 03/09/05. Mechanical included", "TOURIST HOTEL/MOTEL", "APARTMENTS", "COMPLETE", "04-Apr-14", "ATAEB", "3753008", "Eastern Neighborhoods Mixed Use", "MUR", "5", "Eastern Neighborhoods w/Valencia", "South of Market" ]
+, [ 149, "09E82004-D685-40B2-A3C7-17332F974B1F", 149, 1469789396, "930934", 1469789396, "930934", "{\n  \"invalidCells\" : {\n    \"37573038\" : \"016A\",\n    \"37573050\" : \"0808016A\"\n  }\n}", "201305207423", "809381", "3", "385", "IVY", "ST", null, "385 IVY ST", "808", null, "2", "2", "0.0", null, null, "CHANGE OF USE.  CONVERT 2-UNIT OFFICE TO ORIGINAL USE OF 2-UNIT RESIDENTIAL. INSTALL (N) KITCHEN IN EACH UNIT. INSTALL (N) BATHING FACILITIES IN EACH UNIT.", "OFFICE", "2 FAMILY DWELLING", "COMPLETE", "24-Jun-14", "KCONNER", null, "Neighborhood Commercial Transit", "HAYES NCT", "6", "Market and Octavia", "Hayes Valley" ]
+, [ 150, "03DF8A5C-C7AC-4110-87B3-B9803327A8DF", 150, 1469789396, "930934", 1469789396, "930934", null, "201005122282", "718396", "2", "39", "LLOYD", "ST", null, "39 LLOYD ST", "1260", "35", "1", "1", "0.0", null, null, "TO ERECT 3 STORIES, SINGLE FAMILY RESIDENTIAL BUILDING.", null, "1 FAMILY DWELLING", "COMPLETE", "18-Apr-14", "ASTARR", "1260035", "Residential, House and Mixed", "RH-3", "14", null, "Haight Ashbury" ]
+, [ 151, "45E67A13-A170-4258-A972-DA48985BF1F2", 151, 1469789396, "930934", 1469789396, "930934", null, "200907203020", "694156", "2", "40", "EDGEHILL", "WY", null, "40 EDGEHILL WY", "2923", "8", "1", "1", "0.0", null, null, "New construction of a three-story  over basemensingle family building.", null, "1 FAMILY DWELLING", "COMPLETE", "04-Jun-14", "MIDDLEBR", "2923008", "Residential, House and Mixed", "RH-1(D)", "8", null, "West of Twin Peaks" ]
+, [ 152, "00322921-CF86-406A-85F8-B13F90E8D420", 152, 1469789396, "930934", 1469789396, "930934", null, "201404294476", "841919", "1", "401", "HARRISON", "ST", "1 Rincon Hill Phase II", "401 HARRISON ST", "3765", "22", "312", "312", "0.0", "in-lieu", null, "194 EVACUATION SIGNS.", "VACANT LOT", "APARTMENTS", "COMPLETE", "24-Nov-14", null, "3765022", "Residential, Downtown", "RH DTR", "9", "Eastern Neighborhoods w/Valencia", "Financial District/South Beach" ]
+, [ 153, "B40E5365-399C-4973-9878-2B74DA2D6852", 153, 1469789396, "930934", 1469789396, "930934", null, "201203025309", "770847", "3", "4058", "18TH", "ST", null, "4058 18TH ST", "3582", "52", "1", "-1", "0.0", null, null, "REPAIR (E) FOUNDATION. ADD GROUND FLOOR SPACE AT REAR OF LOT. REPAIR/REPLACE REAR FENCE - FOR FUTURE CHANGE OF USE.", "2 FAMILY DWELLING", "2 FAMILY DWELLING", "COMPLETE", "11-Aug-14", "TWANG", "3582052", "Neighborhood Commercial", "CASTRO NCD", "7", null, "Castro/Upper Market" ]
+, [ 154, "27EFD4DB-C115-41FF-8E0A-4D396DF11E92", 154, 1469789396, "930934", 1469789396, "930934", null, "201405276711", "844637", "8", "413", "BOWDOIN", "ST", null, "413 BOWDOIN ST", "5918", "30", "2", "1", "1", "SEC", "Homeowner", "ADD ONE UNIT TO EXTG ENVELOPE OF SINGLE FAMILY BUILDING. NEW KITCHEN ON 3RD FLOOR. ADD ONE HOUR  RATED WALLS AND ONE HOUR RATED DOORS AT STAIR ENCLOSURE. NO EXTERIOR CHANGES.", "1 FAMILY DWELLING", "2 FAMILY DWELLING", "CFC ISSUED", "14-Oct-14", null, "5918030", "Residential, House and Mixed", "RH-2", "12", null, "Portola" ]
+, [ 155, "A0E626E6-AD8C-4C89-B629-E9F1928F39E1", 155, 1469789396, "930934", 1469789396, "930934", null, "200707055953", "621918", "2", "4132", "03RD", "ST", null, "4132 03RD ST", "5260", "3", "7", "7", "0.0", "n/a", null, "ERECT A NEW 4-STORY, 7 UNITS RESIDENTIAL & COMMERCIAL BUILDING.", null, "APARTMENTS", "COMPLETE", "30-Dec-14", "PARCE", "5260003", "Industrial", "M-1", "10", "Bayview Hunters Point", "Bayview Hunters Point" ]
+, [ 156, "F3D7AA85-9F32-47B9-8BD7-B347EAFB8F1B", 156, 1469789396, "930934", 1469789396, "930934", "{\n  \"invalidCells\" : {\n    \"37573038\" : \"018A\",\n    \"37573050\" : \"7103018A\"\n  }\n}", "201303132134", null, "3", "416", "PLYMOUTH", "ST", null, "416 PLYMOUTH ST", "7103", null, "0", "1", "0.0", null, null, "CONVERT COMMERCIAL SPACE TO RESIDENTIAL USE AS EXPANSION OF EXISTING RESIDENTIAL PORTION", null, "1 FAMILY DWELLING", "COMPLETE", "10-Jan-14", null, null, "Residential, House and Mixed", "RH-2", "13", null, "Oceanview/Merced/Ingleside" ]
+, [ 157, "710BD9C4-17DD-43E5-B269-DA5A7AA770BF", 157, 1469789396, "930934", 1469789396, "930934", null, "201011295711", "735128", "3", "4163", "24TH", "ST", null, "4163 24TH ST", "6506", "34", "5", "1", "1", "SEC", "Homeowner", "RAISE (E) BUILDING 1'-6\", ONE (N) COMMERCIAL UNIT AND ONE (N) RESIDENTIAL UNIT ON GROUND FLOOR.", "APARTMENTS", "APARTMENTS", "COMPLETE", "22-Aug-14", "MSMITH", "6506034", "Neighborhood Commercial", "24TH-NOE", "7", null, "Noe Valley" ]
+, [ 158, "31320FBB-A325-47E3-A11E-14CAFA24A7A1", 158, 1469789396, "930934", 1469789396, "930934", null, "201306270672", "813276", "8", "42", "NEWMAN", "ST", null, "42 NEWMAN ST", "5715", "1", "2", "1", "1", "SEC", "Homeowner", "NO ADDITION TO (E) BUILDING ENVELOPE, KITCHEN & BATHROOM ALTERATION AT UPPER FLOOR, CREATE NEW BATHROOM CLOSETS & KITCHENENTTE LOWER LEVEL REPLACES SELECTED WINDOWS IN KIND SIZE, ADD 2 SKYLIGHTS & 3 LIGHTS TUBES.FOUNDATION & NEW FRAMING. CHANGE OF USE PA#", "OFFICE", "2 FAMILY DWELLING", "FINAL INSPECT/APPRVD", "02-Jul-14", "KBRUSATO", "5715001", "Residential, House and Mixed", "RH-2", "11", null, "Bernal Heights" ]
+, [ 159, "80BF08CF-3184-4EE3-90AF-BA488302B8F2", 159, 1469789396, "930934", 1469789396, "930934", null, "201112160853", "765481", "2", "427", "31ST", "AV", null, "427 31ST AV", "1463", "5", "2", "2", "0.0", null, null, "ERECT 4 STORIES, 2 DWELLING UNITS, TYPE 5-B BUILDING.", null, "2 FAMILY DWELLING", "COMPLETE", "06-Oct-14", "SLAI", "1463005", "Residential, House and Mixed", "RH-2", "1", "Geary Corridor", "Outer Richmond" ]
+, [ 160, "08327BA7-B58A-43CD-B661-915DC9E35D71", 160, 1469789396, "930934", 1469789396, "930934", null, "201112160852", "765480", "6", "427", "31ST", "AV", null, "427 31ST AV", "1463", "5", "-1", "-1", "0.0", null, null, "DEMOLISH ONE STORY SINGLE FAMILY DWELLING.", "1 FAMILY DWELLING", null, "COMPLETE", "26-Mar-14", "SLAI", "1463005", "Residential, House and Mixed", "RH-2", "1", "Geary Corridor", "Outer Richmond" ]
+, [ 161, "8620A3E1-3583-40B5-9A48-D8C05E399F76", 161, 1469789396, "930934", 1469789396, "930934", null, "201207064246", "781468", "3", "4379", "23RD", "ST", null, "4379 23RD ST", "2806", "34", "2", "1", "1", "SEC", "Homeowner", "REBUILD (E) LAUNDRY SHED ON 1ST FL. ADD 6'X17' DECK AT 2ND FL, REAR. REPLACE ALL WINDOWS OF 2ND FL, REAR GABLE END. REINSULATE & SHEET ROCK REAR BEDROOM. CONVERT (E) BASEMENT INTO AN INLAW APARTMENT.", "1 FAMILY DWELLING", "2 FAMILY DWELLING", "COMPLETE", "18-Aug-14", "TWANG", "2806034", "Residential, House and Mixed", "RH-2", "7", null, "Noe Valley" ]
+, [ 162, "F66BBA7E-A173-49F8-A8B4-DDB23A5D6FE8", 162, 1469789396, "930934", 1469789396, "930934", null, "201204138296", "774349", "2", "4443", "19TH", "ST", null, "4443 19TH ST", "2699", "44", "1", "1", "0.0", null, null, "ERECT 3 STORIES, TYPE 5, 1 DWELLING UNIT NEW BUILDING.", null, "1 FAMILY DWELLING", "COMPLETE", "05-Sep-14", "MSMITH", "2699044", "Residential, House and Mixed", "RH-2", "7", null, "Castro/Upper Market" ]
+, [ 163, "8D45D443-843E-4E0F-9C35-64EE4AD4F130", 163, 1469789396, "930934", 1469789396, "930934", null, "201301097560", "797553", "3", "45", "BELCHER", "ST", null, "45 BELCHER ST", "3537", "78", "3", "1", "1", "SEC", "Homeowner", "CONVERSION OF (E) STORAGE TO CONDITIONED / LIVING SPACE TO ACCOMODATE ONE NEW UNIT @ 1ST FLOOR. PROPOSED KITCHEN & BATH REMODEL @ 2ND FLOOR. PROPOSED NEW ROOF DECK @ STAIRS CONNECTION TO 3RD FLOOR UNIT. ALL WORK TO BE PERFORMED WITHIN (E) LAUNDRY OF BUILD", "2 FAMILY DWELLING", "APARTMENTS", "COMPLETE", "03-Dec-14", "DVU", "3537078", "Residential, Transit Oriented", "RTO", "6", "Market and Octavia", "Castro/Upper Market" ]
+, [ 164, "5A400F0F-39B5-4DCB-BA68-80355C5EE993", 164, 1469789396, "930934", 1469789396, "930934", null, "201407252159", "851130", "8", "455", "SAWYER", "ST", null, "455 SAWYER ST", "6298", "30", "1", "-1", "0.0", null, null, "1. COMPLY WITH COMPLAINT #201482491.\n2. LEGALIZE TWO BEDROOM, ONE BATH ROOM AND LAUNDRY AT FIRST FLOOR PER PLAN", "1 FAMILY DWELLING", "1 FAMILY DWELLING", "CFC ISSUED", "07-Oct-14", "IOMOKARO", "6298030", "Residential, House and Mixed", "RH-1", "12", null, "Visitacion Valley" ]
+, [ 165, "D01BF0F2-7DDC-4647-8ABB-C513FF7DB013", 165, 1469789396, "930934", 1469789396, "930934", null, "201012156796", "736450", "3", "461", "HOFFMAN", "AV", null, "461 HOFFMAN AV", "6503", "20", "2", "1", "1", "SEC", "Homeowner", "DEMO EXISTING REAR YARD ADDITION. BUILD NEW REAR YARD ADDITION. ADD 2ND DWELLING UNIT @ GROUND FLOOR. VARIANCE FROM OFF-STREET PARKING. HORIZONTAL ADDITION PER PLAN.", "1 FAMILY DWELLING", "2 FAMILY DWELLING", "COMPLETE", "28-Oct-14", "APUTRA", "6503020", "Residential, House and Mixed", "RH-2", "7", null, "Noe Valley" ]
+, [ 166, "C1C5740C-E0BA-4D50-8511-E423C2D66D16", 166, 1469789396, "930934", 1469789396, "930934", "{\n  \"invalidCells\" : {\n    \"37573038\" : \"013B\",\n    \"37573050\" : \"1464013B\"\n  }\n}", "201207275924", "783458", "3", "470", "33RD", "AV", null, "470 33RD AV", "1464", null, "2", "1", "1", "SEC", "Homeowner", "AT FIRST FLOOR. CONVERT (E) FLOOR SPACE TO A NEW DWELLING UNIT W/NEW KITCHEN, BATH, LIVING AND BEDROOM. EXPAND (E) 1 LEVEL DECK W/ONE HR RATED. EXTERIOR WALL, AND 54 SQFT. ONE STORY REAR ADDITION.", "1 FAMILY DWELLING", "2 FAMILY DWELLING", "COMPLETE", "31-Jan-14", "SLAI", null, "Residential, House and Mixed", "RH-2", "1", "Geary Corridor", "Outer Richmond" ]
+, [ 167, "668BEB66-C9DA-477C-8F54-DB36A944F6BE", 167, 1469789396, "930934", 1469789396, "930934", null, "201303192495", "803480", "8", "4849", "MISSION", "ST", null, "4849 MISSION ST", "6272", "18", "2", "1", "1", "SEC", "Homeowner", "COMPLY WITH NOV# 200736730. TO COMPLETE WORK AND OBTAIN FINAL INSPECTION OF WORK APPROVED UNDER PA# 200105300305", "1 FAMILY DWELLING", "1 FAMILY DWELLING", "FINAL INSPECT/APPRVD", "13-Mar-14", null, "6272018", "Neighborhood Commercial", "NC-3", "12", null, "Excelsior" ]
+, [ 168, "7B35D997-58AC-4185-B2BB-C28271FEFEA3", 168, 1469789396, "930934", 1469789396, "930934", null, "201203226602", "772370", "3", "498", "HOFFMAN", "AV", null, "498 HOFFMAN AV", "6502", "32", "2", "-2", "0.0", null, null, "REMOVE UN-PERMITTED LOWER + BASEMENT FLOOR RENTAL UNIT, REPLACE PORTIONS OF BRICK FOUNDATION WITH NEW CONCRETE FOUNDATION, REPLACE DAMAGED FLOOR & REPAIR DAMAGED WALLS", "APARTMENTS", "2 FAMILY DWELLING", "COMPLETE", "12-Aug-14", "DVU", "6502032", "Residential, House and Mixed", "RH-2", "7", null, "Noe Valley" ]
+, [ 169, "1E7994F7-6AE5-4663-BC0F-BE0144AB0BB4", 169, 1469789396, "930934", 1469789396, "930934", "{\n  \"invalidCells\" : {\n    \"37573038\" : \"026B\",\n    \"37573050\" : \"5948026B\"\n  }\n}", "201401106069", "831882", "6", "5", "NAPLES", "ST", null, "5 NAPLES ST", "5948", null, "-1", "-1", "0.0", null, null, "EMERGENCY ORDER 106028, DEMO TWO STORY SINGLE FAMILY HOUSE.", "1 FAMILY DWELLING", null, "FINAL INSPECT/APPRVD", "26-Feb-14", "SSANCHEZ", null, "Residential, House and Mixed", "RH-1", "12", null, "Excelsior" ]
+, [ 170, "A5234985-4D6D-41FF-BDD8-07F7CA3FAE46", 170, 1469789396, "930934", 1469789396, "930934", null, "201403100313", "836969", "1", "50", "SUMMIT", "WY", null, "50 SUMMIT WY", "7331", "19", "2", "2", "0.0", null, null, "DEFERRED SUBMITTAL - TRUSS CALCULATIONS - BLDG A (#201209119408)", "VACANT LOT", "2 FAMILY DWELLING", "COMPLETE", "19-Dec-14", null, "7331019", "Residential, House and Mixed", "RM-1", "13", null, "Oceanview/Merced/Ingleside" ]
+, [ 171, "1CB0D5EA-B46A-4853-99CD-7F9583C8CBB9", 171, 1469789396, "930934", 1469789396, "930934", null, "201212075751", "795421", "3", "517", "DUBOCE", "AV", null, "517 DUBOCE AV", "3538", "96", "3", "1", "1", "SEC", "Homeowner", "CHANGE OF OCCUPANCY FROM 2 UNIT BUILDING TO 3 UNIT BUILDING BY EXCAVATING SOUTH END OF FIRST FLOOR FOR NEW UNIT (515 DUBOCE). LOWER WALKWAY/BREEZEWAY ON EAST SIDE.", "2 FAMILY DWELLING", "APARTMENTS", "COMPLETE", "15-Dec-14", "CNOEL", "3538096", "Residential, Transit Oriented", "RTO", "6", "Market and Octavia", "Castro/Upper Market" ]
+, [ 172, "51769655-45CE-4C8B-B007-EC64AF85F149", 172, 1469789396, "930934", 1469789396, "930934", null, "200609202886", "593398", "2", "52", "ALPINE", "TR", null, "52 ALPINE TR", "1258", "37", "3", "3", "0.0", null, null, "TO ERECT 3 DWELLING UNIT WITH 3 STORY NEW BUILDING", null, "APARTMENTS", "CFC ISSUED", "27-Mar-14", "SVELLVE", "1258037", "Residential, House and Mixed", "RH-3", "6", null, "Haight Ashbury" ]
+, [ 173, "20580E82-0FFA-4CB3-8A48-823DC3E1825B", 173, 1469789396, "930934", 1469789396, "930934", null, "201102039585", "739741", "8", "52", "MIDDLE POINT", "RD", null, "52 MIDDLE POINT RD", "4624", "4", "12", "-1", "0.0", null, null, "PERMIT FOR ADMINISTRATIVE PURPOSES ONLY TO CORRECT UNIT COUNT APPROVED UNDER 200912223722'S. UNIT COUNT 13 INCORRECT, FINAL UNIT COUNT AS REFLECTED IN APPROVED DRAWINGS IS 12", "APARTMENTS", "APARTMENTS", "COMPLETE", "20-Feb-14", "DSANCHEZ", "4624004", "Residential, House and Mixed", "RM-1", "10", "Hunters View", "Bayview Hunters Point" ]
+, [ 174, "DED56A0D-DAFE-4FCA-A545-3C073976D08A", 174, 1469789396, "930934", 1469789396, "930934", null, "201401095948", "831748", "1", "52", "SUMMIT", "WY", null, "52 SUMMIT WY", "7331", "5", "2", "2", "0.0", null, null, "INSTALL OVERHEAD FIRESPRINKLER SYSTEM PER NFPA 13 @ ADDRESS LISTED ABOVE. REFER TO MASTER PLAN A.\nUNDERGROUND TO BE DONE UNDER APP 2013 0701 0864\nPA #201209119408-700 BROTHERHOOD WAY", null, "2 FAMILY DWELLING", "COMPLETE", "19-Dec-14", null, "7331005", "Residential, House and Mixed", "RM-1", "13", null, "Oceanview/Merced/Ingleside" ]
+, [ 175, "316D2A64-1541-4B1C-A406-FD243027D220", 175, 1469789396, "930934", 1469789396, "930934", null, "201301168075", "798173", "6", "5222", "03RD", "ST", null, "5222 03RD ST", "5411", "5", "-1", "-1", "0.0", null, null, "DEMOLISH 1 STORY, TYPE 5, SINGLE FAMILY DWELLING UNIT BUILDING.", "1 FAMILY DWELLING", null, "FINAL INSPECT/APPRVD", "02-Apr-14", "SSANCHEZ", "5411005", "Neighborhood Commercial", "NC-3", "10", "Bayview Hunters Point", "Bayview Hunters Point" ]
+, [ 176, "75A86FFA-838D-438B-97E0-67708F1FA9EC", 176, 1469789396, "930934", 1469789396, "930934", null, "201301168081", "798180", "6", "5228", "03RD", "ST", null, "5228 03RD ST", "5411", "6", "-1", "-1", "0.0", null, null, "DEMOLISH 1 STORY, TYPE 5, SINGLE FAMILY DWELLING UNIT BUILDING.", "1 FAMILY DWELLING", null, "FINAL INSPECT/APPRVD", "02-Apr-14", "SSANCHEZ", "5411006", "Neighborhood Commercial", "NC-3", "10", "Bayview Hunters Point", "Bayview Hunters Point" ]
+, [ 177, "E5AC1EC3-0744-4B4A-83B3-3D845E7316F0", 177, 1469789396, "930934", 1469789396, "930934", null, "201301168082", "798181", "6", "5234", "03RD", "ST", null, "5234 03RD ST", "5411", "7", "-1", "-1", "0.0", null, null, "DEMOLISH 1 STORY, TYPE 5, SINGLE FAMILY DWELLING UNIT BUILDING.", "1 FAMILY DWELLING", null, "FINAL INSPECT/APPRVD", "02-Apr-14", "SSANCHEZ", "5411007", "Neighborhood Commercial", "NC-3", "10", "Bayview Hunters Point", "Bayview Hunters Point" ]
+, [ 178, "C4AC5080-377D-4AF4-BFDD-FDB0A5B0E73B", 178, 1469789396, "930934", 1469789396, "930934", null, "201301168083", "798182", "6", "5238", "03RD", "ST", null, "5238 03RD ST", "5411", "8", "-1", "-1", "0.0", null, null, "DEMOLISH 1 STORY, TYPE 5, SINGLE FAMILY DWELLING UNIT BUILDING.", "1 FAMILY DWELLING", null, "FINAL INSPECT/APPRVD", "02-Apr-14", "SSANCHEZ", "5411008", "Neighborhood Commercial", "NC-3", "10", "Bayview Hunters Point", "Bayview Hunters Point" ]
+, [ 179, "C8E0D77F-D09D-4CA2-BF04-4F10DDE282AF", 179, 1469789396, "930934", 1469789396, "930934", null, "201301168084", "798183", "6", "5244", "03RD", "ST", null, "5244 03RD ST", "5411", "9", "-1", "-1", "0.0", null, null, "DEMOLISH 1 STORY, TYPE 5, SINGLE FAMILY DWELLING UNIT BUILDING.", "1 FAMILY DWELLING", null, "FINAL INSPECT/APPRVD", "02-Apr-14", "SSANCHEZ", "5411009", "Neighborhood Commercial", "NC-3", "10", "Bayview Hunters Point", "Bayview Hunters Point" ]
+, [ 180, "547EEACA-BCD6-499F-9E2A-5BE9232117D2", 180, 1469789396, "930934", 1469789396, "930934", null, "201301168085", "798184", "6", "5250", "03RD", "ST", null, "5250 03RD ST", "5411", "10", "-1", "-1", "0.0", null, null, "DEMOLISH 1 STORY, TYPE 5, SINGLE FAMILY DWELLING UNIT BUILDING.", "1 FAMILY DWELLING", null, "FINAL INSPECT/APPRVD", "02-Apr-14", "SSANCHEZ", "5411010", "Neighborhood Commercial", "NC-3", "10", "Bayview Hunters Point", "Bayview Hunters Point" ]
+, [ 181, "0EC628C3-B4BF-4CA0-961B-822D86E5AA17", 181, 1469789396, "930934", 1469789396, "930934", null, "201308164555", "818014", "8", "530", "FAXON", "AV", null, "530 FAXON AV", "6935", "14", "1", "-1", "0.0", null, null, "REMOVE DOWNSTAIRS KITCHEN COUNTER & STOVE. CONVERT 1ST, 2ND BEDROOMS & LIVING ROOM INTO LEGAL OFFICE ROOM, STORAGE ROOM & RECREATION ROOM", "1 FAMILY DWELLING", "1 FAMILY DWELLING", "CFC ISSUED", "15-Aug-14", "MCORRETT", "6935014", "Residential, House and Mixed", "RH-2", "13", null, "Oceanview/Merced/Ingleside" ]
+, [ 182, "1BD8A2A0-12D7-414E-A69E-B5C5969749F5", 182, 1469789396, "930934", 1469789396, "930934", null, "200505031415", "544575", "2", "530", "SANCHEZ", "ST", null, "530 SANCHEZ ST", "3584", "7", "2", "2", "0.0", null, null, "TO ERECT 4 STORIES OF 2 DWELLING UNITS BUILDING.", null, "2 FAMILY DWELLING", "COMPLETE", "23-Jun-14", "RCRAWFOR", "3584007", "Residential, House and Mixed", "RH-3", "7", null, "Castro/Upper Market" ]
+, [ 183, "ADD065C4-5AD9-4594-80A8-24AA7A993B16", 183, 1469789396, "930934", 1469789396, "930934", null, "200505031416", "544576", "6", "530", "SANCHEZ", "ST", null, "530 SANCHEZ ST", "3584", "7", "-1", "-1", "0.0", null, null, "DEMOLISH 2 STORIES OF 1 SINGLE FAMILY.", "1 FAMILY DWELLING", null, "COMPLETE", "23-Jun-14", "YUJOSEPH", "3584007", "Residential, House and Mixed", "RH-3", "7", null, "Castro/Upper Market" ]
+, [ 184, "96B94A9D-24F9-4E29-9303-C7B6F7CEE659", 184, 1469789396, "930934", 1469789396, "930934", null, "200412091016", "532381", "6", "530", "SANCHEZ", "ST", null, "530 SANCHEZ ST", "3584", "7", "-1", "-1", "0.0", null, null, "TO DEMOLISH ILLEGAL COTTAGE AT REAR OF LOT BUILD WITHOUT PERMIT", "1 FAMILY DWELLING", null, "COMPLETE", "20-Jun-14", "RCRAWFOR", "3584007", "Residential, House and Mixed", "RH-3", "7", null, "Castro/Upper Market" ]
+, [ 185, "3B6F0D15-C6DB-4AA1-A024-A51BE342A481", 185, 1469789396, "930934", 1469789396, "930934", null, "201403130705", "837428", "8", "534", "11TH", "AV", null, "534 11TH AV", "1553", "36", "1", "-1", "0.0", null, null, "RESPONSE TO NOV# 201321991. REMOVE KITCHEN, ALL PLUMBING & ELECTRICAL TO SOURCE @ 1ST FLOOR.", "1 FAMILY DWELLING", "1 FAMILY DWELLING", "CFC ISSUED", "04-Sep-14", "KBURNS", "1553036", "Residential, House and Mixed", "RH-2", "1", null, "Inner Richmond" ]
+, [ 186, "CEB21578-09EC-4A64-99D8-90BB6E2D53CE", 186, 1469789396, "930934", 1469789396, "930934", null, "200912314052", "707935", "2", "54", "PERALTA", "AV", null, "54 PERALTA AV", "5512", "29", "1", "1", "0.0", null, null, "ERECT 1 UNIT, 3 STORY RESIDENTIAL BUILDING", null, "1 FAMILY DWELLING", "COMPLETE", "12-Sep-14", "CTEAGUE", "5512029", "Residential, House and Mixed", "RH-2", "11", null, "Bernal Heights" ]
+, [ 187, "1907D48C-9026-46A5-83F8-353EB5B9D4D7", 187, 1469789396, "930934", 1469789396, "930934", null, "201212196526", "796317", "3", "542", "MORAGA", "ST", null, "542 MORAGA ST", "1932", "22", "2", "1", "1", "SEC", "Homeowner", "CONVERT (E) GROUND FLOOR LIVING SPACE TO DWELLING UNIT. ADD KITCHEN, RELOCATE BATH, REPLACE 2 WINDOWS AT REAR YARD AT 2ND FLOOR, RENOVATE (E) BATH, REPLACE 2 WINDOWS, PLACE WASHER/DRYER IN CLOSET. ADD WINDOW IN LIGHT WELL.", "1 FAMILY DWELLING", "2 FAMILY DWELLING", "COMPLETE", "03-Mar-14", "TWANG", "1932022", "Residential, House and Mixed", "RH-2", "14", null, "Inner Sunset" ]
+, [ 188, "CAF61F3F-ED6D-49B4-ABCE-AB78788A69C4", 188, 1469789396, "930934", 1469789396, "930934", null, "201108233049", "755997", "1", "55", "09TH", "ST", "AVA 55 9th", "55 09TH ST", "3701", "66", "273", "273", "33", "LI", "Family", "TO ERECT 17 STORIES, 273 UNITS RESIDENTIAL, RETAIL & PARKING BUILDING.", null, "APARTMENTS", "COMPLETE", "14-Oct-14", "KGUY", "3701066", "Commercial", "C-3-G", "4", "Mid-Market", "South of Market" ]
+, [ 189, "1AFE0F27-BCA5-4CF3-B61E-958D1D769CA4", 189, 1469789396, "930934", 1469789396, "930934", null, "201303011285", "802017", "6", "562", "28TH", "ST", null, "562 28TH ST", "6604", "16", "-1", "-1", "0.0", null, null, "DEMOLISH 1 STORY SINGLE FAMILY.", "1 FAMILY DWELLING", null, "FINAL INSPECT/APPRVD", "09-Jun-14", "DVU", "6604016", "Residential, House and Mixed", "RH-1", "7", null, "Noe Valley" ]
+, [ 190, "60CA23A1-9573-4BDE-85E4-4386539ACFED", 190, 1469789396, "930934", 1469789396, "930934", null, "201406188796", "847121", "8", "577", "29TH", "ST", null, "577 29TH ST", "6630", "31", "2", "1", "1", "SEC", "Homeowner", "OBTAIN FINAL INSPECTION APPROVAL FOR APP#201002186726 FOR N.O.V. #200929807. ALL WORK COMPLETE", "1 FAMILY DWELLING", "2 FAMILY DWELLING", "FINAL INSPECT/APPRVD", "10-Jul-14", null, "6630031", "Residential, House and Mixed", "RH-2", "7", null, "Noe Valley" ]
+, [ 191, "25FC3A9D-8A9D-4A87-A894-C49995B90725", 191, 1469789396, "930934", 1469789396, "930934", null, "200912314050", "707933", "2", "60", "PERALTA", "AV", null, "60 PERALTA AV", "5512", "31", "1", "1", "0.0", null, null, "ERECT  1 UNIT, 3 STORY RESIDENTIAL BUILDING", null, "1 FAMILY DWELLING", "COMPLETE", "12-Sep-14", "CTEAGUE", "5512031", "Residential, House and Mixed", "RH-2", "11", null, "Bernal Heights" ]
+, [ 192, "4A8C33EE-96E6-4558-A228-12C2C62DD7AE", 192, 1469789396, "930934", 1469789396, "930934", null, "201212115945", "795656", "3", "601", "BRODERICK", "ST", null, "601 BRODERICK ST", "1183", "10", "1", "-1", "0.0", null, null, "REVERT TO SFD INT REMOL: BASEMENT, ADD BATH, REC RM, GARAGE. 1ST FL(N)KITCHEN, LIVING RM, HALF BATH, DINING RM. 2ND FL (N)BEDRMS, BATHS & ROOF DECK. 3RD FL: (N)OFFICE, BATH & PLAYRM. ALL PERIMETER FOUNDATION & WALLS WERE COMPLETED UNDER SEPERATE PERMIT 20", "CHURCH", "1 FAMILY DWELLING", "COMPLETE", "23-Sep-14", "SLAI", "1183010", "Residential, House and Mixed", "RM-1", "5", null, "Hayes Valley" ]
+, [ 193, "98C55B54-8FF0-461C-8B7A-D88A84485B0D", 193, 1469789396, "930934", 1469789396, "930934", null, "201207023925", "781084", "3", "615", "UNION", "ST", null, "615 UNION ST", "117", "1", "46", "2", "2", "SEC", "Individual/SRO", "CONVERT (E) LOUNGES & KITCHENS ON 2ND & 3RD FLOORS INTO 2 NEW RESIDENTIAL ROOMS (220 & 321). NO CHANGES IN LIGHTING.", "RESIDENTIAL HOTEL", "RESIDENTIAL HOTEL", "COMPLETE", "21-Jul-14", "KCONNER", "117001", "Neighborhood Commercial", "NO BEACH", "3", null, "North Beach" ]
+, [ 194, "466AE0D7-FAB3-4561-8F36-F61DB524FB95", 194, 1469789396, "930934", 1469789396, "930934", null, "201401136161", "832004", "8", "618", "NATOMA", "ST", null, "618 NATOMA ST", "3727", "45", "5", "1", "1", "SEC", "Homeowner", "REQUEST TO RENEW PA# 200510044765 WHICH WAS APPROVED IN 2005 BUT EXPIRED. PERMIT TO CORRECT ERROR TO RECORD TO CLASSIFY BLDG AS 5, NOT 4 UNITS.", "APARTMENTS", "APARTMENTS", "COMPLETE", "29-Jan-14", null, "3727045", "South of Market Mixed Use", "RED", "4", "Western SoMa (EN)", "South of Market" ]
+, [ 195, "96B38C7B-8511-45D2-9A0C-74DECA57EF3D", 195, 1469789396, "930934", 1469789396, "930934", null, "201007146596", "723840", "2", "620", "27TH", "AV", null, "620 27TH AV", "1569", "31", "2", "2", "0.0", null, null, "TO ERECT 4 STORIES, DUPLEX BUILDING.", null, "2 FAMILY DWELLING", "COMPLETE", "13-Feb-14", "GCABRERO", "1569031", "Residential, House and Mixed", "RH-2", "1", null, "Outer Richmond" ]
+, [ 196, "DE3FBDD6-A2D0-438A-A2A8-EF85920D7041", 196, 1469789396, "930934", 1469789396, "930934", null, "201007146595", "723839", "6", "622", "27TH", "AV", null, "622 27TH AV", "1569", "31", "-1", "-1", "0.0", null, null, "TO DEMOLISH 3 STORIES, SINGLE FAMILY DWELLING.", "1 FAMILY DWELLING", null, "COMPLETE", "13-Feb-14", "GCABRERO", "1569031", "Residential, House and Mixed", "RH-2", "1", null, "Outer Richmond" ]
+, [ 197, "D5DE2C57-7A85-4D63-8326-A850AE850FC6", 197, 1469789396, "930934", 1469789396, "930934", null, "200912223711", "707523", "2", "63", "WEST POINT", "RD", null, "63 WEST POINT RD", "4624", "4", "15", "15", "15", "VLI", "Family", "TO ERECT 4 STORIES, 15 UNITS RESIDENTIAL BUILDING.", null, "APARTMENTS", "COMPLETE", "20-Feb-14", "DSANCHEZ", "4624004", "Residential, House and Mixed", "RM-1", "10", "Hunters View", "Bayview Hunters Point" ]
+, [ 198, "FA28B4A6-57A1-40DB-AFCA-BF66AFFA77DE", 198, 1469789396, "930934", 1469789396, "930934", null, "201012086310", "735861", "3", "642", "HAYES", "ST", null, "642 HAYES ST", "806", "8", "3", "1", "1", "SEC", "Homeowner", "COMPLY NOV 201032683.REV&CONSOLID 2008-0422-0327&2009-0923-7511.INT RECONF.REPAIR EXTR FRT STAIRCASE.REMODEL 3 KITNS/3 BATH/ADD 4 BATH.REPLC ALL WINDOW W/LIKE KIND.3 NEW FLAT SKYLITE 3/F.PAY FEE ON NOV 200734031.BUILD 1 HR WALL FOR SIDE DECK.WK INCL INSTA", "2 FAMILY DWELLING", "APARTMENTS", "COMPLETE", "10-Dec-14", "ASTARR", "806008", "Residential, Transit Oriented", "RTO", "5", "Market and Octavia", "Hayes Valley" ]
+, [ 199, "F9C6D7AA-9480-4930-8375-135481DDB15F", 199, 1469789396, "930934", 1469789396, "930934", null, "201401095944", "831744", "1", "69", "SUMMIT", "WY", null, "69 SUMMIT WY", "7331", "5", "2", "2", "0.0", null, null, "INSTALL OVERHEAD FIRESPRINKLER SYSTEM PER NFPA 13 @ ADDRESS LISTED ABOVE. REFER TO MASTER PLAN C.\nUNDERGROUND TO BE DONE UNDER APP 2013 0701 0864\nPA #201209119425-700 BROTHERHOOD WAY", null, "2 FAMILY DWELLING", "COMPLETE", "12-Nov-14", null, "7331005", "Residential, House and Mixed", "RM-1", "13", null, "Oceanview/Merced/Ingleside" ]
+, [ 200, "45A1D0B1-66C2-4ABA-8FC4-233AD6E366BE", 200, 1469789396, "930934", 1469789396, "930934", null, "201203135986", "771646", "1", "701", "LONG BRIDGE", "ST", null, "701 LONG BRIDGE ST", "8711", "19", "188", "188", "0.0", null, null, "INDICATOR PILES FOR SITE PERMIT #2012-0207-3722", "VACANT LOT", "APARTMENTS", "PRE-FINAL", "24-Oct-14", null, "8711019", "Redevelopment Agency", "MB-RA", "9", "Mission Bay", "Mission Bay" ]
+, [ 201, "95183A55-8AB2-493F-A05F-98AB52E81592", 201, 1469789396, "930934", 1469789396, "930934", null, "201211134097", "793429", "3", "710", "COLE", "ST", null, "710 COLE ST", "1252", "46", "2", "1", "1", "SEC", "Homeowner", "CONVERT ART STUDIO TO A STUDIO APARTMENT AT LOWER FLOOR LEVEL.", "1 FAMILY DWELLING", "2 FAMILY DWELLING", "CFC ISSUED", "27-Jan-14", "SYOUNG", "1252046", "Residential, House and Mixed", "RH-3", "6", null, "Haight Ashbury" ]
+, [ 202, "98A8F872-676C-4ED5-8832-6C517AE8DE58", 202, 1469789396, "930934", 1469789396, "930934", null, "201107261096", "753639", "2", "72", "GOLD MINE", "DR", null, "72 GOLD MINE DR", "7520", "34", "1", "1", "0.0", null, null, "ERECT 3 STORY, NO BASEMENT, SINGLE FAMILY DWELLING BUILDING.", null, "1 FAMILY DWELLING", "COMPLETE", "19-Dec-14", "MSMITH", "7520034", "Residential, House and Mixed", "RH-1", "7", null, "Noe Valley" ]
+, [ 203, "D5CE05DC-FEFB-4C87-A9F1-DE050EDE472B", 203, 1469789396, "930934", 1469789396, "930934", null, "201403261729", "838658", "8", "721", "YORK", "ST", null, "721 YORK ST", "4079", "20", "2", "1", "1", "SEC", "Homeowner", "REMODEL KITCHEN IN BOTH UNITS. REMOVE & RELOCATE EXISTING BATHROOM. REMOVAL OF WALL IN KITCHEN AREA. REF #2004.0720.9268 & #2014.0312.0516.", "1 FAMILY DWELLING", "2 FAMILY DWELLING", "COMPLETE", "17-Dec-14", null, "4079020", "Residential, House and Mixed", "RH-2", "8", "Mission (EN)", "Mission" ]
+, [ 204, "42866B05-914B-4464-981F-511E6628B7A2", 204, 1469789396, "930934", 1469789396, "930934", null, "201004150330", "715916", "3", "727", "29TH", "AV", null, "727 29TH AV", "1615", "3", "2", "1", "1", "SEC", "Homeowner", "Add 820 Sq.ft. to lower level to create 2nd. unit. Add 470 sq.ft. to main level. Add 690 sq.ft. to upper level.", "1 FAMILY DWELLING", "2 FAMILY DWELLING", "COMPLETE", "29-Oct-14", "ASTARR", "1615003", "Residential, House and Mixed", "RH-2", "1", null, "Outer Richmond" ]
+, [ 205, "1AF4D2DE-B4B6-4E39-97EF-5EBD11FF04F6", 205, 1469789396, "930934", 1469789396, "930934", null, "201401216659", "832599", "8", "735", "CLAYTON", "ST", null, "735 CLAYTON ST", "1253", "9", "2", "-1", "0.0", null, null, "REVISE PA # 201312063597 - TO COMPLY WITH REMOVAL OF ILLEGAL UNIT C#201258902, PER PLAN \"AND CONVERT TO STORAGE\" AREA FOR THE UNIT.", "2 FAMILY DWELLING", "2 FAMILY DWELLING", "CFC ISSUED", "28-Jan-14", null, "1253009", "Residential, House and Mixed", "RH-3", "6", null, "Haight Ashbury" ]
+, [ 206, "B4067D95-6B8C-4F8E-A79B-ECE798DC9970", 206, 1469789396, "930934", 1469789396, "930934", null, "201205140388", "776831", "3", "740", "BAY", "ST", null, "740 BAY ST", "27", "8", "2", "1", "1", "SEC", "Homeowner", "RENOVATE EXIST 2 STORY BLDG. ADDITION OF 3RD STORY ABOVE EXIST 2ND STORY. CREATION OF A FLAT ROOF AREA 1' ABOVE EXIST. RIDGE LINE TOWARDS REAR OF BLDG. ADDITON OF A 2ND STORY, 13'X15' ATTACHED STRUCTURE AT REAR.", "1 FAMILY DWELLING", "2 FAMILY DWELLING", "COMPLETE", "16-Jul-14", "GCABRERO", "27008", "Residential, House and Mixed", "RH-3", "3", "Fisherman's Wharf", "Russian Hill" ]
+, [ 207, "158DDEA9-52CE-4648-A4BA-4DCC8E3D73B0", 207, 1469789396, "930934", 1469789396, "930934", null, "201405095405", "843071", "3", "75", "LANSING", "ST", null, "75 LANSING ST", "3749", "184", "3", "1", "1", "SEC", "Homeowner", "WORK @ UNIT# 1 ONLY. CONVERSION FROM OFFICE USE TO RESIDENTIAL USE @ GROUND FLOOR. (NO WORK).", "ARTIST LIVE/WORK", "APARTMENTS", "COMPLETE", "15-Oct-14", "JBANALES", "3749184", "Residential, Downtown", "RH DTR", "9", "Rincon Hill", "Financial District/South Beach" ]
+, [ 208, "71C484B3-30B5-43B9-A126-DB915734CB5F", 208, 1469789396, "930934", 1469789396, "930934", null, "201207245587", "783064", "3", "758", "SPRUCE", "ST", null, "758 SPRUCE ST", "1088", "22", "2", "1", "1", "SEC", "Homeowner", "3RD + 4TH FLOOR ADDITION. INTERIOR REMODEL. CONVERT SINGLE FAMILY HOME INTO TWO UNIT BUILDING. FIRE SPRINKER UNDER SEPARATE PERMIT.", "1 FAMILY DWELLING", "2 FAMILY DWELLING", "COMPLETE", "15-Oct-14", "GCABRERO", "1088022", "Residential, House and Mixed", "RH-3", "5", "Geary Corridor", "Lone Mountain/USF" ]
+, [ 209, "CA565E15-39A0-4BBD-8D94-9ACDA65E090A", 209, 1469789396, "930934", 1469789396, "930934", null, "201204057595", "773527", "3", "764", "17TH", "AV", null, "764 17TH AV", "1659", "30", "2", "1", "1", "SEC", "Homeowner", "CONSTRUCT 3-STORY REAR HORIZONTAL ADDITION FOR NEW LIVING SPACE W/ 2-LEVEL DECK. CONVERT (E) SINGLE FAMILY TO 2-FAMILY DWELLING W/ 2-PARKING SPACES. (N) FURNACES & WATER HEATER FOR EACH UNIT.", "1 FAMILY DWELLING", "2 FAMILY DWELLING", "COMPLETE", "15-Sep-14", "ASTARR", "1659030", "Residential, House and Mixed", "RH-2", "1", null, "Outer Richmond" ]
+, [ 210, "4957AC2D-EBC1-44DF-B127-E92489249E4D", 210, 1469789396, "930934", 1469789396, "930934", null, "201208036517", "784176", "1", "8", "OCTAVIA", "ST", "8 Octavia", "8 OCTAVIA ST", "855", "11", "49", "49", "7", "MOD", "Homeowner", "ERECT 47 UNITS, 8 STORIES, PARKING, ZXC TYPE 1 NEW BUILDING.", null, "APARTMENTS", "PRE-FINAL", "24-Dec-14", "AHOLLIST", "855011", "Neighborhood Commercial Transit", "HAYES NCT/NCT-3", "6", "Market and Octavia", "Hayes Valley" ]
+, [ 211, "4607A8C4-A022-493F-8DC2-A1BCBD8DEB5E", 211, 1469789396, "930934", 1469789396, "930934", null, "201406300058", null, "8", "80", "MISSOURI", "ST", null, "80 MISSOURI ST", "3951", "5", "0", "2", "0.0", null, null, "TO OBTAIN A FINAL INSPECTION FOR WORK ALREADY APPROVED UNDER PA# 9025853, ALL WORK IS COMPLETE.", "WAREHOUSE,NO FRNITUR", "ARTIST LIVE/WORK", "COMPLETE", "11-Jul-14", null, "3951005", "Eastern Neighborhoods Mixed Use", "UMU", "9", "Eastern Neighborhoods w/Valencia", "Mission Bay" ]
+, [ 212, "20276BA7-FD69-452E-9EF8-7D9561D22A36", 212, 1469789396, "930934", 1469789396, "930934", null, "201403261781", "838715", "8", "80", "SYCAMORE", "ST", null, "80 SYCAMORE ST", "3576", "76", "2", "-1", "0.0", null, null, "FOR ADMINISTRATIVE PURPOSES ONLY TO DOCUMENT ILLEGAL USE & OCCUPANCY OF BUILDING AS A THREE (3) STORY, TWO (2) UNIT BLDG. DETERMINATION IS BASED ON SITE VISIT & REVIEW OF CITY RECORDS INCLUDING SANBORN MAPS AND ASSESSORS' RECORDS. NO WORK ON THIS PERMIT.", "2 FAMILY DWELLING", "2 FAMILY DWELLING", "CFC ISSUED", "31-Mar-14", null, "3576076", "Residential, Transit Oriented", "RTO-Mission", "8", "Mission (EN)", "Mission" ]
+, [ 213, "9A0B25B7-AE8A-4102-BAB9-7BEC1FD84950", 213, 1469789396, "930934", 1469789396, "930934", null, "201206152694", "779619", "3", "807", "LYON", "ST", null, "807 LYON ST", "1150", "7", "3", "1", "1", "SEC", "Homeowner", "COMPLY WITH  N.O.V.#201288233. Legalize 3rd. unit @ ground floor.", "2 FAMILY DWELLING", "APARTMENTS", "CFC ISSUED", "21-Apr-14", "MWOODS", "1150007", "Residential, House and Mixed", "RH-3", "5", null, "Lone Mountain/USF" ]
+, [ 214, "F45A871F-A39E-49CB-BD39-58809D13DBF6", 214, 1469789396, "930934", 1469789396, "930934", null, "201401287218", "833279", "8", "807", "ROLPH", "ST", null, "807 ROLPH ST", "6396", "20", "1", "-1", "0.0", null, null, "TO COMPLY W/ NOV#20133451. REPAIR DECK @ REAR SIDE. CONVERT 2ND FL KITCHEN TO FAMILY ROOM. REMOVE ILLEGAL 2 STORAGE ROOM. REMOVE (E) FRONT DOOR GARAGE TO A NEW GARAGE DOOR. INSTALL RAILING FROM 1ST FL TO 2ND FL. MINOR ELECTRICAL WORK.", "1 FAMILY DWELLING", "1 FAMILY DWELLING", "CFC ISSUED", "04-Apr-14", "EOROPEZA", "6396020", "Residential, House and Mixed", "RH-1", "12", null, "Excelsior" ]
+, [ 215, "61CAA7BA-CC5E-4461-81C1-F0AB43EA9F2E", 215, 1469789396, "930934", 1469789396, "930934", null, "9410161", "235343", "6", "814", "HAYES", "ST", null, "814 HAYES ST", "804", "7", "-1", "-1", "0.0", null, null, "DEMOLISH SINGLE FAMILY DWELLING", "1 FAMILY DWELLING", null, "COMPLETE", "04-Mar-14", "MP", "804007", "Residential, House and Mixed", "RM-1", "5", null, "Hayes Valley" ]
+, [ 216, "A1EDE918-DEE5-45C6-A8A1-AA37BC978709", 216, 1469789396, "930934", 1469789396, "930934", null, "201304245354", "806884", "2", "827", "NORTH POINT", "ST", null, "827 NORTH POINT ST", "26", "30", "3", "3", "0.0", null, null, "INSTALL AUTO FIRE SPRINKLER ON ENTIRE BUILDING per NFPA 13 through-out building with 2\" fire service of 8\" main on North Point, REF NEW CONSTRUCTION #2011.11.07.8462 - INCLUDES UNDERGROUND", null, "APARTMENTS", "COMPLETE", "28-May-14", null, "26030", "Residential, House and Mixed", "RH-3", "3", "Fisherman's Wharf", "Russian Hill" ]
+, [ 217, "CD453C98-71C6-4FF8-8325-224ED0E4FFD9", 217, 1469789396, "930934", 1469789396, "930934", null, "201303222853", "803909", "1", "833", "JAMESTOWN", "AV", "Candlestick Heights", "833 JAMESTOWN AV", "4991", "277", "12", "12", "12", "LI", "Family", "BLDG# 1. (N) OVERHEAD FIRE SPRINKLER TO NFPA 13. (REF APPLN #2001 0323 5127).  EXISTING UNDERGROUND.", null, "APARTMENTS", "COMPLETE", "27-Mar-14", null, "4991277", "Residential, House and Mixed", "RH-2", "10", "Bayview Hunters Point", "Bayview Hunters Point" ]
+, [ 218, "BA5A4190-55A8-476E-8AB5-030B2BE9059E", 218, 1469789396, "930934", 1469789396, "930934", null, "201303222861", "803918", "1", "837", "JAMESTOWN", "AV", "Candlestick Heights", "837 JAMESTOWN AV", "4991", "277", "10", "10", "10", "LI", "Family", "BLDG# 8. (N) OVERHEAD FIRE SPRINKLERS AND STANDPIPES PER NFPA 13. (REF APPLN #2001 0323 5131).  EXISTING UNDERGROUND.", null, "APARTMENTS", "COMPLETE", "27-Mar-14", null, "4991277", "Residential, House and Mixed", "RH-2", "10", "Bayview Hunters Point", "Bayview Hunters Point" ]
+, [ 219, "4281606F-0F21-4B75-A870-29CFAEA2E3B0", 219, 1469789396, "930934", 1469789396, "930934", null, "201303222859", "803915", "1", "843", "JAMESTOWN", "AV", "Candlestick Heights", "843 JAMESTOWN AV", "4991", "277", "18", "18", "18", "LI", "Family", "BLDG# 2. (N) FIRE SPRINKLER SYSTEM INSTALLATION. TO CONNECT TO EXISTING UNDERGROUND. (REF. ARCH. APP # 99240755.", null, "APARTMENTS", "COMPLETE", "27-Mar-14", null, "4991277", "Residential, House and Mixed", "RH-2", "10", "Bayview Hunters Point", "Bayview Hunters Point" ]
+, [ 220, "70206074-61F6-4368-BCAD-EABC2D060684", 220, 1469789396, "930934", 1469789396, "930934", null, "201208298537", "786598", "2", "850", "BRUNSWICK", "ST", null, "850 BRUNSWICK ST", "6472", "76", "1", "1", "0.0", null, null, "ERECT 2-STORY TYPE V SINGLE FAMILY DWELLING BUILDING", null, "1 FAMILY DWELLING", "CFC ISSUED", "28-Apr-14", "TWANG", "6472076", "Residential, House and Mixed", "RH-1", "12", null, "Excelsior" ]
+, [ 221, "98AE21FF-C7C2-41D5-A63A-0C4A479D892F", 221, 1469789396, "930934", 1469789396, "930934", null, null, null, "1", "851", "JAMESTOWN", "AV", "Candlestick Heights", "851 JAMESTOWN AV", "4991", "277", "12", "12", "12", "LI", "Family", null, null, "APARTMENTS", "COMPLETE", "20-Aug-14", null, "4991277", "Residential, House and Mixed", "RH-2", "10", "Bayview Hunters Point", "Bayview Hunters Point" ]
+, [ 223, "9DAA4F5D-9E24-4D68-97B3-21A6070FAB08", 223, 1469789396, "930934", 1469789396, "930934", null, null, null, "1", "869", "JAMESTOWN", "AV", "Candlestick Heights", "869 JAMESTOWN AV", "4991", "277", "8", "8", "8", "LI", "Family", null, null, "APARTMENTS", "COMPLETE", "17-Mar-14", null, "4991277", "Residential, House and Mixed", "RH-2", "10", "Bayview Hunters Point", "Bayview Hunters Point" ]
+, [ 224, "CCEFCF59-6E39-4DB5-B52D-29D540416EEA", 224, 1469789396, "930934", 1469789396, "930934", null, null, null, "1", "871", "JAMESTOWN", "AV", "Candlestick Heights", "871 JAMESTOWN AV", "4991", "277", "18", "18", "18", "LI", "Family", null, null, "APARTMENTS", "COMPLETE", "18-Aug-14", null, "4991277", "Residential, House and Mixed", "RH-2", "10", "Bayview Hunters Point", "Bayview Hunters Point" ]
+, [ 225, "66859D10-AF6E-461C-9B20-D835A2381CE3", 225, 1469789396, "930934", 1469789396, "930934", null, "201404254194", "841594", "8", "875", "POST", "ST", null, "875 POST ST", "303", "14", "50", "4", "0.0", null, null, "FIRE ALARM SYSTEM T. I. ADDING TO EXTG FIRE ALARM. REF APP#201310310811. N/A FOR THE MAHER ORDINANCE #155-13", "TOURIST HOTEL/MOTEL", "RESIDENTIAL HOTEL", "COMPLETE", "21-May-14", null, "303014", "Commercial", "RC-4", "4", null, "Tenderloin" ]
+, [ 226, "0C24D024-3952-4852-8169-2364689D5A08", 226, 1469789396, "930934", 1469789396, "930934", null, null, null, "1", "881", "JAMESTOWN", "AV", "Candlestick Heights", "881 JAMESTOWN AV", "4991", "277", "18", "18", "18", "LI", "Family", null, null, "APARTMENTS", "COMPLETE", "18-Aug-14", null, "4991277", "Residential, House and Mixed", "RH-2", "10", "Bayview Hunters Point", "Bayview Hunters Point" ]
+, [ 227, "EE782205-7479-461A-9E59-0FE3EC323470", 227, 1469789396, "930934", 1469789396, "930934", null, "201405014671", "842157", "1", "900", "FOLSOM", "ST", "Mosso", "900 FOLSOM ST", "3732", "9", "282", "282", "40", "LI", "Family", "EVACUATION MAPS FOR WHOLE BLDG. ON ALL FLOORS- 67 MAPS. COMPLIANCE WITH ORDINANCE #155-13 NOT REQUIRED- CONSTRUCTION UNDER 201106017208.", "VACANT LOT", "APARTMENTS", "PRE-FINAL", "23-Jun-14", null, "3732009", "Eastern Neighborhoods Mixed Use", "MUR", "9", "Eastern Neighborhoods w/Valencia", "South of Market" ]
+, [ 228, "6B9F3495-AD3A-4E63-930B-CD587BD894AE", 228, 1469789396, "930934", 1469789396, "930934", "{\n  \"invalidCells\" : {\n    \"37573029\" : \"9307181S\"\n  }\n}", null, "210537", "3", "946", "WISCONSIN", "ST", null, "946 WISCONSIN ST", "4161", "19", "2", "1", "1", "SEC", "Homeowner", "VERTICAL ADDITION.", "1 FAMILY DWELLING", "2 FAMILY DWELLING", "COMPLETE", "04-Jun-14", "JBANALES", "4161019", "Residential, House and Mixed", "RH-2", "9", "Eastern Neighborhoods w/Valencia", "Potrero Hill" ]
+, [ 229, "146D0735-E061-4619-AC02-2BD40521993E", 229, 1469789396, "930934", 1469789396, "930934", null, "201408053099", "852246", "8", "973", "MARKET", "ST", "The Wilson", "973 MARKET ST", "3704", "69", "66", "66", "7", "LI", "Family", "TO OBTAIN FINAL INSPECTION FOR WORK APPROVED UNDER PA# 200509082313.  ALL WORK IS COMPLETE.", "APARTMENTS", "APARTMENTS", "COMPLETE", "08-Sep-14", null, "3704069", "Commercial", "C-3-G", "4", "Mid-Market", "South of Market" ]
+ ]
+}
